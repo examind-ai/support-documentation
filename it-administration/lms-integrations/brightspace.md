@@ -58,6 +58,8 @@ Leave blank
 {% endtab %}
 {% endtabs %}
 
+***
+
 ## Step 2: Link Assessment
 
 Go to a course in Brightspace, then select **Existing Activities**, then **EXAMIND** (or a different name selected during **LTI Tool Installation**):

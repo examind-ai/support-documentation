@@ -16,7 +16,7 @@ Click on Register LTI 1.3/Advantage Tool.
 
 <figure><img src="../../.gitbook/assets/register-lti-panel-png (1).webp" alt=""><figcaption></figcaption></figure>
 
-The Client ID will differ depending on whether you're connecting to EXAMIND's Data Center in Canada or the USA. Please contact **support@examind.io** to request the Client ID.
+The Client ID will differ depending on whether you're connecting to EXAMIND's Data Center in Canada or the USA. Please contact [**support@examind.io**](mailto:support@examind.io) to request the Client ID.
 
 After submitting, you will see the Modify LTI 1.3 Tool: EXAMIND panel, where most fields will be automatically filled. Make sure to set the Domain correctly to either lti.examind.io or lti-ca.examind.io. The tool status should be set to Approved.
 
