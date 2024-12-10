@@ -2,6 +2,12 @@
 
 * [Welcome](README.md)
 
+## Delivery & Logistics
+
+* [Live View](delivery-and-logistics/live-view.md)
+* [Offline Behavior](delivery-and-logistics/offline-behavior.md)
+* [Scheduling](delivery-and-logistics/scheduling.md)
+
 ## Dynamic Questions
 
 * [Dynamic Questions Intro](dynamic-questions/dynamic-questions-intro.md)
