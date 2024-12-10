@@ -1,6 +1,6 @@
 ---
-description: This article shows you how to leverage Live View during an assessment.
 icon: server
+description: This article shows you how to leverage Live View during an assessment.
 ---
 
 # Live View
@@ -17,7 +17,7 @@ Follow these steps to access Live View:
 2. Select the desired assessment
 3. From the left-hand menu, select **Live View**
 
-### **Tabs**
+### **Tab Views**
 
 There are threes sections in Live View.
 
@@ -81,7 +81,7 @@ Instructors can also use this information to identify usual behavior
 {% endtab %}
 {% endtabs %}
 
-## Live View Controls
+## Live Control
 
 There are two ways to access live view controls:
 
