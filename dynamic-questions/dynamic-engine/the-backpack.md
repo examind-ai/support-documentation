@@ -1,5 +1,6 @@
 ---
 description: This article will teach you about the Backpack in our Dynamic Engine.
+icon: backpack
 ---
 
 # The Backpack
