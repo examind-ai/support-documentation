@@ -1,6 +1,0 @@
----
-icon: calendars
----
-
-# Scheduling
-

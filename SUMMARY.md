@@ -4,9 +4,10 @@
 
 ## Delivery & Logistics
 
+* [Schedule](delivery-and-logistics/schedule.md)
+* [Tactical Deterrents](delivery-and-logistics/tactical-deterrents.md)
 * [Live View](delivery-and-logistics/live-view.md)
 * [Offline Behavior](delivery-and-logistics/offline-behavior.md)
-* [Scheduling](delivery-and-logistics/scheduling.md)
 
 ## Dynamic Questions
 
