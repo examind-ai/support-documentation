@@ -1,6 +1,6 @@
 ---
-description: Learn about the Dynamic Engine inside of EXAMIND.
 icon: dice-d8
+description: Learn about the Dynamic Engine inside of EXAMIND.
 ---
 
 # Dynamic Engine
@@ -17,7 +17,7 @@ EXAMIND can help you personalize questions at scale.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>"<strong>Excel" Blocks</strong></td><td>Build with functions from Microsoft Excel</td><td></td><td><a href="excel.md">excel.md</a></td></tr><tr><td><strong>"Logic" Blocks</strong></td><td>Unlock scenarios and situational control</td><td></td><td></td></tr><tr><td><strong>"Loops" Blocks</strong></td><td>Tighten your control of variables even further</td><td></td><td><a href="loops.md">loops.md</a></td></tr><tr><td><strong>"Functions" Blocks</strong></td><td>Build reusable blocks for future questions</td><td></td><td></td></tr></tbody></table>
 
-## Extras
+## Get Efficient
 
 
 
