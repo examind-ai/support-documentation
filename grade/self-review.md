@@ -1,10 +1,11 @@
 ---
 icon: book
+description: This article shows you how to allow students to review an assessment.
 ---
 
 # Self Review
 
-### Accessing Self Review
+## Accessing Self Review
 
 Follow these steps to access Self Review:
 
@@ -12,26 +13,28 @@ Follow these steps to access Self Review:
 2. Select the desired assessment
 3. From the left-hand menu, select **Self Review**
 
-### Add Availability Windows
+## Availability Windows
 
-Select **+ ADD AVAILABILITY** and enter the availability window for self review with start and end dates. The availability window can be set for everyone, by student, or by section.
+Click **+ ADD AVAILABILITY** and enter the availability window for self review with start and end dates. The availability window can be set for everyone, by student, or by section.
 
 {% hint style="info" %}
-To create additional availability windows select the "+ New" tab.&#x20;
+Click the **+ New** tab to add additional availability windows.&#x20;
 {% endhint %}
 
-### Configure Review Settings&#x20;
+## Review Settings&#x20;
 
-Self Review has two options:
+Self Review Settings has two options:
 
 1. Answer Key
 2. Answer Explanation
 
 {% hint style="info" %}
-By toggling on and off each option you can preview how each option appears to students in the Example Preview o your Settings.&#x20;
+Toggle options to preview how students see each question in their review.
 {% endhint %}
 
 **Answer Key**: By default, when Answer Key is toggled off, the student will only see the correct answer. When Answer Key is toggled on, the student will see the answer they selected and the correct answer choice.
+
+Students will only see their answer when the answer key is turned off. When the answer key is turned on, they will see both their answer and the correct answer.&#x20;
 
 **Answer Explanation**: By default, the Answer Explanation is turned off. If the Answer Explanation is toggled on the student will be given the information that is included in the explanation text box located in the question builder:
 
