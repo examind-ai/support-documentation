@@ -55,6 +55,7 @@
 
 * [Results](grade/results.md)
 * [Point Adjustment](grade/point-adjustment.md)
+* [Self Review](grade/self-review.md)
 
 ## IT Administration
 
