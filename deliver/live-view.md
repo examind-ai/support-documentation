@@ -1,6 +1,6 @@
 ---
 icon: server
-description: This article shows you how to leverage Live View during an assessment.
+description: This article shows you how to control logistics during a live assessment.
 ---
 
 # Live View
@@ -11,11 +11,9 @@ Live View is a feature within EXAMIND that gives instructors visibility into wha
 
 ### Accessing Live View
 
-Follow these steps to access Live View:
-
-1. Navigate to the assessment tab by clicking on Assessments within your course
+1. Click Assessments in the left menu
 2. Select the desired assessment
-3. From the left-hand menu, select **Live View**
+3. Select **Live View** in the left menu
 
 ### **Tab Views**
 
