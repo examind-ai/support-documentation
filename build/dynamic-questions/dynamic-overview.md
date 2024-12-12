@@ -1,11 +1,11 @@
 ---
+icon: graduation-cap
 description: >-
   This article will introduce to the concept of a dynamic question and explain
   why they are so important in ensuring academic integrity.
-icon: graduation-cap
 ---
 
-# Dynamic Questions Intro
+# Dynamic Overview
 
 ## Introduction
 
@@ -39,11 +39,11 @@ Rather than trying to stop the “act” of cheating, dynamic questions focus on
 
 Dynamic questions are not that complicated. Let’s go through an example. Below is a question based on an introduction course in accounting. But don’t worry if you never studied accounting. That’s not the point.The point is to show you how variables can be changed and explain their purpose.
 
-<figure><img src="../.gitbook/assets/60e43e8d3135096ad9a3f593_LR4SRlAWVjyrjiZtwHttQdsjT8cwWgPeVrCPo1mGT1U9x2IFHePZylRqp2hdogQtoSkJG0p-3pYXXSYEeOzn1MwGjUHKs_eLwOzIGoZHBgaZvhterO0YMY9L0mzHMQ.webp" alt=""><figcaption><p>Example of a multiple-choice question</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/60e43e8d3135096ad9a3f593_LR4SRlAWVjyrjiZtwHttQdsjT8cwWgPeVrCPo1mGT1U9x2IFHePZylRqp2hdogQtoSkJG0p-3pYXXSYEeOzn1MwGjUHKs_eLwOzIGoZHBgaZvhterO0YMY9L0mzHMQ.webp" alt=""><figcaption><p>Example of a multiple-choice question</p></figcaption></figure>
 
 Above is the original question with no dynamic variables. It doesn’t look much different than any other original (normal) question you might have on one of your exams, right? That’s by design. Dynamic questions don’t look or feel any different to a student on purpose. Now, here is the same question with the dynamic variables highlighted for you:
 
-<figure><img src="../.gitbook/assets/60e43ea6010f6b39ade28801_aMBtPrd-4Rg2lanCuTYtSyEkfHNjodGgf_P_dWNqahupxYI22aTg5g7D9xsO4_HX_MR3nw5P4as3H9imSa1M9NS_WC7ZEfSPnMcBE_kZ44-M-AqoQSfYH-Zax01Dlg-1.webp" alt=""><figcaption><p>Example of a dynamic multiple-choice question</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/60e43ea6010f6b39ade28801_aMBtPrd-4Rg2lanCuTYtSyEkfHNjodGgf_P_dWNqahupxYI22aTg5g7D9xsO4_HX_MR3nw5P4as3H9imSa1M9NS_WC7ZEfSPnMcBE_kZ44-M-AqoQSfYH-Zax01Dlg-1.webp" alt=""><figcaption><p>Example of a dynamic multiple-choice question</p></figcaption></figure>
 
 Notice that all of these highlighted variables have the potential to be changed into something else. By turning the highlighted variables into randomized parameters, we can make a large number of question variants from just this one original question. Are you starting to see the potential?
 
@@ -99,7 +99,7 @@ I’m pretty sure I don’t need to explain this one - just write your own quest
 
 What I like to do is take a second to plan my variables. I usually write some ideas on a piece of paper. But generally speaking, this is what I do:
 
-<figure><img src="../.gitbook/assets/60ee11da39fab445f55b22ee_Screen Shot 2021-07-13 at 3.20.35 PM.webp" alt=""><figcaption><p>Table of variables and thought process</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/60ee11da39fab445f55b22ee_Screen Shot 2021-07-13 at 3.20.35 PM.webp" alt=""><figcaption><p>Table of variables and thought process</p></figcaption></figure>
 
 First, I pick which variables I want to change. Then, I give them a name so I remember when I’m building the rules. Lastly, I think about what rules I want the variable to follow.
 

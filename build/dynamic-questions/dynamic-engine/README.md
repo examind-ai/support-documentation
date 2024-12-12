@@ -1,5 +1,5 @@
 ---
-icon: dice-d8
+icon: engine
 description: Learn about the Dynamic Engine inside of EXAMIND.
 ---
 

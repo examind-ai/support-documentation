@@ -92,16 +92,16 @@ Datasets can be select by clicking the dropdown menu next to the word "random". 
 
 Consider the following Multiple Choice question in EXAMIND.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-05 at 4.55.36 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 4.55.36 PM.png" alt=""><figcaption></figcaption></figure>
 
 The goal with this question is to create independent variables that don't affect the question. These variables enable EXAMIND to identify the source of leaked content (if this question appears online). This works because each student is served a unique permutation of the question.\
 \
 Here is what the Dynamic Engine would look like:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-05 at 4.55.19 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 4.55.19 PM.png" alt=""><figcaption></figcaption></figure>
 
 Here is what a sample question would look like (values highlighted in blue for convenience):
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-05 at 4.56.55 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 4.56.55 PM.png" alt=""><figcaption></figcaption></figure>
 
 \

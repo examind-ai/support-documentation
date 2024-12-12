@@ -64,16 +64,16 @@ The options for the **#** dropdown do the following:
 
 Consider the following Multiple Choice question in EXAMIND.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-05 at 5.41.35 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 5.41.35 PM.png" alt=""><figcaption></figcaption></figure>
 
 The goal of this question is to add a custom list of long-term assets can current assets.
 
 Here is what the Dynamic Engine would look like:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-05 at 5.44.59 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 5.44.59 PM.png" alt=""><figcaption></figcaption></figure>
 
 In this example, we use the **create list with** block to generate a list of values and the **in list get** block to assign a random value to the variable Long-term-Asset". Then, we use the **get and remove** feature to pull values for Current Asset 1 and Current Asset 2.
 
 Here is what the sample question would look like (values highlighted in blue for convenience):
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-05 at 5.41.53 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 5.41.53 PM.png" alt=""><figcaption></figcaption></figure>

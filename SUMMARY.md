@@ -2,26 +2,59 @@
 
 * [Welcome](README.md)
 
-## Delivery & Logistics
+## Get Started
 
-* [Schedule](delivery-and-logistics/schedule.md)
-* [Tactical Deterrents](delivery-and-logistics/tactical-deterrents.md)
-* [Live View](delivery-and-logistics/live-view.md)
-* [Offline Behavior](delivery-and-logistics/offline-behavior.md)
+* [Standalone Use](get-started/standalone-use/README.md)
+  * [Sign-in](get-started/standalone-use/sign-in.md)
+  * [Course Management](get-started/standalone-use/course-management.md)
+  * [Roster Management](get-started/standalone-use/roster-management.md)
+  * [Grades Management](get-started/standalone-use/grades-management.md)
+* [LMS Integrated](get-started/lms-integrated/README.md)
+  * [Assessment Deeplink](get-started/lms-integrated/assessment-deeplink.md)
+  * [Grade Sync](get-started/lms-integrated/grade-sync.md)
+* [Information for Students](get-started/information-for-students.md)
 
-## Dynamic Questions
+## Build
 
-* [Dynamic Questions Intro](dynamic-questions/dynamic-questions-intro.md)
-* [Dynamic Engine](dynamic-questions/dynamic-engine/README.md)
-  * [Variables](dynamic-questions/dynamic-engine/variables.md)
-  * [Math](dynamic-questions/dynamic-engine/math.md)
-  * [Text](dynamic-questions/dynamic-engine/text.md)
-  * [Lists](dynamic-questions/dynamic-engine/lists.md)
-  * [Excel](dynamic-questions/dynamic-engine/excel.md)
-  * [Logic](dynamic-questions/dynamic-engine/logic.md)
-  * [Loops](dynamic-questions/dynamic-engine/loops.md)
-  * [Functions](dynamic-questions/dynamic-engine/functions.md)
-  * [The Backpack](dynamic-questions/dynamic-engine/the-backpack.md)
+* [Question Bank](build/question-bank/README.md)
+  * [Import](build/question-bank/import.md)
+  * [Share](build/question-bank/share.md)
+  * [Question Pools](build/question-bank/question-pools.md)
+* [Question Builder](build/question-builder/README.md)
+  * [Builder Overview](build/question-builder/builder-overview.md)
+  * [Question Types](build/question-builder/question-types/README.md)
+    * [Multiple Choice](build/question-builder/question-types/multiple-choice.md)
+    * [Multiple Answer](build/question-builder/question-types/multiple-answer.md)
+    * [Matching](build/question-builder/question-types/matching.md)
+    * [Fill-in-the-blank](build/question-builder/question-types/fill-in-the-blank.md)
+    * [Short Answer](build/question-builder/question-types/short-answer.md)
+    * [Journal Entry](build/question-builder/question-types/journal-entry.md)
+    * [Financial Statement](build/question-builder/question-types/financial-statement.md)
+    * [Excel Workbook](build/question-builder/question-types/excel-workbook.md)
+* [Dynamic Questions](build/dynamic-questions/README.md)
+  * [Dynamic Overview](build/dynamic-questions/dynamic-overview.md)
+  * [Dynamic Engine](build/dynamic-questions/dynamic-engine/README.md)
+    * [Variables](build/dynamic-questions/dynamic-engine/variables.md)
+    * [Math](build/dynamic-questions/dynamic-engine/math.md)
+    * [Text](build/dynamic-questions/dynamic-engine/text.md)
+    * [Lists](build/dynamic-questions/dynamic-engine/lists.md)
+    * [Excel](build/dynamic-questions/dynamic-engine/excel.md)
+    * [Logic](build/dynamic-questions/dynamic-engine/logic.md)
+    * [Loops](build/dynamic-questions/dynamic-engine/loops.md)
+    * [Functions](build/dynamic-questions/dynamic-engine/functions.md)
+    * [The Backpack](build/dynamic-questions/dynamic-engine/the-backpack.md)
+
+## Deliver
+
+* [Schedule](deliver/schedule.md)
+* [Live View](deliver/live-view.md)
+* [Offline Behavior](deliver/offline-behavior.md)
+* [Tactical Deterrents](deliver/tactical-deterrents.md)
+
+## Grade
+
+* [Results](grade/results.md)
+* [Point Adjustment](grade/point-adjustment.md)
 
 ## IT Administration
 
@@ -32,6 +65,7 @@
   * [Canvas](it-administration/lms-integrations/canvas.md)
   * [Moodle](it-administration/lms-integrations/moodle.md)
 * [HECVAT Documentation](it-administration/hecvat-documentation.md)
+* [IT Support](it-administration/it-support.md)
 
 ## Getting Started
 
