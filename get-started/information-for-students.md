@@ -1,6 +1,6 @@
 ---
+icon: circle-info
 description: This article provides information you can share with your students
-icon: info
 ---
 
 # Information for Students
