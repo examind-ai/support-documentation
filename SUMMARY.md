@@ -68,6 +68,6 @@
 * [HECVAT Documentation](it-administration/hecvat-documentation.md)
 * [IT Support](it-administration/it-support.md)
 
-## Getting Started
+## Gitbook Notes
 
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Publish your docs](gitbook-notes/publish-your-docs.md)
