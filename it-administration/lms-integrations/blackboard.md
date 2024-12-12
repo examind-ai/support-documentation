@@ -4,7 +4,9 @@ description: This article shows you how to install EXAMIND using LTI in Blackboa
 
 # Blackboard
 
+{% hint style="info" %}
 The following set of instructions apply for both Blackboard Classic and Blackboard Ultra.
+{% endhint %}
 
 ## Step 1: Registration
 

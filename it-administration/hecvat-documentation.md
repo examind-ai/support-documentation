@@ -7,5 +7,4 @@ description: This article shows you how to obtain a copy of EXAMIND's latest HEC
 
 ## HECVAT/VPAT Request
 
-To obtain a copy of our latest HECVAT evaluation, including accompanying VPAT, please contact us at [support@examind.io](mailto:support@examind.io)
-
+Please email [support@examind.io](mailto:support@examind.io) to obtain a copy of our latest HECVAT and VPAT
