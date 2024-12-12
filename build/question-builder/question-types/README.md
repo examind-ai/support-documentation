@@ -1,6 +1,6 @@
 ---
 icon: atom-simple
-description: This section helps IT teams configure their LMS integrations with EXAMIND.
+description: This section helps instructors learn more about question types in EXAMIND.
 ---
 
 # Question Types
