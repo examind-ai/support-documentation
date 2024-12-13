@@ -12,8 +12,8 @@ Live View is a feature within EXAMIND that gives instructors visibility into wha
 ### Accessing Live View
 
 1. Click Assessments in the left menu
-2. Select the desired assessment
-3. Select **Live View** in the left menu
+2. Click the desired assessment
+3. Click **Live View** in the left menu
 
 ### **Tab Views**
 
