@@ -21,7 +21,7 @@ There are two kinds of _excel_ blocks you can use in the Dynamic Engine:
 
 The **financial function** block supports the following financial functions:
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2024-06-04 at 10-51-05 AM-png.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-04 at 10-51-05 AM-png.webp" alt=""><figcaption></figcaption></figure>
 
 * **DB**: Returns the depreciation of an asset for a specified period using the fixed-declining balance method.
 * **DDB**: Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.
@@ -43,7 +43,7 @@ For specific rules and syntax of financial functions, refer to [Microsoft's Supp
 
 The **statistical function** block supports the following financial functions:
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2024-06-04 at 10-52-03 AM-png.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-04 at 10-52-03 AM-png.webp" alt=""><figcaption></figcaption></figure>
 
 * **CORREL**: Returns the correlation coefficient of two cell ranges. Use the correlation coefficient to determine the relationship between two properties. For example, you can examine the relationship between a location's average temperature and the use of air conditioners.
 * **COVARIANCE.P**: Returns population covariance, the average of the products of deviations for each data point pair in two data sets. Use covariance to determine the relationship between two data sets. For example, you can examine whether greater income accompanies greater levels of education.
@@ -64,13 +64,13 @@ For specific rules and syntax of financial functions, refer to [Microsoft's Supp
 
 Consider the following Multiple Choice question in EXAMIND.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 10.43.46 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 10.43.46 AM.png" alt=""><figcaption></figcaption></figure>
 
 This question will allow us to use the Declining Balance function Excel Block.
 
 Here is what the Dynamic Engine would look like:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 10.47.21 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 10.47.21 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 EXAMIND mirrors the idiosyncratic behaviour that comes with functions in Excel, such as a requirement for a value that is not "0" in the salvage value in the DB example above. You can blame Microsoft for that.
@@ -78,4 +78,4 @@ EXAMIND mirrors the idiosyncratic behaviour that comes with functions in Excel, 
 
 Here is what the sample question would look like (values highlighted in blue for convenience):
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 10.44.00 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 10.44.00 AM.png" alt=""><figcaption></figcaption></figure>

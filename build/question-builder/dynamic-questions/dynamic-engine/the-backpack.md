@@ -11,7 +11,7 @@ The **Backpack** allows you to store and transfer blocks across different questi
 
 The backpack is an icon in the top right of the Dynamic Engine. It looks like this:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 4.44.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.44.39 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## How It Works
 

@@ -86,19 +86,19 @@ If you want to round to a specific number of decimal places, you'll need to mult
 
 Consider the following Multiple Choice question in EXAMIND:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 4.42.41 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-05 at 4.42.41 PM.png" alt=""><figcaption></figcaption></figure>
 
 The goal of this question is to change the data for each student.\
 \
 Here is what the Dynamic Engine would look like:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 4.46.25 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-05 at 4.46.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 What's happening here is that the Dynamic Engine is generating 3 random numbers within specified limits, it then creates three answer options, two of which are functional distractors with those random numbers.\
 \
 Here is what the sample question would look like (values highlighted in blue for convenience):
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-05 at 4.47.43 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-05 at 4.47.43 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 EXAMIND's dynamic engine will never allow two choices to be identical for answer choices in an exam question

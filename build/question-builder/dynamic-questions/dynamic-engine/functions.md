@@ -25,11 +25,11 @@ You first have to **set** the function, and then you'll **get** the function to 
 
 For example, let's say you like to randomize names in most of your questions. Sometimes you want to use a first name, sometimes a last name, and sometimes a full name. Instead of building this for every question, you can simply create a to function. Here is an example:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 3.45.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 3.45.39 PM.png" alt=""><figcaption></figcaption></figure>
 
 Anything that you can do inside of the Dynamic Engine, you can put inside of a function. To call the function, all you have to do is use the **get** component of the function block. So all that work is now just a simple "Random Name" call and you're done:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 3.53.14 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 3.53.14 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Put your functions inside of [The Backpack](the-backpack.md) for easy retrieval across questions.
@@ -41,7 +41,7 @@ The **To Return** function in Blockly allows you to create reusable blocks of co
 
 Another way to think about the **To Return** function is a custom formula for a specific variable. For example, if we are always calculating straight-line depreciation, it is easier to have a function we can call up and just send the values.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 4.03.56 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.03.56 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 To keep things clean, right click a function and select "collapse block". This will give you more space to work.
@@ -49,7 +49,7 @@ To keep things clean, right click a function and select "collapse block". This w
 
 To **get** the calculation to work, we simple attached the function to a variable and its values:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 4.04.46 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.04.46 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -57,15 +57,15 @@ To **get** the calculation to work, we simple attached the function to a variabl
 
 Consider the following Fill-in-the-blank question in EXAMIND:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 4.17.36 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.17.36 PM.png" alt=""><figcaption></figcaption></figure>
 
 Here is what the Dynamic Engine would look like:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 4.17.52 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.17.52 PM.png" alt=""><figcaption></figcaption></figure>
 
 The **Random Name** and **Asset Purchase Data** functions would look like this:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 4.20.22 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.20.22 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Both the **set** and **get** part of a function needs to be in the Dynamic Engine to work properly
@@ -73,4 +73,4 @@ Both the **set** and **get** part of a function needs to be in the Dynamic Engin
 
 Here is what a sample question would look like (values highlighted in blue for convenience):
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-06 at 4.17.26 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.17.26 PM.png" alt=""><figcaption></figcaption></figure>
