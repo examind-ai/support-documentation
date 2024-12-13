@@ -74,7 +74,7 @@ Remember to click **Update** to save your settings
 
 <figure><img src="../../../.gitbook/assets/d04f72ce-533c-4c82-b317-658b010888dc.png" alt=""><figcaption></figcaption></figure>
 
-**Points:** The default total point value for this question in an assessment
+**Points:** The default total point value for this question in an assessment.
 
 **Error Tolerance (%)**: Enter the specified percentage of error tolerance that you will allow the auto grader to accept.
 

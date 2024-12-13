@@ -62,9 +62,9 @@ Remember to click **Update** to save your settings
 
 <figure><img src="../../../.gitbook/assets/73fb760a-88ea-490e-ae01-910f826d3978.png" alt=""><figcaption></figcaption></figure>
 
-**Points:** The default point value for this question in an assessment
+**Points:** The default point value for this question in an assessment.
 
-**Choices:** The total number of choices to display (ex. 4 would show choices A-D). Useful for increasing randomization
+**Choices:** The total number of choices to display (ex. 4 would show choices A-D). Useful for increasing randomization.
 
 **None of the above:** Add a "none of the above" answer choice to the bottom of each question and EXAMIND will randomly serve this as a correct answer choice.
 {% endstep %}

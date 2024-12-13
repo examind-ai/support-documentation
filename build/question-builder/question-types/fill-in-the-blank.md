@@ -30,7 +30,7 @@ EXAMIND is currently developing a new editor which will greatly enhance the capa
 
 {% stepper %}
 {% step %}
-### Write Your Question Stem
+### Add Fill-in-the-blank Block
 
 <figure><img src="../../../.gitbook/assets/3dff7874-eda9-44a0-8194-17d5ca39df1b.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -64,23 +64,23 @@ Use \{{moustache brackets\}} to add variables from the Dynamic Engine as accepta
 
 **Type:**
 
-* **Text:** Used for text-based answers
-* **Number:** Used for number-based answers
-* **Dropdown:** Used for creating a dropdown selection
+* **Text:** Used for text-based answers.
+* **Number:** Used for number-based answers.
+* **Dropdown:** Used for creating a dropdown selection.
 
 **Text Options:**
 
-* **Case Sensitive:** Check this to force answers to be case sensitive
-* **Error Tolerance (# of characters)**: Used to mitigate spelling mistakes
+* **Case Sensitive:** Check this to force answers to be case sensitive.
+* **Error Tolerance (# of characters)**: Used to mitigate spelling mistakes.
 
 **Number Options:**
 
-* **Min. Decimals Required:** Specify the number of decimals in the answer
-* **Error Tolerance (%)**: Used to mitigate rounding errors in calculations
+* **Min. Decimals Required:** Specify the number of decimals in the answer.
+* **Error Tolerance (%)**: Used to mitigate rounding errors in calculations.
 
 **Dropdown Options:**
 
-* **Distractors (1 per line):** Add distractors into your dropdown question
+* **Distractors (1 per line):** Add distractors into your dropdown question.
 {% endstep %}
 
 {% step %}
@@ -100,10 +100,9 @@ We encourage you to review how points and error tolerance are treated with the a
 
 ### Ensuring Academic Integrity
 
-* **Variations in Transactions:** Change the details or amounts for different student attempts.
 * **Dynamic Questions:** Use a combination of independent and dependent variables.
-* **Unique Scenarios:** Use a diverse set of transactions from multiple chapters or unit topics.
 * **Limited Time Windows:** Give students a set amount of time to complete the question.
+* **Variety of Answers:** For content that is easily guessable, consider using synonyms or less obvious blanks.
 
 ### Common Issues
 
