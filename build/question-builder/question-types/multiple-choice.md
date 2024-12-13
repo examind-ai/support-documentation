@@ -56,6 +56,10 @@ Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND 
 {% step %}
 ### Configure Settings
 
+{% hint style="info" %}
+Remember to click **Update** to save your settings
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/73fb760a-88ea-490e-ae01-910f826d3978.png" alt=""><figcaption></figcaption></figure>
 
 **Points:** The default point value for this question in an assessment
@@ -63,10 +67,6 @@ Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND 
 **Choices:** The total number of choices to display (ex. 4 would show choices A-D). Useful for increasing randomization
 
 **None of the above:** Add a "none of the above" answer choice to the bottom of each question and EXAMIND will randomly serve this as a correct answer choice.
-
-{% hint style="info" %}
-Remember to click **Update** to save your settings
-{% endhint %}
 {% endstep %}
 {% endstepper %}
 

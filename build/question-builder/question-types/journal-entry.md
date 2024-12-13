@@ -68,6 +68,12 @@ The list of accounts is presented alphabetically in a dropdown menu to students
 {% step %}
 ### Configure Settings
 
+{% hint style="info" %}
+Remember to click **Update** to save your settings
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/d04f72ce-533c-4c82-b317-658b010888dc.png" alt=""><figcaption></figcaption></figure>
+
 **Points:** The default total point value for this question in an assessment
 
 **Error Tolerance (%)**: Enter the specified percentage of error tolerance that you will allow the auto grader to accept.
@@ -75,12 +81,6 @@ The list of accounts is presented alphabetically in a dropdown menu to students
 **No Entry Required Correct**: Check this box if "No Entry Required" is the correct answer. You will need to provide at least two distractor accounts if this box is checked.
 
 **No Entry Required Distractor**: By default the "No Entry Required" will appear as a distractor. If you accidentally deleted it, simply check the "No Entry Required Distractor" checkbox and it will reappear.
-
-{% hint style="info" %}
-Remember to click **Update** to save your settings
-{% endhint %}
-
-<figure><img src="../../../.gitbook/assets/d04f72ce-533c-4c82-b317-658b010888dc.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}

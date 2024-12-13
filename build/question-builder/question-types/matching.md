@@ -59,13 +59,13 @@ Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND 
 {% step %}
 ### Configure Settings
 
-<figure><img src="../../../.gitbook/assets/7c6d4e3c-be85-40f4-a839-eaa089bf8528.png" alt=""><figcaption></figcaption></figure>
-
-**Points:** The default total point value for this question in an assessment
-
 {% hint style="info" %}
 Remember to click **Update** to save your settings
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/7c6d4e3c-be85-40f4-a839-eaa089bf8528.png" alt=""><figcaption></figcaption></figure>
+
+**Points:** The default total point value for this question in an assessment
 {% endstep %}
 {% endstepper %}
 
