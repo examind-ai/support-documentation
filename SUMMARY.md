@@ -43,6 +43,7 @@
     * [Loops](build/dynamic-questions/dynamic-engine/loops.md)
     * [Functions](build/dynamic-questions/dynamic-engine/functions.md)
     * [The Backpack](build/dynamic-questions/dynamic-engine/the-backpack.md)
+* [Assessment](build/assessment.md)
 
 ## Deliver
 
