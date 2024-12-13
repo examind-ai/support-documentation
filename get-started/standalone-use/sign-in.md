@@ -10,13 +10,17 @@ description: This article shows you how to sign-in to EXAMIND as a standalone pr
 {% step %}
 ### USA and Other Non-Canadian Institutions
 
-Visit: [https://instructor.examind.io](https://instructor.examind.io)
+Instructors: [https://instructor.examind.io](https://instructor.examind.io)
+
+Students: [https://student.examind.io](https://student.examind.io/)
 {% endstep %}
 
 {% step %}
 ### Canadian Institutions
 
-Visit: [ https://instructor-ca.examind.io](https://instructor-ca.examind.io)
+Instructors: [ https://instructor-ca.examind.io](https://instructor-ca.examind.io)
+
+Students: [https://student-ca.examind.io](https://student-ca.examind.io/)
 {% endstep %}
 {% endstepper %}
 
@@ -27,8 +31,10 @@ There are two ways to sign-in:
 1. Google or Microsoft Authentication&#x20;
 2. Enter university email address&#x20;
 
+Follow the steps for each sign-in method.&#x20;
+
 {% hint style="info" %}
-Follow the steps for each sign-in method after entering your email address.
+Students must sign-in with the same email address that is listed in the course roster.&#x20;
 {% endhint %}
 
 ## Troubleshooting Tips
