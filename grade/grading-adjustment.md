@@ -7,9 +7,9 @@ description: This article shows you how to make grading adjustments to an assess
 
 ## Accessing Results
 
-1. Click Assessments in the left menu
-2. Select the desired assessment
-3. Select **Results** in the left menu
+1. Click **Assessments** in the left menu
+2. Click the desired assessment
+3. Click **Results** in the left menu
 
 ## Point Adjustments
 
