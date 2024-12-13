@@ -11,7 +11,7 @@
   * [Grades Management](get-started/standalone-use/grades-management.md)
 * [LMS Integrated](get-started/lms-integrated/README.md)
   * [Assessment Deeplink](get-started/lms-integrated/assessment-deeplink.md)
-  * [Grade Sync](get-started/lms-integrated/grade-sync.md)
+  * [Post Grades](get-started/lms-integrated/post-grades.md)
 * [Information for Students](get-started/information-for-students.md)
 
 ## Build
