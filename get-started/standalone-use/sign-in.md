@@ -28,13 +28,13 @@ Students: [https://student-ca.examind.io](https://student-ca.examind.io/)
 
 There are two ways to sign-in:
 
-1. Google or Microsoft Authentication&#x20;
-2. Enter university email address&#x20;
+1. Click Google or Microsoft Authentication
+2. Input university email address into Magic Link&#x20;
 
 Follow the steps for each sign-in method.&#x20;
 
 {% hint style="info" %}
-Students must sign-in with the same email address that is listed in the course roster.&#x20;
+Students must sign-in with the same email address that is listed in the instructor's course roster.&#x20;
 {% endhint %}
 
 ## Troubleshooting Tips
