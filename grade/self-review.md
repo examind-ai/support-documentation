@@ -8,8 +8,8 @@ description: This article shows you how to allow students to review an assessmen
 ## Accessing Self Review
 
 1. Click Assessments in the left menu
-2. Select the desired assessment
-3. Select **Self Review** in the left menu
+2. Click the desired assessment
+3. Click **Self Review** in the left menu
 
 ## Availability Windows
 
@@ -32,4 +32,4 @@ Toggle options to preview how students see each question in their review.
 
 ### **Answer Explanation**
 
-Answer Explanations are pulled from Explanation fieldd the question builder.
+Answer Explanations are pulled from Explanation field in the question builder.
