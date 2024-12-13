@@ -8,7 +8,7 @@
   * [Sign-in](get-started/standalone-use/sign-in.md)
   * [Course Management](get-started/standalone-use/course-management.md)
   * [Roster Management](get-started/standalone-use/roster-management.md)
-  * [Grades Management](get-started/standalone-use/grades-management.md)
+  * [Grade Management](get-started/standalone-use/grade-management.md)
 * [LMS Integrated](get-started/lms-integrated/README.md)
   * [Assessment Deeplink](get-started/lms-integrated/assessment-deeplink.md)
   * [Post Grades](get-started/lms-integrated/post-grades.md)
