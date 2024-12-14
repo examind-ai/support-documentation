@@ -1,8 +1,8 @@
 ---
 icon: graduation-cap
 description: >-
-  This article will introduce to the concept of a dynamic question and explain
-  why they are so important in ensuring academic integrity.
+  This article introduces the concept of dynamic questions and explains their
+  importance to academic integrity.
 ---
 
 # Dynamic Overview
