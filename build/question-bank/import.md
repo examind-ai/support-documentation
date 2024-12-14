@@ -31,6 +31,10 @@ EXAMIND will automatically complete the following:
 
 Review and edit before clicking **Add To Question Bank**.
 
+{% hint style="info" %}
+Click the ⌄ icon to view the question in the final import step
+{% endhint %}
+
 ### Integrity Scan
 
 EXAMIND automatically scans your imported questions for vulnerabilities on the internet. Questions found online display a **Vulnerable** label in the Question Bank.

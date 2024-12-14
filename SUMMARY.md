@@ -18,7 +18,7 @@
 
 * [Question Bank](build/question-bank/README.md)
   * [Import](build/question-bank/import.md)
-  * [Share](build/question-bank/share.md)
+  * [Share Questions](build/question-bank/share-questions.md)
   * [Question Pools](build/question-bank/question-pools.md)
 * [Question Builder](build/question-builder/README.md)
   * [Builder Overview](build/question-builder/builder-overview.md)
@@ -43,7 +43,9 @@
       * [Loops](build/question-builder/dynamic-questions/dynamic-engine/loops.md)
       * [Functions](build/question-builder/dynamic-questions/dynamic-engine/functions.md)
       * [The Backpack](build/question-builder/dynamic-questions/dynamic-engine/the-backpack.md)
-* [Assessment](build/assessment.md)
+* [Assessment](build/assessment/README.md)
+  * [Assessment Types](build/assessment/assessment-types.md)
+  * [Share Assessments](build/assessment/share-assessments.md)
 
 ## Deliver
 
