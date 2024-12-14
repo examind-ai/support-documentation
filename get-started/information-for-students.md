@@ -13,7 +13,7 @@ EXAMIND is a learning and assessment platform designed to minimize stress. We pr
 
 To access EXAMIND, log into your course's learning management system (LMS) and navigate to the assessment. Click on the assessment, and a new browser tab will automatically open to launch EXAMIND.
 
-Upon entering the student dashboard, you can navigate to your course and assessment sections. Initially, you will be given the opportunity to take a product tour, which is designed to help you learn how to navigate our platform. We encourage you to take the product tour to familiarize yourself with EXAMIND.
+Upon entering the student dashboard, you can navigate to your course and assessment. Initially, you will be given the opportunity to take a product tour, which is designed to help you learn how to navigate our platform. We encourage you to take the product tour to familiarize yourself with EXAMIND.
 
 ## System Requirements
 
