@@ -1,21 +1,21 @@
 ---
-description: This article shows you how to build a Multiple Choice question in EXAMIND
+description: This article shows you how to build a multiple-choice question.
 ---
 
 # Multiple Choice
 
 ## Overview
 
-A Multiple Choice Question presents students with a single question followed by a set of possible answers. Students must select the one best answer from the provided options.
+Multiple-choice questions present students with a single question followed by a set of possible answers, where only one answer is correct.
 
-The key to a good multiple choice question lies in creating really good distractors.
+The key to a good multiple-choice question is to create good functional distractors.
 
 ### Why Use It
 
-This question type is tool suitable for quickly gauging students’ factual knowledge, conceptual understanding, or the application of theories. They can be automatically graded, making them efficient for both high-enrollment lecture courses and smaller seminar-style classes.
+This question type is suitable for quickly gauging students’ factual knowledge, conceptual understanding, or the application of theories. If appropriately designed, multiple-choice questions can discriminate knowledge effectively. They are auto-graded, making them efficient for both high-enrollment lecture courses and smaller seminar-style classes.
 
-* Reinforces key terminology, concepts, or principles in a low-stakes quiz setting.
-* Offers immediate feedback to help students identify gaps in their knowledge.
+* Reinforce key terminology, concepts, or principles in a low-stakes quiz setting.
+* Offer immediate feedback to help students identify gaps in their knowledge.
 * Well-designed distractors can encourage critical thinking by challenging common misconceptions.
 
 ### Use Cases
@@ -57,12 +57,12 @@ Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND 
 ### Configure Settings
 
 {% hint style="info" %}
-Remember to click **Update** to save your settings
+Remember to click **Update** to save your settings.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/73fb760a-88ea-490e-ae01-910f826d3978.png" alt=""><figcaption></figcaption></figure>
 
-**Points:** The default point value for this question in an assessment.
+**Points:** The point value for this question in an assessment.
 
 **Choices:** The total number of choices to display (ex. 4 would show choices A-D). Useful for increasing randomization.
 
@@ -76,19 +76,19 @@ Remember to click **Update** to save your settings
 
 * **Randomization:** Shuffle answer choices for each student attempt.
 * **Dynamic Questions:** Use a combination of independent and dependent variables.
-* **Time Limits:** Set a time limit if desired to reduce the likelihood of external help.
+* **Time Limits:** Set a time limit to reduce the likelihood of external help.
 * **Question Pools:** Draw from a bank of related questions to increase randomization.
 
 {% hint style="info" %}
-EXAMIND automatically shuffles answer choices by default to support integrity
+EXAMIND automatically shuffles answer choices by default to support integrity.
 {% endhint %}
 
 ### Common Issues
 
-* **Overly Vague Question Stems:** Make sure the question stem clearly indicates the context.
+* **Vague Question Stems:** Make sure the question stem clearly indicates the context.
 * **Unclear Distractors:** If too similar, consider adjusting wording for clarity.
 
 ### Best Practices
 
 * Run a quick pilot with a colleague or teaching assistant to ensure clarity.
-* Review student results post-quiz. If many students choose a certain distractor, it might be misleading or identify a gap in instruction.
+* Analyze quiz results to identify patterns. If a significant percentage of students select a specific incorrect option, it may indicate confusion or a gap in instruction.
