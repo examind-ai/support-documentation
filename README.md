@@ -21,11 +21,11 @@ Welcome to the EXAMIND Support Documentation! Here you'll get an overview of all
 
 ### Our Mission
 
-Our mission is to help instructors assess students, so they can spend more time on research and teaching instead of rewriting questions and worrying about cheating.
+To build learning tools for business educators that drive efficiency, effectiveness and a lasting impact on learning
 
 ### Our Vision
 
-Every instructor can go from sign-up to exam-ready in under 5 minutes with no training and every student is given the chance to perform at their best, in a stress-free environment.
+To help educators create lifelong learners
 
 ### Our Values
 
