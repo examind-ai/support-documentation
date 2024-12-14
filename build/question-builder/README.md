@@ -1,6 +1,6 @@
 ---
 icon: person-digging
-description: This section helps instructors learn how to use the Question Bank.
+description: This section helps instructors learn how to use the Question Builder.
 ---
 
 # Question Builder
