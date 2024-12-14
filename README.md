@@ -88,29 +88,12 @@ In both cases, students are positively reinforced for cheating without facing an
 
 After conducting over five-hundred one-on-one interviews with students from universities across North America, South America, and Europe, we identified six prevalent cheating strategies:
 
-#### **1. Access to information**
-
-When students gain access to unauthorized materials during a closed book exam
-
-#### **2. Asynchronous information**
-
-When students who have taken the exam share information with those who have not
-
-#### **3. Group collaboration**
-
-When students collaborate in person or digitally during an exam
-
-#### **4. Leaked content**
-
-When students acquire exam questions and answer keys from websites like Chegg, Course Hero and Quizlet
-
-#### **5. Contract cheating**
-
-When students hire assistants help or write their exam
-
-#### **6. AI-Content generation**
-
-When students use AI to generate content
+1. **Access to information:** When students gain access to unauthorized materials during a closed book exam
+2. **Asynchronous information:** When students who have taken the exam share information with those who have not
+3. **Group collaboration:** When students collaborate in person or digitally during an exam
+4. **Leaked content:** When students acquire exam questions and answer keys from websites like Chegg, Course Hero and Quizlet
+5. **Contract cheating:** When students hire assistants help or write their exam
+6. **AI-Content generation:** When students use AI to generate content
 
 ## Rethinking Assessments and Integrity
 
