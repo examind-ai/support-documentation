@@ -1,5 +1,5 @@
 ---
-description: This article explains how to import questions
+description: This article explains how to import questions.
 ---
 
 # Import
@@ -7,7 +7,7 @@ description: This article explains how to import questions
 ## Accessing Import
 
 1. Click **Question Bank** in the left menu
-2. Click the **Import** tab
+2. Click the **Imports** tab
 
 ## Importing Files
 
@@ -23,13 +23,13 @@ description: This article explains how to import questions
 
 ### Final Import Step
 
-EXAMIND will automatically complete the following:
+EXAMIND automatically completes the following:
 
-* Create a draft question title
-* Assign a Bloom's Taxonomy level
-* Estimate the time a student would need to complete the question
+* Creates a draft question title
+* Assigns a Bloom's Taxonomy level
+* Estimates the time a student would need to complete the question
 
-Review and edit before clicking **Add To Question Bank**.
+Review and edit before clicking **Add to Question Bank**.
 
 {% hint style="info" %}
 Click the ⌄ icon to view the question in the final import step
@@ -37,7 +37,7 @@ Click the ⌄ icon to view the question in the final import step
 
 ### Integrity Scan
 
-EXAMIND automatically scans your imported questions for vulnerabilities on the internet. Questions found online display a **Vulnerable** label in the Question Bank.
+EXAMIND automatically scans imported questions for vulnerabilities on the internet. Questions found online display a **Vulnerable** label in the Question Bank.
 
 ### Supported File Types
 
