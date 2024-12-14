@@ -1,5 +1,5 @@
 ---
-description: This article explains how to build question pools
+description: This article explains how to build question pools.
 ---
 
 # Question Pools
@@ -7,6 +7,6 @@ description: This article explains how to build question pools
 ## Building Question Pools
 
 {% hint style="info" %}
-Question Pools is only available in closed beta. For more information, email [**support@examind.io**](mailto:support@examind.io).
+Question Pools is only available in closed beta. For more information, email [**support@examind.io**](mailto:support@examind.io)**.**
 {% endhint %}
 
