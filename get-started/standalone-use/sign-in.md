@@ -33,9 +33,17 @@ Some institutions require a 3rd-party authorization in order to log in with OAut
 
 ## Troubleshooting Tips
 
-Try the following tips if you are unable to sign in:
+### For Instructors
 
 * Double check your email address is correct.
 * Check your SPAM or Junk folder, or search for an email from **noreply@mail.examind.io**.
-* If you did not receive the email after 10 minutes, contact [**support@examind.io**](mailto:support@examind.io)
-* If you forgot your password to your Google or Microsoft account, click **Reset Password** and follow the instructions
+* If you see a message that says EXAMIND will be in touch, you may have inputted your email incorrectly.
+* If you forgot your password to your Google or Microsoft account, click **Reset Password** and follow the instructions.
+* If you did not receive the email after 10 minutes, contact [**support@examind.io**](mailto:support@examind.io)**.**
+
+### For Students
+
+* Double check your email address is correct.
+* Check your SPAM or Junk folder, or search for an email from **noreply@mail.examind.io**.
+* If you forgot your password to your Google or Microsoft account, click **Reset Password** and follow the instructions.
+* If you did not receive the email after 10 minutes, contact [**support@examind.io**](mailto:support@examind.io)**.**
