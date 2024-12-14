@@ -1,5 +1,5 @@
 ---
-description: This article shows you how to post grades to your LMS
+description: This article shows you how to post grades to your LMS.
 ---
 
 # Post Grades
