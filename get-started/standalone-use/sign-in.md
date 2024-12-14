@@ -6,43 +6,36 @@ description: This article shows you how to sign-in to EXAMIND as a standalone pr
 
 ## Accessing EXAMIND
 
-{% stepper %}
-{% step %}
-### USA and Other Non-Canadian Institutions
+### Institutions in the USA
 
-Instructors: [https://instructor.examind.io](https://instructor.examind.io)
+* **Instructors:** Visit [instructor.examind.io](https://instructor.examind.io)
+* **Students:** Visit [student.examind.io](https://student.examind.io/)
 
-Students: [https://student.examind.io](https://student.examind.io/)
-{% endstep %}
+### Institutions in Canada
 
-{% step %}
-### Canadian Institutions
-
-Instructors: [ https://instructor-ca.examind.io](https://instructor-ca.examind.io)
-
-Students: [https://student-ca.examind.io](https://student-ca.examind.io/)
-{% endstep %}
-{% endstepper %}
+* **Instructors:** Visit [instructor-ca.examind.io](https://instructor-ca.examind.io)
+* **Students:** Visit [student-ca.examind.io](https://student-ca.examind.io/)
 
 ## Sign-in
 
 There are two ways to sign-in:
 
-1. Click Google or Microsoft Authentication
-2. Input university email address into Magic Link&#x20;
-
-Follow the steps for each sign-in method.&#x20;
+1. **Magic Link:** Input your university email and click the link emailed to you
+2. **OAuth:** Click the **Google** or **Microsoft** logo
 
 {% hint style="info" %}
-Students must sign-in with the same email address that is listed in the instructor's course roster.&#x20;
+Students must sign in with the same email address that is listed in the course roster.
+{% endhint %}
+
+{% hint style="info" %}
+Some institutions require a 3rd-party authorization in order to log in with OAuth. Email [**support@examind.io**](mailto:support@examind.io) if you are experiencing difficulties signing in.
 {% endhint %}
 
 ## Troubleshooting Tips
 
-If you were unable to sign in, use the following tips:
+Try the following tips if you are unable to sign in:
 
-* Check to make sure you input the correct email address
-* Check your SPAM or Junk folder for the email.
-* If you did not receive the email after 10 minutes, contact support@examind.io
-* If you receive a notification that EXAMIND support will be in touch, you may have used the wrong email.&#x20;
-* If you forgot your password, click Reset Password and follow the instructions
+* Double check your email address is correct.
+* Check your SPAM or Junk folder, or search for an email from **noreply@mail.examind.io**.
+* If you did not receive the email after 10 minutes, contact [**support@examind.io**](mailto:support@examind.io)
+* If you forgot your password to your Google or Microsoft account, click **Reset Password** and follow the instructions
