@@ -32,7 +32,7 @@ EXAMIND automatically completes the following:
 Review and edit before clicking **Add to Question Bank**.
 
 {% hint style="info" %}
-Click the ⌄ icon to view the question in the final import step
+Click the ⌄ icon to view the question in the final import step.
 {% endhint %}
 
 ### Integrity Scan
