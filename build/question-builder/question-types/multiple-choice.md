@@ -14,9 +14,11 @@ The key to a good multiple-choice question is to create good functional distract
 
 This question type is suitable for quickly gauging students’ factual knowledge, conceptual understanding, or the application of theories. If appropriately designed, multiple-choice questions can discriminate knowledge effectively. They are auto-graded, making them efficient for both high-enrollment lecture courses and smaller seminar-style classes.
 
+Additionally, multiple-choice questions:
+
 * Reinforce key terminology, concepts, or principles in a low-stakes quiz setting.
 * Offer immediate feedback to help students identify gaps in their knowledge.
-* Well-designed distractors can encourage critical thinking by challenging common misconceptions.
+* Encourage critical thinking by challenging common misconceptions.
 
 ### Use Cases
 
