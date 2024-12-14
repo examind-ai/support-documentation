@@ -31,4 +31,4 @@ In addition to these techniques, the instructor can enable certain warning featu
 
 If you have any questions or experience technical issues with EXAMIND, please contact us directly at support@examind.io before reaching out to your professor. We will be available to answer any questions you have.
 
-We are confident that you will enjoy your assessment experience with EXAMIND. We wish you the best of luck this semester!
+We are confident that you will enjoy your assessment experience with EXAMIND.
