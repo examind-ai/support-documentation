@@ -6,6 +6,6 @@ description: >-
 
 # Roster Management
 
-## Roster Export/Import
-
+{% hint style="info" %}
 Email [support@examind.io](mailto:support@examind.io) for help getting your roster into EXAMIND.&#x20;
+{% endhint %}
