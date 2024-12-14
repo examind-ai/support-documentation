@@ -1,6 +1,6 @@
 ---
 icon: rectangle-history
-description: This section helps instructors learn how to use the Question Bank in EXAMIND.
+description: This section helps instructors learn how to use the Question Bank.
 ---
 
 # Question Bank
