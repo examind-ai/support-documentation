@@ -44,7 +44,7 @@
       * [Functions](build/question-builder/dynamic-questions/dynamic-engine/functions.md)
       * [The Backpack](build/question-builder/dynamic-questions/dynamic-engine/the-backpack.md)
 * [Assessments](build/assessments/README.md)
-  * [Assessment Builder](build/assessments/assessment-builder.md)
+  * [Assessment Builder](build/assessments/assessment-types.md)
   * [Share Assessments](build/assessments/share-assessments.md)
 
 ## Deliver
