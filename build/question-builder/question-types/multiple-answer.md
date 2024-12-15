@@ -1,12 +1,12 @@
 ---
-description: This article shows you how to build a Multiple Answer question in EXAMIND
+description: This article shows you how to build a multiple-answer question.
 ---
 
 # Multiple Answer
 
 ## Overview
 
-A Multiple Answer Question presents students with a single question followed by a set of possible answers, where more than one choice may be correct. Students must identify all correct options to earn full credit.
+Multiple-answer questions present students with a single question followed by a set of possible answers, where more than one choice may be correct. Students must identify all correct options to earn full credit.
 
 ### Why Use It
 
@@ -46,7 +46,7 @@ This question type can assess more nuanced understanding than single-answer form
 {% step %}
 ### Add Randomization
 
-Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND will only show one correct choice at a time.
+Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND , by default, will show the number of correct and incorrect choices listed. To add randomization proceed to Step 5 and update the number of correct and incorrect choices to present to the student. &#x20;
 
 <figure><img src="../../../.gitbook/assets/d22bfe89-7ade-4941-9cc8-7ad5a5000bb5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -55,12 +55,14 @@ Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND 
 ### Configure Settings
 
 {% hint style="info" %}
-Remember to click **Update** to save your settings
+Remember to click **Update** to save your settings.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/87fb8c96-6309-42ad-b13e-3c1ba80fb896.png" alt=""><figcaption></figcaption></figure>
 
-**Points:** The default total point value for this question in an assessment
+The settings for multiple-answer questions include:&#x20;
+
+**Points:** The total point value for this question in an assessment.
 
 **Scoring:**
 
@@ -69,7 +71,7 @@ Remember to click **Update** to save your settings
 
 **Number of Correct Choices:** The number of correct choices to display. Leaving this empty will display all correct choices as options.
 
-**Number of Incorrect Choices:** The number of incorrect choices to display. Leaving this empty will display all correct choices as options.
+**Number of Incorrect Choices:** The number of incorrect choices to display. Leaving this empty will display all incorrect choices as options.
 
 **None of the above:** Add a "none of the above" answer choice to the bottom of each question and EXAMIND will randomly serve this as a correct answer choice.
 {% endstep %}
@@ -79,19 +81,19 @@ Remember to click **Update** to save your settings
 
 ### Ensuring Academic Integrity
 
-* **Randomization:** Shuffle the order of answer options for each attempt.
+* **Randomization:** Shuffle answer choices for for each student attempt.
 * **Dynamic Questions:** Use a combination of independent and dependent variables.
-* **Time Limits:** Set a time limit if desired to reduce the likelihood of external help.
+* **Time Limits:** Set a time limit to reduce the likelihood of external help.
 * **Question Pools:** Draw from a bank of related questions to increase randomization.
 
 {% hint style="info" %}
-EXAMIND automatically shuffles answer choices by default to support integrity
+EXAMIND automatically shuffles answer choices by default to support integrity.
 {% endhint %}
 
 ### Common Issues
 
 * Students may be unclear that multiple answers can be correct. Include a clear instruction like “Select all that apply.”
-* If many students miss a particular correct answer, it may indicate that the concept needs more classroom emphasis.
+* If a significant percentage of students select a specific incorrect option, it may indicate confusion or a gap in instruction.
 
 ### Best Practices
 
