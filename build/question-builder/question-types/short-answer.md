@@ -1,12 +1,12 @@
 ---
-description: This article shows you how to build a Short Answer question in EXAMIND
+description: This article shows you how to build a short answer question.
 ---
 
 # Short Answer
 
 ## Overview
 
-A Short Answer (Paragraph Response) Question prompts students to write one or more paragraphs in response to a prompt. Unlike fill-in-the-blank or multiple-choice formats, this type requires higher-order thinking, organization of ideas, and coherent expression.
+Short answer (Paragraph Response) questions prompt students to write one or more paragraphs in response to a prompt. Unlike fill-in-the-blank or multiple-choice formats, this question type requires higher-order thinking, organization of ideas, and coherent expression.
 
 ### Why Use It
 
@@ -14,13 +14,13 @@ This question type is ideal when you want students to apply, analyze, or synthes
 
 * Encourages deeper engagement with course content.
 * Provides insight into students’ reasoning, interpretation, and application skills.
-* Allows flexibility in responses, accommodating a range of acceptable answers
+* Allows flexibility in responses, accommodating a range of acceptable answers.
 
 ### Use Cases
 
 * **Critical Thinking Exercises:** Have students defend a position, analyze a scenario, or interpret data.
 * **Reading Reflections:** Ask students to summarize and reflect on a key concept from assigned readings.
-* **Applied Problem-Solving:** Request students explain how they would address a real-world situation or case study.
+* **Applied Problem-Solving:** Have students explain how they would address a real-world situation or case study.
 
 ## Create and Configure
 
@@ -51,14 +51,14 @@ Short answer autograding is available in closed beta. Contact [**support@examind
 ### Configure Settings
 
 {% hint style="info" %}
-Remember to click **Update** to save your settings
+Remember to click **Update** to save your settings.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/5914e348-823a-47fc-a69f-6f4b837d39c1.png" alt=""><figcaption></figcaption></figure>
 
-**Points:** The default point value for this question in an assessment
+**Points:** The point value for this question in an assessment.
 
-**Max Words:** The word count limit for the question
+**Max Words:** The word count limit for the question.
 
 {% hint style="info" %}
 Students are warned when they go over the word count and will be unable to type further at 2x the word limit.
@@ -78,7 +78,7 @@ Students are warned when they go over the word count and will be unable to type 
 ### Common Issues
 
 * Students might write excessively long responses if guidelines aren’t provided. Specify a word limit.
-* Some may provide overly vague or unfocused responses. Encourage specificity and reference to course concepts
+* Students may provide overly vague or unfocused responses. Encourage specificity and reference to course concepts.
 
 ### Best Practices
 
