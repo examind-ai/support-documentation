@@ -1,21 +1,21 @@
 ---
-description: This article shows you how to build a Fill-in-the-blank question in EXAMIND
+description: This article shows you how to build a fill-in-the-blank question.
 ---
 
 # Fill-in-the-blank
 
 ## Overview
 
-A Fill-in-the-Blank Question requires students to enter words or numbers into one or more blank fields embedded within the question text. Unlike multiple-choice or matching formats, this type calls for exact (or closely matched) student input.
+Fill-in-the-blank questions require students to enter words or numbers into one or more blank fields embedded within the question text. Unlike multiple-choice or matching formats, this question type calls for exact (or closely matched) student input.
 
 ### Why Use It
 
-This question type can test not just recall but also precision. It strengthens the neural connections to new knowledge by leveraging active retrieval.&#x20;
+This question type tests not only recall but also precision. It strengthens the neural connections to new knowledge by leveraging active retrieval.&#x20;
 
 * Harder for AI-cheating systems to answer correctly.
 * Encourages precision in terminology and spelling.
 * Useful for testing comprehension, key formulas, or critical facts.
-* Can easily adapt to various layouts, including sentences, paragraphs and tables.
+* Can easily adapt to various layouts, including sentences, paragraphs, and tables.
 
 ### Use Cases
 
@@ -51,7 +51,7 @@ EXAMIND is currently developing a new editor which will greatly enhance the capa
 ### Configure Settings
 
 {% hint style="info" %}
-Remember to click **Update** to save your settings
+Remember to click **Update** to save your settings.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-12-13 at 10.54.27 AM.png" alt=""><figcaption></figcaption></figure>
@@ -59,7 +59,7 @@ Remember to click **Update** to save your settings
 **Acceptable Answers (1 per line):** Add correct answers here with each correct answer on a new line.
 
 {% hint style="info" %}
-Use \{{moustache brackets\}} to add variables from the Dynamic Engine as acceptable answers or distractors
+Use \{{mustache brackets\}} to add variables from the Dynamic Engine as acceptable answers or distractors.
 {% endhint %}
 
 **Type:**
@@ -91,7 +91,7 @@ Use \{{moustache brackets\}} to add variables from the Dynamic Engine as accepta
 The review tab provides a real-time autograder to help you see how points are awarded.
 
 {% hint style="info" %}
-We encourage you to review how points and error tolerance are treated with the autograder
+We encourage you to review how points and error tolerance are treated with the autograder.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
@@ -106,7 +106,7 @@ We encourage you to review how points and error tolerance are treated with the a
 
 ### Common Issues
 
-* Students may have troubles spelling words. You can leverage error tolerance to catch spelling mistakes.
+* Students may have trouble spelling words. You can leverage error tolerance to catch spelling mistakes.
 * If multiple correct answers are possible (e.g., “AR” vs. “Accounts Receivable”), include all acceptable variations.
 
 ### Best Practices
