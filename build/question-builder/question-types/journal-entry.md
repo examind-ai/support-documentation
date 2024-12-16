@@ -1,12 +1,12 @@
 ---
-description: This article shows you how to build a Journal Entry question in EXAMIND
+description: This article shows you how to build a journal entry question.
 ---
 
 # Journal Entry
 
 ## Overview
 
-A Journal Entry Question asks students to record accounting transactions in a general ledger format. The student is required to specify which accounts are debited, which are credited, and the corresponding amounts.
+Journal entry questions ask students to record accounting transactions in a general ledger format. The student is required to specify which accounts are debited, which are credited, and the corresponding amounts.
 
 ### Why Use It
 
@@ -17,7 +17,7 @@ This question type is effective for developing practical bookkeeping skills and 
 * Prepares students for more advanced topics and professional accounting tasks.
 
 {% hint style="info" %}
-EXAMIND provides full autograding with partial credit on Journal Entry questions.
+EXAMIND provides full autograding with partial credit on Journal entry questions.
 {% endhint %}
 
 ### Use Cases
@@ -42,7 +42,7 @@ EXAMIND provides full autograding with partial credit on Journal Entry questions
 {% endstep %}
 
 {% step %}
-### Add Accounts, Debits and Credits
+### Add Accounts, Debits, and Credits
 
 <figure><img src="../../../.gitbook/assets/904ab03c-1e45-4654-83b3-82a6ab4c6df7.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -50,7 +50,7 @@ EXAMIND provides full autograding with partial credit on Journal Entry questions
 {% step %}
 ### Add Line Items
 
-Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND will only show one correct choice at a time.
+Use the + and x symbols to add or remove correct line items.
 
 <figure><img src="../../../.gitbook/assets/38c90294-1a35-4bfd-b096-1fedb5a16907.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -61,7 +61,7 @@ Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND 
 <figure><img src="../../../.gitbook/assets/7e56676f-dc6f-431c-96b5-f29dfa9ca109.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The list of accounts is presented alphabetically in a dropdown menu to students
+The list of accounts is presented alphabetically in a dropdown menu to students.
 {% endhint %}
 {% endstep %}
 
@@ -69,20 +69,18 @@ The list of accounts is presented alphabetically in a dropdown menu to students
 ### Configure Settings
 
 {% hint style="info" %}
-Remember to click **Update** to save your settings
+Remember to click **Update** to save your settings.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/d04f72ce-533c-4c82-b317-658b010888dc.png" alt=""><figcaption></figcaption></figure>
 
-**Points:** The default total point value for this question in an assessment.
+**Points:** The total point value for this question in an assessment.
 
-**Error Tolerance (%)**: Enter the specified percentage of error tolerance that you will allow the auto grader to accept.
+**Error Tolerance (%)**: Enter the specified percentage of error tolerance that you allow the auto grader to accept.
 
 **No Entry Required Correct**: Check this box if "No Entry Required" is the correct answer. You will need to provide at least two distractor accounts if this box is checked.
 
 **No Entry Required Distractor**: By default the "No Entry Required" will appear as a distractor. If you accidentally deleted it, simply check the "No Entry Required Distractor" checkbox and it will reappear.
-
-
 {% endstep %}
 
 {% step %}
@@ -93,7 +91,7 @@ The review tab provides a real-time autograder to help you see how points are aw
 <figure><img src="../../../.gitbook/assets/8a5d97c0-1976-442c-b10c-3031f7d3ff81.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-We encourage you to review how points and error tolerance are treated with the autograder
+We encourage you to review how points and error tolerance are treated with the autograder.
 {% endhint %}
 {% endstep %}
 {% endstepper %}
@@ -109,7 +107,7 @@ Each line item in this question type is based on a 3 points system:
 * 1 point for the correct amount
 
 {% hint style="info" %}
-Partial points are only awarded if the student enters the correct account
+Partial points are only awarded if the student enters the correct account.
 {% endhint %}
 
 ### Examples
