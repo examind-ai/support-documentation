@@ -1,23 +1,23 @@
 ---
-description: This article shows you how to build a Financial Statement question in EXAMIND
+description: This article shows you how to build a financial statement question.
 ---
 
 # Financial Statement
 
 ## Overview
 
-A Financial Statement Question requires students to create a financial statement from a blank page, such as the Balance Sheet, Income Statement, Cash Flow Statement, or Statement of Retained Earnings. This type of question involves selecting the appropriate account and inputting the appropriate numbers, mirroring real-world accounting tasks.
+Financial statement questions require students to create a financial statement from a blank page, such as the Balance Sheet, Income Statement, Cash Flow Statement, or Statement of Retained Earnings. This type of question involves selecting the appropriate account and inputting the appropriate numbers, mirroring real-world accounting tasks.
 
 ### Why Use It
 
-This question type is essential for developing students’ ability to apply accounting principles in practical scenarios. It reinforces the understanding of how different financial components interact and ensure that students can accurately prepare and analyze financial documents.
+This question type is essential for developing students’ ability to apply accounting principles in practical scenarios. It reinforces the understanding of how different financial components interact and ensures that students can accurately prepare and analyze financial documents.
 
 * **Practical Application:** Simulates real-world accounting tasks, enhancing students’ practical skills.
-* **Comprehensive Assessment:** Evaluates multiple aspects of accounting knowledge, including data entry, calculation accuracy, and financial analysis.
-* **Immediate Feedback:** Error Carry-Forward Autograding provides detailed feedback, helping students learn from their mistakes in real-time.
+* **Comprehensive Assessment:** Evaluates multiple aspects of accounting knowledge, including data entry, calculation accuracy, account classification, and financial analysis.
+* **Immediate Feedback:** Error carry-forward autograding provides detailed feedback, helping students learn from their mistakes in real-time.
 
 {% hint style="info" %}
-EXAMIND provides full error carry-forward autograding with partial credit on Financial Statement questions.
+EXAMIND provides full error carry-forward autograding with partial credit on financial statement questions.
 {% endhint %}
 
 ### Use Cases
@@ -43,9 +43,9 @@ This question type is only available in closed beta. For more information, email
 ### Common Issues
 
 * **Encourage Step-by-Step Problem Solving:** Teach students to approach financial statement preparation methodically, verifying each entry as they progress.
-* **Leverage Autograding Features:** Utilize Error Carry-Forward Autograding to provide targeted feedback, helping students learn from their mistakes without requiring extensive manual grading.
+* **Leverage Autograding Features:** Utilize error carry-forward autograding to provide targeted feedback, helping students learn from their mistakes without requiring extensive manual grading.
 
 ### Best Practices
 
 * Run a quick pilot with a colleague or teaching assistant to ensure clarity.
-* Review student results post-quiz. If many students choose a certain distractor, it might be misleading or identify a gap in instruction.
+* Analyze student results to identify patterns. If a significant percentage of students select a specific distractor account, it may indicate confusion or a gap in instruction.
