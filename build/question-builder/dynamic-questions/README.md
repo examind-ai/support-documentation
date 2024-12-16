@@ -1,6 +1,6 @@
 ---
 icon: dice-d8
-description: This section helps instructors learn more about Dynamic Questions in EXAMIND.
+description: This section helps instructors learn more about Dynamic Questions.
 ---
 
 # Dynamic Questions
