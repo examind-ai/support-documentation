@@ -1,12 +1,12 @@
 ---
-description: This article will teach you about the Math blocks in our Dynamic Engine.
+description: This article shows you how to use the Math blocks in our Dynamic Engine.
 ---
 
 # Math
 
 ## The Math Blocks
 
-There are thirteen kinds of _math_ blocks you can use in the Dynamic Engine. This article focuses on the top six blocks that you will use:
+There are thirteen kinds of _math_ blocks you can use in the Dynamic Engine. This article focuses on the six most common blocks you will use:
 
 1. Specific Number
 2. Random Number
@@ -17,13 +17,13 @@ There are thirteen kinds of _math_ blocks you can use in the Dynamic Engine. Thi
 
 ### Math: Specific Number
 
-The **specific** **number** block lets you specify a specific number. For example, the following blocks set the variable "number" to "100".
+The **specific** **number** block lets you specify a specific number. For example, the following specific number block is set to "100".
 
 <figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-31-06%20PM-png.png?width=123&#x26;height=76&#x26;name=Screen%20Shot%202024-06-03%20at%205-31-06%20PM-png.png" alt="" height="76" width="123"><figcaption></figcaption></figure>
 
 ### Math: Random Number
 
-The **random number** block randomly generates a number between two numbers with specified increments. For example, the following blocks set the variable "number" to a random number between "0" and "100", in increments of "10".
+The **random number** block randomly generates a number between two numbers with specified increments. For example, the following random number block sets the block to a random number from "0" to "100", in steps of "10".
 
 <figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-31-53%20PM-png.png?width=640&#x26;height=82&#x26;name=Screen%20Shot%202024-06-03%20at%205-31-53%20PM-png.png" alt="" height="82" width="640"><figcaption></figcaption></figure>
 
@@ -31,11 +31,11 @@ For further clarity, the above example would create a random number that could b
 
 ### Math: Basic Equation
 
-The **basic equation** block lets you specify mathematical operations with specific numbers or variables. For example, the following blocks first set the variable "number" to a random number between 0 and 100, in increments of 10, and then using a **basic equation** block adds the number "1" to a new variable "new number".
+The **basic equation** block lets you specify mathematical operations with specific numbers or variables. For example, the following blocks first set the variable "number" to a random number between "0" and "100", in increments of "10", and then using a **basic equation** block adds the number "1" to the variable "number" to a new variable called "new number".
 
 <figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-40-41%20PM-png.png?width=679&#x26;height=108&#x26;name=Screen%20Shot%202024-06-03%20at%205-40-41%20PM-png.png" alt="" height="108" width="679"><figcaption></figcaption></figure>
 
-There are five mathematical operators within the dropdown menu of **basic equation** block:
+There are five mathematical operators within the dropdown menu of the **basic equation** block:
 
 * **x** multiplied by
 * **÷** divided by
@@ -43,13 +43,13 @@ There are five mathematical operators within the dropdown menu of **basic equati
 * **-** subtract from
 * **^** to the power of
 
-You can nest multiple basic equation blocks inside of each other, creating a whole world of possibilities. For example, the following two basic equation blocks were combined to 1) double the variable "number" and 2) take it to the power of a 3.
+You can nest multiple basic equation blocks inside of each other, creating a whole world of possibilities. For example, the following two basic equation blocks were combined to (1) double the variable "number" and (2) take it to the power of "3".
 
 <figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-49-53%20PM-png.png?width=600&#x26;height=128&#x26;name=Screen%20Shot%202024-06-03%20at%205-49-53%20PM-png.png" alt="" height="128" width="600"><figcaption></figcaption></figure>
 
 ### Math: Sum of List
 
-The **sum of list** block adds all the values in a list. It must be combined with a **list** block in order to work. For example, the following blocks set the variable "number" to 10, by adding the **specific number** blocks 2, 3 and 5 together.
+The **sum of list** block adds all the values in a list. It must be combined with a **list** block in order to work. For example, the following blocks set the variable "number" to 10, by adding the **specific number** blocks "2", "3", and "5" together.
 
 <figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-45-30%20PM-png.png?width=684&#x26;height=133&#x26;name=Screen%20Shot%202024-06-03%20at%205-45-30%20PM-png.png" alt="" height="133" width="684"><figcaption></figcaption></figure>
 
@@ -84,7 +84,7 @@ If you want to round to a specific number of decimal places, you'll need to mult
 
 ## Example Question
 
-Consider the following Multiple Choice question in EXAMIND:
+Consider the following multiple-choice question.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-05 at 4.42.41 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -101,5 +101,5 @@ Here is what the sample question would look like (values highlighted in blue for
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-05 at 4.47.43 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-EXAMIND's dynamic engine will never allow two choices to be identical for answer choices in an exam question
+The Dynamic Engine will never allow two choices to be identical for answer choices in an assessment.
 {% endhint %}
