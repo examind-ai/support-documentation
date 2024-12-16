@@ -91,4 +91,4 @@ EXAMIND automatically shuffles answer choices by default to support integrity.
 ### Best Practices
 
 * Run a quick pilot with a colleague or teaching assistant to ensure clarity.
-* Analyze quiz results to identify patterns. If a significant percentage of students select a specific incorrect option, it may indicate confusion or a gap in instruction.
+* Analyze student results to identify patterns. If a significant percentage of students select a specific incorrect option, it may indicate confusion or a gap in instruction.
