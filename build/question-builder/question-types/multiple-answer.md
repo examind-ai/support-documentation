@@ -81,7 +81,7 @@ The settings for multiple-answer questions include:&#x20;
 
 ### Ensuring Academic Integrity
 
-* **Randomization:** Shuffle answer choices for for each student attempt.
+* **Randomization:** Shuffle answer choices for each student attempt.
 * **Dynamic Questions:** Use a combination of independent and dependent variables.
 * **Time Limits:** Set a time limit to reduce the likelihood of external help.
 * **Question Pools:** Draw from a bank of related questions to increase randomization.
