@@ -1,16 +1,16 @@
 ---
-description: This article shows you how to build a Matching question in EXAMIND
+description: This article shows you how to build a matching question.
 ---
 
 # Matching
 
 ## Overview
 
-A Matching Question asks students to match each item premise (e.g., terms, dates, concepts) with the correct corresponding item from another list (e.g., definitions, events, explanations).
+Matching questions asks students to match each item premise (e.g., terms, dates, concepts) with the correct corresponding item from another list (e.g., definitions, events, explanations).
 
 ### Why Use It
 
-This question type is effective for checking whether students can correctly associate key concepts with their definitions or theories with their applications. They are particularly efficient for reviewing material and ensuring foundational knowledge is solid before moving on to more complex tasks.
+This question type is effective for checking if students can correctly associate key concepts with their definitions or theories with their applications. It is particularly efficient for reviewing material and ensuring foundational knowledge is solid before moving on to more complex tasks.
 
 * Reinforces connections between concepts and their meanings.
 * Helps students build more robust mental maps of course content.
@@ -45,7 +45,7 @@ This question type is effective for checking whether students can correctly asso
 {% step %}
 ### Add More Matches
 
-Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND will only show one correct choice at a time.
+Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND will only show one correct choice at a time if the item premise is identical.
 
 <figure><img src="../../../.gitbook/assets/3777d356-01b8-4202-927b-91d77bf993af.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -65,7 +65,7 @@ Remember to click **Update** to save your settings
 
 <figure><img src="../../../.gitbook/assets/7c6d4e3c-be85-40f4-a839-eaa089bf8528.png" alt=""><figcaption></figcaption></figure>
 
-**Points:** The default total point value for this question in an assessment.
+**Points:** The total point value per match in an assessment.
 {% endstep %}
 {% endstepper %}
 
@@ -73,13 +73,13 @@ Remember to click **Update** to save your settings
 
 ### Ensuring Academic Integrity
 
-* **Randomization:** Shuffle the order of answer options for each attempt.
+* **Randomization:** Shuffle answer choices for each student attempt.
 * **Dynamic Questions:** Use a combination of independent and dependent variables.
-* **Time Limits:** Set a time limit if desired to reduce the likelihood of external help.
+* **Time Limits:** Set a time limit to reduce the likelihood of external help.
 * **Question Pools:** Draw from a bank of related questions to increase randomization.
 
 {% hint style="info" %}
-EXAMIND automatically shuffles the order by default to support integrity
+EXAMIND automatically shuffles answer choices by default to support integrity.
 {% endhint %}
 
 ### Common Issues
@@ -89,5 +89,5 @@ EXAMIND automatically shuffles the order by default to support integrity
 
 ### Best Practices
 
-* Use a consistent level of detail in prompts and matches.
-* Include instructions in the prompt (“Select the best match from the dropdown to the right of each item.”) to ensure students understand the mechanism.
+* Use a consistent level of detail in item premises and correct choices.
+* Include instructions in the question stem (“Select the best match from the dropdown to the right of each item.”) to ensure students understand the mechanism.
