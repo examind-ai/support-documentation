@@ -1,5 +1,5 @@
 ---
-description: This article will teach you about the Variable blocks in our Dynamic Engine.
+description: This article shows you how to use the Variable blocks in our Dynamic Engine.
 ---
 
 # Variables
@@ -10,7 +10,7 @@ The term _variable_ is the same term used in mathematics or computer science. It
 
 ## The Variable Blocks
 
-There are three kinds of blocks that you can use:
+There are three kinds of variable blocks that you can use:
 
 1. Set
 2. Get
@@ -29,10 +29,8 @@ The **get** block provides the value of a variable. Continuing from the previous
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.23.08 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Without a corresponding **set** block, the engine will not know what you want to do with the number "18". Think of it like a floating puzzle piece that needs to be connected to something. Without a connection, it's just floating around the office looking for a fresh cup of coffee (like our hipster UX designer).
+Without a corresponding **set** block, the engine does not know what you want to do with the number "18". Think of it like a floating puzzle piece that needs to be connected to something. Without a connection, it's just floating around the office looking for a fresh cup of coffee (like our hipster UX designer).
 {% endhint %}
-
-
 
 ### Variable: Change
 
@@ -54,15 +52,15 @@ Click on the variable's dropdown symbol (light blue triangle) to get the followi
 
 The menu provides the following options:
 
-* the names of all existing variables defined in the program. In this example, we only have one variable (age).&#x20;
-* **Rename variable...** changes the name of this variable. Selecting this option opens a prompt to enter a new name.
-* **Delete the variable** deletes all blocks that reference this variable wherever it appears in the program.
+* **Existing variables**: The names of all existing variables defined in the program. In this example, we only have one variable (age).&#x20;
+* **Rename variable...:** Change the name of the selected variable. Selecting this option opens a prompt to enter a new name.
+* **Delete the 'selected' variable:** Deletes all blocks that reference this variable wherever it appears in the program.
 
 ***
 
 ## Example Question
 
-Consider the following Multiple Choice question in EXAMIND. The goal of this question is to add randomness to the "too young" and "too old" distractors.
+Consider the following multiple-choice question. The goal of this question is to add randomness to the "too young" and "too old" distractors.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 4.32.50 PM.png" alt=""><figcaption></figcaption></figure>
 
