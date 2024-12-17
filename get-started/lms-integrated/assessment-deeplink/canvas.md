@@ -1,18 +1,20 @@
 ---
-description: This article shows you how to create a deeplink in Canvas.
+description: >-
+  This article helps instructors learn how to link deeplink assessments in
+  Canvas.
 ---
 
 # Canvas
 
-Create a new assignment in Canvas. Give it an **Assignment name**, then set the number of **Points**:
+Create a new assignment in Canvas. Give it an **Assignment name**, then set the number of **Points.**
 
 <figure><img src="../../../.gitbook/assets/canvas-assignment-title.webp" alt=""><figcaption></figcaption></figure>
 
-Set **Submission Type** to **External Tool**, then click **Find**:
+Set **Submission Type** to **External Tool**, then click **Find.**
 
 <figure><img src="../../../.gitbook/assets/canvas-assignment-tools.webp" alt=""><figcaption></figcaption></figure>
 
-Select the EXAMIND LTI Tool:
+Select the EXAMIND LTI Tool.
 
 <figure><img src="../../../.gitbook/assets/canvas-assignment-tools-examind.webp" alt=""><figcaption></figcaption></figure>
 
@@ -25,6 +27,8 @@ Check **Load This Tool In A New Tab** and leave **Allowed Attempts** as **Unlimi
 <figure><img src="../../../.gitbook/assets/canvas-assignment-config.webp" alt=""><figcaption></figcaption></figure>
 
 **Save** the assignment.
+
+## Special Considerations
 
 {% hint style="info" %}
 Students extensions needs to be configured in both Canvas and EXAMIND. Refer to the [scheduling page](../../../deliver/schedule.md) on how to configure extensions in EXAMIND.

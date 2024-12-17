@@ -1,5 +1,7 @@
 ---
-description: This article shows you how to create a deeplink in Moodle.
+description: >-
+  This article helps instructors learn how to link deeplink assessments in
+  Moodle.
 ---
 
 # Moodle
