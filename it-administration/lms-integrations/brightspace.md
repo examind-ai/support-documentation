@@ -16,9 +16,9 @@ Note the following settings that are specific to EXAMIND:
 
 Choose Dynamic For Dynamic Registration URL, use one of the following:
 
-- For US data center users: https://lti.examind.io/register
-- For Canadian data center users: https://lti-ca.examind.io/register
-  {% endtab %}
+* For US data center users: https://lti.examind.io/register
+* For Canadian data center users: https://lti-ca.examind.io/register
+{% endtab %}
 
 {% tab title="Step 4" %}
 **Instructions for Step 4**
@@ -31,25 +31,25 @@ Select both **Send Institution Role** and **Send Context Role**
 
 Select the following:
 
-- $CourseOffering.title
-- $CourseSection.label
-- $CourseSection.sourcedId
-- $CourseSection.title
-- $CourseSection.timeFrame.begin
-- $CourseSection.timeFrame.end
-- $Person.email.primary
-- $Person.name.family
-- $Person.name.full
-- $Person.name.given
-- $Person.sourcedId
-- $ResourceLink.available.startDateTime
-- $ResourceLink.available.endDateTime
-- $ResourceLink.description
-- $ResourceLink.submission.endDateTime
-- $ResourceLink.title
-- $User.id
-- $User.username
-  {% endtab %}
+* $CourseOffering.title
+* $CourseSection.label
+* $CourseSection.sourcedId
+* $CourseSection.title
+* $CourseSection.timeFrame.begin
+* $CourseSection.timeFrame.end
+* $Person.email.primary
+* $Person.name.family
+* $Person.name.full
+* $Person.name.given
+* $Person.sourcedId
+* $ResourceLink.available.startDateTime
+* $ResourceLink.available.endDateTime
+* $ResourceLink.description
+* $ResourceLink.submission.endDateTime
+* $ResourceLink.title
+* $User.id
+* $User.username
+{% endtab %}
 
 {% tab title="Step 6" %}
 **Instructions for Step 6 (Custom Parameters)**
@@ -58,8 +58,8 @@ Leave blank
 {% endtab %}
 {% endtabs %}
 
----
+***
 
 ## Step 2: Assessment Deeplink
 
-Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink.md#brightspace) for instructions on how to link a Brightspace activity to an EXAMIND assessment.
+Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink/#brightspace) for instructions on how to link a Brightspace activity to an EXAMIND assessment.

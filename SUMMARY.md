@@ -10,7 +10,11 @@
   * [Roster Management](get-started/standalone-use/roster-management.md)
   * [Grade Management](get-started/standalone-use/grade-management.md)
 * [LMS Integrated](get-started/lms-integrated/README.md)
-  * [Assessment Deeplink](get-started/lms-integrated/assessment-deeplink.md)
+  * [Assessment Deeplink](get-started/lms-integrated/assessment-deeplink/README.md)
+    * [Blackboard](get-started/lms-integrated/assessment-deeplink/blackboard.md)
+    * [Brightspace](get-started/lms-integrated/assessment-deeplink/brightspace.md)
+    * [Canvas](get-started/lms-integrated/assessment-deeplink/canvas.md)
+    * [Moodle](get-started/lms-integrated/assessment-deeplink/moodle.md)
   * [Post Grades](get-started/lms-integrated/post-grades.md)
 * [Information for Students](get-started/information-for-students.md)
 

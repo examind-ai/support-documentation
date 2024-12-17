@@ -59,4 +59,4 @@ Click **Save changes**:
 
 ## Step 4: Assessment Deeplink
 
-Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink.md#moodle) for instructions on how to link a Moodle activity to an EXAMIND assessment.
+Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink/#moodle) for instructions on how to link a Moodle activity to an EXAMIND assessment.
