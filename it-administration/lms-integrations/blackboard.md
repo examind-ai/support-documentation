@@ -36,7 +36,7 @@ Select Submit.
 
 By default, a placement and deployment will be automatically set up for the EXAMIND LTI tool. The placement is configured as a Deep Linking content tool with student access. This setup should be sufficient, but if you need to provide access to different users, you can customize another placement by selecting the EXAMIND LTI from the LTI Provider Tools list and accessing the Manage Placements option from the dropdown menu.
 
-***
+---
 
 ## Step 2: Enable LTI Tools
 
@@ -64,11 +64,11 @@ Ensure that both LTI and LTI Link are enabled.
 
 <figure><img src="../../.gitbook/assets/lti-course-options-png.webp" alt=""><figcaption></figcaption></figure>
 
-***
+---
 
 ## Step 3: Assessment Deeplink
 
-Refer to the [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink.md#blackboard) page on how to create link a Blackboard assessment to an EXAMIND assessment.
+Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink.md#blackboard) for instructions on how to link a Blackboard assessment to an EXAMIND assessment.
 
 ## More Information
 
