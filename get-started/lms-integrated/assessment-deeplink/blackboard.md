@@ -20,11 +20,11 @@ Complete the fields to match your Blackboard settings and click **Create Course.
 
 ## Blackboard Classic
 
-Navigate to a course, and select Content in the left hand tab.
+From the Course page, click **Content** in the left hand tab.
 
 <figure><img src="../../../.gitbook/assets/course-content-png.webp" alt=""><figcaption></figcaption></figure>
 
-Select Build Content > Assessment. This will open the EXAMIND LTI.
+Select **Build Content** > **Assessment** to launch EXAMIND LTI tool.
 
 <figure><img src="../../../.gitbook/assets/build-content-png.webp" alt=""><figcaption></figcaption></figure>
 
@@ -32,6 +32,8 @@ Complete the fields to match your Blackboard settings and click **Create Course.
 
 <figure><img src="../../../.gitbook/assets/create-course-png-1-1.webp" alt=""><figcaption></figcaption></figure>
 
+## Special Considerations
+
 {% hint style="info" %}
-Students extensions needs to be configured in both Blackboard and EXAMIND. Refer to the [scheduling page](../../../deliver/schedule.md) on how to configure extensions in EXAMIND.
+Students extensions need to be configured in both Blackboard and EXAMIND. Refer to the [scheduling page](../../../deliver/schedule.md) on how to configure extensions in EXAMIND.
 {% endhint %}
