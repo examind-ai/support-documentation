@@ -31,13 +31,13 @@ To help educators create students who become lifelong learners and contributors 
 
 At EXAMIND, we have summarized our core values into the acronym EXAM inspired by on our company name EXAMIND:
 
-**E**ducation: We believe in being lifelong learners and inspiring other to continuously grow and develop new knowledge and skills.&#x20;
+**Education**: We believe in being lifelong learners and inspiring other to continuously grow and develop new knowledge and skills.&#x20;
 
-**Xperience**: We believe in putting the human experience at the center of everything we do. This means making our product and service simple, accessible, and user friendly. Sometimes, it means more work for us. But that's ok, because the right way isn't always the easy way.
+**'Xperience**: We believe in putting the human experience at the center of everything we do. This means making our product and service simple, accessible, and user friendly. Sometimes, it means more work for us. But that's ok, because the right way isn't always the easy way.
 
-**A**uthenticity: We believe everyone should live the life they want to live. We encourage others to be who they are, in life and at work. This means we support each other wherever life leads us. No one should ever feel like they have to hide their true self.
+**Authenticity**: We believe everyone should live the life they want to live. We encourage others to be who they are, in life and at work. This means we support each other wherever life leads us. No one should ever feel like they have to hide their true self.
 
-**M**ovement: We believe that creating new and innovative solutions for higher education requires a spirit of innovation and a mindset of progress over perfection. We believe that by creating habits and processes that enable us to make faster improvements to both the instructor and student experience are key to solving the challenges faced in higher education.&#x20;
+**Movement**: We believe that creating new and innovative solutions for higher education requires a spirit of innovation and a mindset of progress over perfection. We believe that by creating habits and processes that enable us to make faster improvements to both the instructor and student experience are key to solving the challenges faced in higher education.&#x20;
 
 ### Our Approach
 
