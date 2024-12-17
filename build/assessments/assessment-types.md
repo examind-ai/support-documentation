@@ -53,7 +53,7 @@ By default, questions are ordered by question type into Question Groups and rand
 3. **Combine Question Groups**: Click on a question in the assessment window and drag into a different question group.&#x20;
 
 {% hint style="info" %}
-Question Group titles will be presented to the student. One tip is to combine all questions into one group and rename the group the assessment title (e.g. Final EXAM). In other cases you may want to fix long workout problems as the last questions in the exam.
+Question Group titles will be presented to the student. One tip is to combine all questions into one group and rename the group the assessment title (e.g. Final Exam). In other cases you may want to fix long workout problems as the last questions in the exam.
 {% endhint %}
 
 ### Essays and Simulations
