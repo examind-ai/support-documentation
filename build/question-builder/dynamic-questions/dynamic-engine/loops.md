@@ -38,13 +38,11 @@ The options for the **repeat** dropdown do the following:
 
 #### **Repeat While:**
 
-The _Repeat While_ block repeats its body while some condition is _true_.  To determine whether a condition is _true_ or _false_, [_Logic Blocks_](logic.md) need to be used. In the following example, the _Repeat While_ block is used to assign 3 random numbers between 1 and 100 to a variable named _sorted list_, but continue doing that until those random numbers are sorted in ascending order.
+The _Repeat While_ block repeats its body while some condition is _true_.  To determine whether a condition is _true_ or _false_, [_Logic Blocks_](logic.md) need to be used. In the following example, the _Repeat While_ block is used to assign 3 random numbers between 1 and 100 to a variable named &#x53;_&#x6F;rted List_, but continue doing that while those random numbers are not sorted in ascending order.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 1.45.02 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-17 at 8.15.49 AM.png" alt=""><figcaption></figcaption></figure>
 
-In the example above, it's uncertain how many times the body will be executed. It may execute once or hundreds of times, depending on when the while condition becomes _true_.\
-\
-The condition used in the above example is a little complicated, so it warrants further explanation. The first part of the condition, _not sorted list_, is required to enter the loop at least once when the _sorted list_ variable is not defined. The second part of the condition reads like this: _while sorted list is not ascending_. The first part and the second part are joined together with an _or_ condition, which results in the overall condition being _true_ if either of those conditional parts are _true_.
+In the example above, it's uncertain how many times the body will be executed. It may execute once or hundreds of times, depending on when the while condition becomes _false_.
 
 {% hint style="info" %}
 For more information on Logic Blocks, see the [Logic Blocks Page](logic.md).
@@ -58,13 +56,9 @@ The _Repeat Until_ block is very similar to the _Repeat While_ block, except the
 
 ### Loop: Count With
 
-The _Count With_ block advances a variable from the first value to the second value by the increment amount (third value), running the body once for each value. For example, the following _Count With_ block assigns the value _0_ to the variable _i_ in the first loop, then assigns the value _2_ to the variable _i_ in the second loop, and so on. This block will log all even numbers from 0 to 10 in ascending order.
+The _Count With_ block advances a variable from the first value to the second value by the increment amount (third value), running the body once for each value. For example, the following _Count With_ block starts by assigning the value _1_ to the variable _i_ , then _2_, then _3_, and so on until it reaches _10_. This block will log values of _i_ from 1 to 10 in ascending order.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 1.54.15 PM.png" alt=""><figcaption></figcaption></figure>
-
-Similarly, loops can go in reverse order. The following example will log all even numbers of 0 to 10 in descending order.
-
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 1.54.27 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-17 at 8.22.40 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note that _Count With_ is called a [For Loop](https://en.wikipedia.org/wiki/For_loop) in most programming languages
