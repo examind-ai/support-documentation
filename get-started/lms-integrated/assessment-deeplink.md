@@ -36,6 +36,10 @@ Create a new course in EXAMIND with matching criteria to the current course.
 
 <figure><img src="../../.gitbook/assets/create-course-png-1-1.webp" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Students extensions needs to be configured in both Blackboard and EXAMIND. Refer to the [scheduling page](../../deliver/schedule.md) on how to configure extensions in EXAMIND.
+{% endhint %}
+
 ## Brightspace
 
 Go to a course in Brightspace, then select **Existing Activities**, then **EXAMIND** (or a different name selected during **LTI Tool Installation**):
@@ -62,6 +66,10 @@ Open the activity, click Edit, and rename it in EXAMIND:
 
 EXAMIND's assessment is now available as an activity in Brightspace.
 
+{% hint style="info" %}
+Students extensions needs to be configured in both Brightspace and EXAMIND. Refer to the [scheduling page](../../deliver/schedule.md) on how to configure extensions in EXAMIND.
+{% endhint %}
+
 ## Canvas
 
 Create a new assignment in Canvas. Give it an **Assignment name**, then set the number of **Points**:
@@ -86,6 +94,10 @@ Check **Load This Tool In A New Tab** and leave **Allowed Attempts** as **Unlimi
 
 **Save** the assignment.
 
+{% hint style="info" %}
+Students extensions needs to be configured in both Canvas and EXAMIND. Refer to the [scheduling page](../../deliver/schedule.md) on how to configure extensions in EXAMIND.
+{% endhint %}
+
 ## Moodle
 
 Go to a course in Moodle, then click the **Turn editing on** button:
@@ -96,7 +108,7 @@ Click **+ Add an activity or resource** on any topic (Topic 5 in the example bel
 
 <figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-01-52-01-3033-AM.webp" alt=""><figcaption></figcaption></figure>
 
-&#x20;Select **External Tool**:
+Select **External Tool**:
 
 <figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-01-52-27-9515-AM.webp" alt=""><figcaption></figcaption></figure>
 
@@ -129,3 +141,7 @@ Click the **Save and return to course** button:
 <figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-05-25-8566-AM.webp" alt=""><figcaption></figcaption></figure>
 
 EXAMIND's LTI is now available as an assignment in Moodle.
+
+{% hint style="info" %}
+Students extensions needs to be configured in both Moodle and EXAMIND. Refer to the [scheduling page](../../deliver/schedule.md) on how to configure extensions in EXAMIND.
+{% endhint %}
