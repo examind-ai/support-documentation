@@ -1,5 +1,6 @@
 ---
 description: This article shows you how to post grades to your LMS.
+icon: memo-circle-check
 ---
 
 # Post Grades
