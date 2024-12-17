@@ -66,9 +66,9 @@ Ensure that both LTI and LTI Link are enabled.
 
 ***
 
-## Step 3: Create Assessment
+## Step 3: Assessment Deeplink
 
-###
+Refer to the [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink.md#blackboard) page on how to create link a Blackboard assessment to an EXAMIND assessment.
 
 ## More Information
 
