@@ -19,7 +19,7 @@ There are two kinds of blocks that you can use:
 
 ### Function: To
 
-The **to** function in Blockly is a fundamental programming block used to group a set of code instructions or tasks into a reusable and organized function. Unlike the **to return** function, which returns a value after execution, the **to** function performs operations only and does not return a specific result. It is primarily used for its side effects, such as modifying variables or creating outputs within the program. The code encapsulated within a **to** function can be called and executed multiple times throughout the program, enhancing code reusability and efficiency.
+The **to** function in the Dynamic Engine is a fundamental programming block used to group a set of code instructions or tasks into a reusable and organized function. Unlike the **to return** function, which returns a value after execution, the **to** function performs operations only and does not return a specific result. It is primarily used for its side effects, such as modifying variables or creating outputs within the program. The code encapsulated within a **to** function can be called and executed multiple times throughout the program, enhancing code reusability and efficiency.
 
 You first have to **set** the function, and then you'll **get** the function to call it.
 
@@ -27,7 +27,7 @@ For example, let's say you like to randomize names in most of your questions. So
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 3.45.39 PM.png" alt=""><figcaption></figcaption></figure>
 
-Anything that you can do inside of the Dynamic Engine, you can put inside of a function. To call the function, all you have to do is use the **get** component of the function block. So all that work is now just a simple "Random Name" call and you're done:
+Anything that you can do inside of the Dynamic Engine, you can put inside of a function. To call the function, all you have to do is use the **get** component of the function block:
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 3.53.14 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ Put your functions inside of [The Backpack](the-backpack.md) for easy retrieval 
 
 ### Function: To Return
 
-The **To Return** function in Blockly allows you to create reusable blocks of code that perform specific tasks and return a value. Utilizing the **to** block, you define the function's logic, specify any necessary inputs, and determine the output value that is returned when the function is called. This enables efficient code management and simplifies complex operations by encapsulating functionality within named functions, making it easier to implement consistent logic across different parts of your project.
+The **To Return** function in the Dynamic Engine allows you to create reusable blocks of code that perform specific tasks and return a value. Utilizing the **to** block, you define the function's logic, specify any necessary inputs, and determine the output value that is returned when the function is called. This enables efficient code management and simplifies complex operations by encapsulating functionality within named functions, making it easier to implement consistent logic across different parts of your project.
 
 Another way to think about the **To Return** function is a custom formula for a specific variable. For example, if we are always calculating straight-line depreciation, it is easier to have a function we can call up and just send the values.
 
