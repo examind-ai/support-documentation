@@ -1,12 +1,12 @@
 ---
-description: This article shows you how to build a Excel Workbook question in EXAMIND
+description: This article shows you how to build an Excel Workbook question.
 ---
 
 # Excel Workbook
 
 ## Overview
 
-An Excel Workbook Question enables students to work directly inside Excel with a direct connection to EXAMIND. Using a specialized plugin, students input a unique code to launch their EXAMIND question. When they are complete, they can click a button inside of Excel to submit their work to EXAMIND's autograder. This type of question is ideal for courses that require data analysis, financial modeling, statistical computations, or spreadsheet-based problem-solving.
+Excel workbook questions enable students to work directly inside Excel with a direct connection to EXAMIND. Using a specialized plugin, students input a unique code to launch their EXAMIND question. When they are complete, they can click a button inside of Excel to submit their work to EXAMIND's autograder. This type of question is ideal for courses that require data analysis, financial modeling, statistical computations, or spreadsheet-based problem-solving.
 
 ### Why Use It
 
@@ -17,7 +17,7 @@ This question type allows students to practice real-world skills. They can forma
 * **Authentic Assessment:** Closely mimics on-the-job tasks, enhancing students’ career readiness.
 
 {% hint style="info" %}
-EXAMIND provides full autograding with partial credit on Excel Workbook questions.
+EXAMIND provides full autograding with partial credit on Excel workbook questions.
 {% endhint %}
 
 ### Use Cases
