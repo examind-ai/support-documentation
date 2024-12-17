@@ -7,21 +7,21 @@ description: This article shows you how to control logistics during a live asses
 
 ## **What Is Live View?**
 
-Live View is a feature within EXAMIND that gives instructors visibility into what his happening during an assessment in real time. Within Live View you can also force submit a student's assessment, add additional time, or re-open a student's previously submitted exam.
+Live View gives instructors visibility into what is happening during an assessment in real-time. Within Live View, you can also force submit a student's assessment, add additional time, or re-open a student's previously submitted exam.
 
 ### Accessing Live View
 
-1. Click Assessments in the left menu
+1. Click **Assessments** in the left menu
 2. Click the desired assessment
 3. Click **Live View** in the left menu
 
 ### **Tab Views**
 
-There are threes sections in Live View.
+There are threes sections in Live View:
 
 {% tabs %}
 {% tab title="NOT STARTED" %}
-This tab shows which student have not started their assessment.
+This tab displays which students have not started their assessment.
 
 #### Status Icons
 
@@ -31,7 +31,7 @@ This tab shows which student have not started their assessment.
 {% endtab %}
 
 {% tab title="IN PROGRESS" %}
-This tab shows which student have started, but not submitted their assessment.
+This tab displays which students have started, but not submitted their assessment.
 
 #### Status Icons
 
@@ -53,12 +53,12 @@ The following diagnostic information is available while hovering on the status i
 * Location
 
 {% hint style="info" %}
-Instructors can also use this information to identify usual behavior
+Instructors can also use this information to identify usual behavior.
 {% endhint %}
 {% endtab %}
 
 {% tab title="SUBMITTED" %}
-This tab shows which student submissions have been completed.
+This tab displays which students have submitted their assessment.
 
 #### Status Icons
 
@@ -81,10 +81,10 @@ Instructors can also use this information to identify usual behavior
 
 ## Live Control
 
-There are two ways to access live view controls:
+There are two ways to access Live View controls:
 
 1. Click on the student name
-2. Select multiple students and click Bulk Actions
+2. Select multiple students and click **Bulk Actions**
 
 ### Pause/Unpause
 
@@ -120,7 +120,7 @@ Forcing a submission will:
 
 ### Reopen Attempt
 
-After an assessment has been submitted, it can be reopened in the Submitted tab of the live view. You can specify the time limit for the reopened attempt and the due date. The timer will begin when the student enters their assessment.
+After an assessment has been submitted, it can be reopened in the Submitted tab of Live View. You can specify the time limit for the reopened attempt and the due date. The timer will begin when the student enters their assessment.
 
 EXAMIND records each **Take** of an attempt in the Live View. Reopening an attempt creates a subsequent take, as seen below.
 
@@ -128,5 +128,5 @@ EXAMIND records each **Take** of an attempt in the Live View. Reopening an attem
 
 ### Bulk Actions
 
-You can perform any of the above actions in bulk by selecting the checkboxes and clicking Bulk Actions.
+You can perform any of the above actions in bulk by selecting the checkboxes and clicking **Bulk Actions**.
 
