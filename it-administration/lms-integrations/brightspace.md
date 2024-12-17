@@ -62,4 +62,4 @@ Leave blank
 
 ## Step 2: Assessment Deeplink
 
-Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink.md#brightspace) for instructions on how to link a Blackboard assessment to an EXAMIND assessment.
+Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink.md#brightspace) for instructions on how to link a Brightspace activity to an EXAMIND assessment.
