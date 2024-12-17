@@ -1,6 +1,11 @@
 ---
 icon: hand-wave
+cover: .gitbook/assets/ian-dooley-DJ7bWa-Gwks-unsplash.jpg
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:

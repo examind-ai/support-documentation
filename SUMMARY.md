@@ -74,7 +74,3 @@
   * [Moodle](it-administration/lms-integrations/moodle.md)
 * [HECVAT Documentation](it-administration/hecvat-documentation.md)
 * [IT Support](it-administration/it-support.md)
-
-## Gitbook Notes
-
-* [Publish your docs](gitbook-notes/publish-your-docs.md)
