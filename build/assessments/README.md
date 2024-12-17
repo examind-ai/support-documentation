@@ -1,6 +1,6 @@
 ---
 icon: clipboard-list
-description: This section helps instructors learn more about Assessments in EXAMIND.
+description: This section helps instructors learn how to build and share assessments.
 ---
 
 # Assessments
