@@ -4,8 +4,6 @@ description: This article shows you how to create a deeplink in Blackboard.
 
 # Blackboard
 
-Below you will find assessment deeplink instructions for Blackboard Ultra and Blackboard Classic.
-
 ## Blackboard Ultra
 
 From the Course Content section, click the **+** icon to add content and select Content Market.
