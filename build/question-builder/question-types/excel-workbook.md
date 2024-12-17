@@ -24,7 +24,7 @@ EXAMIND provides full autograding with partial credit on Excel workbook question
 
 * **Accounting and Finance:** Create financial models, forecast cash flows, or prepare budgets.
 * **Statistics and Data Analysis:** Run descriptive statistics, regression analyses, or create pivot tables from provided datasets.
-* **Operations Management:** Model inventory decisions, optimize supply chain scenarios, or simulate queuing mod
+* **Operations Management:** Model inventory decisions, optimize supply chain scenarios, or simulate queuing models.
 
 ## Create and Configure
 
@@ -36,7 +36,7 @@ This question type is only available in closed beta. For more information, email
 
 ### Ensuring Academic Integrity
 
-* **Randomized Data Sets:** Use different data sets for each student or each attempt, making it harder to share answers.
+* **Randomized Data Sets:** Use different data sets for each student or each attempt, making it harder to share answers or collaborate.
 * **Time Limits:** Set a reasonable time limit for accessing and submitting the Excel workbook to reduce external collaboration.
 
 {% hint style="info" %}
@@ -45,7 +45,7 @@ To improve academic integrity, EXAMIND wipes all data in their workbook when the
 
 ### Common Issues
 
-* **Students overwrite reference cells or instructions:** Lock these cells or provide a protected sheet.
+* **Overwriting Cells:** Students can overwrite reference cells or instructions by mistake. Lock these cells or provide a protected sheet.
 * **Plugin Installation:** Students sometimes wait until the last minute to install the excel plugin. Conduct a low-stakes assignment at the start of your course to mitigate this issue.
 
 ### Best Practices
