@@ -17,7 +17,7 @@ This question type is effective for developing practical bookkeeping skills and 
 * Prepares students for more advanced topics and professional accounting tasks.
 
 {% hint style="info" %}
-EXAMIND provides full autograding with partial credit on Journal entry questions.
+EXAMIND provides full autograding with partial credit on journal entry questions.
 {% endhint %}
 
 ### Use Cases
