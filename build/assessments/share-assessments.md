@@ -1,7 +1,7 @@
 ---
 description: >-
   This article explains how to share assessments with another instructor at your
-  institution
+  institution or between your own courses.
 ---
 
 # Share Assessments
@@ -12,7 +12,11 @@ description: >-
 2. Click **Bulk Actions** and select **Share**
 3. Input the person's email and click **Share**
 
-## Retrieving Shared Questions
+{% hint style="info" %}
+If you are sharing assessments between your own courses, enter your own email. Shared questions will not mirror each other between courses.
+{% endhint %}
+
+## Retrieving Shared Assessments
 
 1. From the Courses page, click **Shares** on the left menu
 2. Click **View** under the table titled **Shared With Me**
