@@ -7,8 +7,7 @@ description: This article shows you how to install EXAMIND using LTI in Moodle.
 {% hint style="info" %}
 It should take no more than 15 minutes of work to get EXAMIND LTI set up, but the total elapsed time may span a couple of days due to a couple of back and forth communication that are required.
 
-To minimize this time, please complete **Step 1 (Send Moodle Instance URL to and Email Addresses to EXAMIND)** below. Although not required, it would also streamline the process to have an EXAMIND support staff on standby when you launch LTI Connect for the very first time. \
-
+To minimize this time, please complete **Step 1 (Send Moodle Instance URL to and Email Addresses to EXAMIND)** below. Although not required, it would also streamline the process to have an EXAMIND support staff on standby when you launch LTI Connect for the very first time.
 {% endhint %}
 
 ## Step 1: Send info to EXAMIND
@@ -17,7 +16,7 @@ In order for EXAMIND's iframe to load within your Moodle instance, EXAMIND must 
 
 Information can be emailed to [**support@examind.io**](mailto:support@examind.io).
 
----
+***
 
 ## Step 2: Add External Tool
 
@@ -27,10 +26,10 @@ From the Moodle **Site administration** / **Plugins** page, click the **External
 
 In the **Tool URL...**, enter the following:
 
-- For US data center users: https://lti.examind.io/register
-- For Canadian data center users: https://lti-ca.examind.io/register
+* For US data center users: https://lti.examind.io/register
+*   For Canadian data center users: https://lti-ca.examind.io/register
 
-  <figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-01-41-37-9252-AM.webp" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-01-41-37-9252-AM.webp" alt=""><figcaption></figcaption></figure>
 
 Click **Add LTI Advantage**
 
@@ -38,7 +37,7 @@ You will see a new tool with the name EXAMIND appear in your list. Click **Activ
 
 <figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-01-43-03-4548-AM.webp" alt=""><figcaption></figcaption></figure>
 
----
+***
 
 ## Step 3: Configure LTI Tool
 
@@ -56,7 +55,7 @@ In **Privacy**, ensure **Share launcher's name with tool**, **Share launcher's e
 
 Click **Save changes**:
 
----
+***
 
 ## Step 4: Assessment Deeplink
 
