@@ -1,16 +1,14 @@
 ---
-description: This article shows you how to create an assessment.
+description: This article shows instructors how to create an assessment.
 ---
 
 # Assessment Builder
 
-## Create New Assessment
+## Create an Assessment
 
 1. Click **Assessments** in the left menu
 2. Click **+ Add Assessment**
-3. Input Assessment Title
-4. Select Assessment Type from dropdown menu
-5. Input Release and End Dates
+3. Input the desired information and click **Create Assessment**
 
 ## Assessment Types
 
@@ -22,29 +20,37 @@ EXAMIND supports five assessment types:
 4. Essay
 5. Simulation
 
-## Build an Assessment
+{% hint style="info" %}
+Exams, Quizzes and Practice are similar assessment types based on adding questions from the question bank.
+{% endhint %}
 
-This section describes how to build an assessment for each assessment type.
+## Build an Assessment
 
 ### Exam/Quiz/Practice
 
 Exams, quizzes, and practice assessments require three steps to build an assessment:
 
-**Step 1: Add Question to Assessment**
+{% stepper %}
+{% step %}
+**Add Question to Assessment**
 
-&#x20;Click the box next to the question title in your question bank to add the question to the assessment.
+Click the box next to the question title in your question bank to add the question to the assessment.
+{% endstep %}
 
-**Step 2: Verify Question Included in Assessment**&#x20;
+{% step %}
+**Verify Question Included in Assessment**&#x20;
 
-Questions added in Step 1 will appear in the assessment window on the righthand side.&#x20;
+Questions added in Step 1 will appear in the assessment window on the right-hand side.
 
 {% hint style="info" %}
 The number of questions, question pools, and points associated with the assessment will automatically update as you add questions.
 {% endhint %}
 
 To remove a question from the assessment, simply uncheck the box next to the question title in your question bank.&#x20;
+{% endstep %}
 
-**Step 3: Set Question Order**
+{% step %}
+**Set Question Order**
 
 By default, questions are ordered by question type into Question Groups and randomized within each group. You can make the following changes:
 
@@ -55,17 +61,19 @@ By default, questions are ordered by question type into Question Groups and rand
 {% hint style="info" %}
 Question Group titles will be presented to the student. One tip is to combine all questions into one group and rename the group the assessment title (e.g. Final Exam). In other cases you may want to fix long workout problems as the last questions in the exam.
 {% endhint %}
+{% endstep %}
+{% endstepper %}
 
-### Essays and Simulations
+### Essays/Simulations
 
 Essay and Simulation assessments requires three steps:
 
 1. Enter Instructions
-2. Select AI Model
-3. Enter AI System Prompt
+2. Select the AI Model
+3. Enter AI System Prompt (optional)
 
 Information included in the instructions text field will be presented to the student.
 
 {% hint style="info" %}
-For support building high quality AI system prompts contact support@examind.io.
+For support building high quality AI system prompts contact [**support@examind.io**](mailto:support@examind.io).
 {% endhint %}
