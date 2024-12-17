@@ -51,8 +51,8 @@ Select the following:
 * $User.username
 {% endtab %}
 
-{% tab title="Step 6 (Customer Parameters)" %}
-**Instructions for Step 6**
+{% tab title="Step 6" %}
+**Instructions for Step 6 (Custom Parameters)**
 
 Leave blank
 {% endtab %}
