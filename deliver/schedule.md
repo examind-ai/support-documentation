@@ -1,6 +1,6 @@
 ---
 icon: calendars
-description: This article explains how to schedule an assessment.
+description: This article shows you how to schedule an assessment.
 ---
 
 # Schedule
