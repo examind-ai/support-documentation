@@ -1,6 +1,6 @@
 ---
 icon: calendars
-description: This article explains how to schedule an assessment
+description: This article explains how to schedule an assessment.
 ---
 
 # Schedule
@@ -13,16 +13,16 @@ description: This article explains how to schedule an assessment
 
 ## Configure Options
 
-* **Time Limit:** Set a time limit for the assessment
-* **Number of Attempts:** Set a maximum number of attempts for the assessment
+* **Time Limit:** Set a time limit for the assessment.
+* **Number of Attempts:** Set a maximum number of attempts for the assessment.
 
 {% hint style="info" %}
-Leaving the number of attempts blank will allow unlimited attempts for the assessment
+Leaving the number of attempts blank will allow unlimited attempts for the assessment.
 {% endhint %}
 
 ## Availability
 
-Click **ADD AVAILABILITY** to add an availability window
+Click **ADD AVAILABILITY** to add an availability window. Availability windows can be set for the following:
 
 * **Everyone:** Set the availability window for every student in the Roster.
 * **Section:** Set the availability window for a specific section.
