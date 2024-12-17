@@ -48,9 +48,7 @@ To achieve our vision, we believe every assessment should exhibit the following 
 3. A normal distribution of scores (70% class average with a standard deviation of 10%).\*
 4. An assessment design in tune with the modern world and modern pedagogy (ex. incorporates ChatGPT instead of restricts it).
 
-{% hint style="info" %}
 \* Exceptions may occur, such as bimodal distributions in Organic Chemistry.
-{% endhint %}
 
 ## **Psychology of Cheating**
 
