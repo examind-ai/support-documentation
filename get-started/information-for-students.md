@@ -13,11 +13,11 @@ EXAMIND is a learning and assessment platform designed to minimize stress. We pr
 
 To access EXAMIND, log into your course's learning management system (LMS) and navigate to the assessment. Click on the assessment, and a new browser tab will automatically open to launch EXAMIND.
 
-Upon entering the student dashboard, you can navigate to your course and assessment. Initially, you will be given the opportunity to take a product tour, which is designed to help you learn how to navigate our platform. We encourage you to take the product tour to familiarize yourself with EXAMIND.
+Upon entering the student dashboard, you can navigate to your course and assessment. Every student will be enrolled in a demo course. We encourage you to take the demo quiz in the demo course to familiarize yourself with EXAMIND.
 
 ## System Requirements
 
-EXAMIND is a browser-based platform so no installation is required. We recommend using Google Chrome, Safari 15.0+, Firefox or Edge. We also recommend updating your web browser before your assessment.
+EXAMIND is a browser-based platform so no installation is required. We recommend using the latest version of Google Chrome, Safari, Firefox or Edge. We also recommend updating your web browser before your assessment.
 
 A computer is recommended for taking your assessment. We do not recommend using a mobile device, such as a smartphone or tablet. For the best experience, use a computer.
 
