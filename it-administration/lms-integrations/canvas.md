@@ -94,4 +94,4 @@ Once your Canvas platform is registered, try again:
 
 <figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-03-00-44-0898-PM.webp" alt=""><figcaption></figcaption></figure>
 
-From this point forward, linking an assessment in EXAMIND to an assignment in Canvas can be done by the instructor without administrator involvement.
+From this point forward, [linking an assessment in EXAMIND to an assignment in Canvas](../../get-started/lms-integrated/assessment-deeplink.md#canvas) can be done by the instructor without administrator involvement.
