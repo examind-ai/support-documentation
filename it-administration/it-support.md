@@ -1,13 +1,13 @@
 ---
 icon: message-question
-description: This article shows you how to obtain a copy of EXAMIND's latest HECVAT
+description: This article shows you how to contact EXAMIND IT Support.
 ---
 
 # IT Support
 
 ## Support Time
 
-The EXAMIND team is available from 8:00 am to 6:00 pm PST Monday to Friday.
+The EXAMIND team is available from 8:00 am to 6:00 pm Pacific Time, Monday to Friday.
 
 ### Live Support
 
