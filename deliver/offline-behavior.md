@@ -11,7 +11,7 @@ description: >-
 
 When a student disconnects from the internet during an assessment, the student can continue working seamlessly without interruption. Offline progress is queued and automatically saved to the server upon reconnection. Tactical deterrents also function offline for enhanced academic integrity.
 
-Inside of the assessment, student can see a subtle indication that they are offline. This design optimizes focus for a student so they are free from distraction.
+In the assessment, students will see a subtle indication that they are offline. This design optimizes focus so that students are not distracted if they lose internet connection.
 
 ![](https://instructor-help.examind.io/hs-fs/hubfs/unnamed-png.png?width=688\&height=537\&name=unnamed-png.png)
 
@@ -21,13 +21,13 @@ If a student remains offline when they submit their assessment, one of following
 
 A student comes back online _before_ they submit their assessment or run out of time.
 
-**Result:** Everything if fine and all progress is uploaded to the server
+**Result:** Everything is fine and all progress is uploaded to the server.
 
 ### Scenario 2
 
 A student comes back online _after_ they submit their assessment or run out of time.
 
-**Result:** Changes made offline are saved, but held for a review. EXAMIND's Support team is notified immediately on submission and will examine the assessment's logs within the same business day. If no suspicious behavior is present, the assessment is finalized and added to the results page. If there is indication of suspicious behavior, the instructor is informed and presented evidence to make a decision on how to proceed.
+**Result:** Changes made offline are saved, but held for a review. EXAMIND's support team is notified immediately on submission and will examine the assessment logs within the same business day. If no suspicious behavior is present, the assessment is finalized and added to the results page. If there is indication of suspicious behavior, the instructor is informed and presented evidence to make a decision on how to proceed.
 
 ### Scenario 3
 
@@ -43,7 +43,7 @@ It is important that students do not close the browser until their progress has 
 
 ## Offline Submissions
 
-The User Interface (UI) will adapt for students who are offline. If there are any unsaved changes the student went offline, we will display the following on screen.
+The User Interface (UI) will adapt for students who are offline. If there are any unsaved changes while the student went offline, we will display the following on screen.
 
 ![](https://instructor-help.examind.io/hs-fs/hubfs/image-png-May-07-2024-05-26-13-2877-PM.png?width=503\&height=494\&name=image-png-May-07-2024-05-26-13-2877-PM.png)
 
@@ -67,8 +67,6 @@ At any time during this waiting period, if the student tries to close their brow
 
 ## **Computer Shutdown**
 
-If the student shuts down the computer while offline, there is a chance that the student won't receive the browser warning that they risk losing data. This problem is more prevalent on computers running Windows than computers running macOS.
+If the student shuts down the computer while offline, there is a chance that the student won't receive the browser warning and therefore risk losing their data. This problem is more prevalent on computers running Windows than computers running macOS.
 
 Regardless of the operating system used, it is advisable to ask students not to attempt a computer shutdown until they receive confirmation that their assessment has been submitted successfully.
-
-\
