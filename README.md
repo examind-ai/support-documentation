@@ -97,7 +97,7 @@ After conducting over five-hundred one-on-one interviews with students from univ
 2. **Asynchronous information:** When students who have taken the exam share information with those who have not.
 3. **Group collaboration:** When students collaborate in person or digitally during an exam.
 4. **Leaked content:** When students acquire exam questions and answer keys from websites like Chegg, Course Hero, and Quizlet.
-5. **Contract cheating:** When students hire assistants help or write their exam.
+5. **Contract cheating:** When students hire assistants to help or write their exam.
 6. **AI-Content generation:** When students use AI to generate content.
 
 ## Rethinking Assessments and Integrity
