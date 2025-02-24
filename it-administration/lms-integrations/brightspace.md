@@ -10,6 +10,10 @@ Follow the steps in D2L's [Tool Registration, Deployment, and Links](https://com
 
 Note the following settings that are specific to EXAMIND:
 
+## Step 2: Assessment Deeplink
+
+Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink/#brightspace) for instructions on how to link a Brightspace activity to an EXAMIND assessment.
+
 {% tabs %}
 {% tab title="Step 3" %}
 **Instructions for Step 3**
@@ -57,9 +61,3 @@ Select the following:
 Leave blank
 {% endtab %}
 {% endtabs %}
-
-***
-
-## Step 2: Assessment Deeplink
-
-Refer to [Assessment Deeplink](../../get-started/lms-integrated/assessment-deeplink/#brightspace) for instructions on how to link a Brightspace activity to an EXAMIND assessment.

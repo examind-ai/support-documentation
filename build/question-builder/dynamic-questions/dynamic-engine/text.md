@@ -18,7 +18,7 @@ There are twelve kinds of _text_ blocks you can use in the Dynamic Engine. This 
 
 The **basic** block assigns a text value to a variable of your choosing. For example, this sets the value of the variable named "first name" to the text "John".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%207-27-47%20PM-png.png?width=575&#x26;height=84&#x26;name=Screen%20Shot%202024-06-03%20at%207-27-47%20PM-png.png" alt="" height="84" width="575"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 7-27-47 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 Examples of pieces of text are:
 
@@ -37,7 +37,7 @@ Note that nothing between two quotation marks represents empty text, and looks l
 
 The **create text with** block combines different blocks to create a combined string of text. For example, this sets the value of the variable named "full name" to the text "John Doe".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%207-29-18%20PM-png.png?width=575&#x26;height=90&#x26;name=Screen%20Shot%202024-06-03%20at%207-29-18%20PM-png.png" alt="" height="90" width="575"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 7-29-18 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 Notice how the two **basic** text blocks that are being combined are "John" and " Doe". You also have the option to add more or less blocks by pressing the "+" or the "-".
 
@@ -45,21 +45,19 @@ Notice how the two **basic** text blocks that are being combined are "John" and 
 Be mindful of spaces in text blocks. There is an intentional space added in the " Doe" text to create "John Doe".
 {% endhint %}
 
-
-
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%207-30-03%20PM-png.png?width=575&#x26;height=120&#x26;name=Screen%20Shot%202024-06-03%20at%207-30-03%20PM-png.png" alt="" height="120" width="575"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 7-30-03 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 ### Text: Append Text
 
 The **append text** block adds values to the end of a variable. For example, this sets the value of the variable named "first name" to "John" and then adds the text "Doe" to the end. The end result is that the variable named "first name" will now show "John Doe".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%207-31-32%20PM-png.png?width=575&#x26;height=75&#x26;name=Screen%20Shot%202024-06-03%20at%207-31-32%20PM-png.png" alt="" height="75" width="575"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 7-31-32 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 ### Text: Letter Case
 
 The **set letter case** block formats your values. For example, this sets the value of the variable named "full name" to "John Doe".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%207-34-39%20PM-png.png?width=575&#x26;height=49&#x26;name=Screen%20Shot%202024-06-03%20at%207-34-39%20PM-png.png" alt="" height="49" width="575"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 7-34-39 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 There are 3 options when you select the dropdown:
 
@@ -71,7 +69,7 @@ There are 3 options when you select the dropdown:
 
 The **random** block selects from pre-populated datasets. For example, this sets the value of the variable named "first name" to a random female first name, such as "Anna".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%207-35-39%20PM-png.png?width=575&#x26;height=69&#x26;name=Screen%20Shot%202024-06-03%20at%207-35-39%20PM-png.png" alt="" height="69" width="575"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 7-35-39 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 Datasets can be select by clicking the dropdown menu next to the word "random". The current datasets available are the following:
 

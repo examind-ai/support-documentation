@@ -13,7 +13,7 @@ When a student disconnects from the internet during an assessment, the student c
 
 In the assessment, students will see a subtle indication that they are offline. This design optimizes focus so that students are not distracted if they lose internet connection.
 
-![](https://instructor-help.examind.io/hs-fs/hubfs/unnamed-png.png?width=688\&height=537\&name=unnamed-png.png)
+![](../.gitbook/assets/unnamed-png.png)
 
 If a student remains offline when they submit their assessment, one of following three things will occur:
 
@@ -45,11 +45,11 @@ It is important that students do not close the browser until their progress has 
 
 The User Interface (UI) will adapt for students who are offline. If there are any unsaved changes while the student went offline, we will display the following on screen.
 
-![](https://instructor-help.examind.io/hs-fs/hubfs/image-png-May-07-2024-05-26-13-2877-PM.png?width=503\&height=494\&name=image-png-May-07-2024-05-26-13-2877-PM.png)
+![](../.gitbook/assets/image-png-May-07-2024-05-26-13-2877-PM.png)
 
 After 10 seconds of attempting to connect, the screen will update.
 
-![](https://instructor-help.examind.io/hs-fs/hubfs/image-png-May-07-2024-05-26-25-4977-PM.png?width=649\&height=448\&name=image-png-May-07-2024-05-26-25-4977-PM.png)
+![](../.gitbook/assets/image-png-May-07-2024-05-26-25-4977-PM.png)
 
 At any time during this waiting period, if the student attempts to close their browser, the browser-system warning will appear.&#x20;
 
@@ -59,11 +59,11 @@ At any time during this waiting period, if the student attempts to close their b
 
 If the student runs out of time while offline and there are unsaved changes, the "time ran out" message will update accordingly.
 
-![](https://instructor-help.examind.io/hs-fs/hubfs/image-png-May-07-2024-05-33-04-9539-PM.png?width=503\&height=564\&name=image-png-May-07-2024-05-33-04-9539-PM.png)
+![](../.gitbook/assets/image-png-May-07-2024-05-33-04-9539-PM.png)
 
 At any time during this waiting period, if the student tries to close their browser, they will see the same browser-system warning.
 
-![](https://instructor-help.examind.io/hs-fs/hubfs/image-png-May-07-2024-05-42-09-1780-PM.png?width=521\&height=581\&name=image-png-May-07-2024-05-42-09-1780-PM.png)
+![](../.gitbook/assets/image-png-May-07-2024-05-42-09-1780-PM.png)
 
 ## **Computer Shutdown**
 

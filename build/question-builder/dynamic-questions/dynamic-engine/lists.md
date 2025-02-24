@@ -18,7 +18,7 @@ The **create list with** block assigns a list of values to your variable. This a
 
 For example, this sets the value of the variable named "List of Colors" to "Red,Blue,Green,Yellow".  The colors are separated by a comma when stored in the Dynamic Engine.
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-04%20at%209-29-34%20AM-png.png?width=575&#x26;height=146&#x26;name=Screen%20Shot%202024-06-04%20at%209-29-34%20AM-png.png" alt="" height="146" width="575"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-04 at 9-29-34 AM-png.png" alt=""><figcaption></figcaption></figure>
 
 ### List: Make List From Text
 
@@ -26,7 +26,7 @@ The **make list from text** block does the same thing as the **create list with*
 \
 For example, this sets the value of the variable named "List of Colors" to "Red,Blue,Green,Yellow" (same as above).
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-04%20at%209-32-41%20AM-png.png?width=688&#x26;height=49&#x26;name=Screen%20Shot%202024-06-04%20at%209-32-41%20AM-png.png" alt="" height="49" width="688"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-04 at 9-32-41 AM-png.png" alt=""><figcaption></figcaption></figure>
 
 The colors are separated by a comma when stored in the Dynamic Engine. The most common delimiter that people use with computers is a comma. We blew our intern's mind when we showed them that .csv files from excel stands for **C**omma **S**eparated **V**alues. 🤯
 
@@ -38,7 +38,7 @@ There are no spaces when using the delimiter, unless you specify the delimiter t
 
 The **in list get** block pulls a value out of the list. This is useful when you want to pull a random value from a list. For example, this sets the value of the variable named "Random Color" to either "Red", "Blue", "Green", or "Yellow".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-04%20at%209-35-47%20AM-png.png?width=575&#x26;height=58&#x26;name=Screen%20Shot%202024-06-04%20at%209-35-47%20AM-png.png" alt="" height="58" width="575"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-04 at 9-35-47 AM-png.png" alt=""><figcaption></figcaption></figure>
 
 The way this works is we first want to create a list. In this case, the list is called "List of Colors". Then, we want to create a new variable called "Random Color" that uses the **in list get** block from, and specify that we want a random value from the list.\
 \
@@ -50,7 +50,7 @@ The options for the **get** dropdown are:
 
 For example, the following blocks could result in the variable "Random Color" being "Green" and the list becoming "Red,Blue,Yellow".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-04%20at%209-37-34%20AM-png.png?width=1388&#x26;height=114&#x26;name=Screen%20Shot%202024-06-04%20at%209-37-34%20AM-png.png" alt="" height="114" width="1388"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-04 at 9-37-34 AM-png.png" alt=""><figcaption></figcaption></figure>
 
 The options for the **#** dropdown are:
 

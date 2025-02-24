@@ -136,7 +136,7 @@ Randomly pick the depreciation method as either straight-line or double-declinin
 
 Similar to what we did in Step 3 for the variables in our question stem, now specify the rules for the answer choices.
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60e43ea6010f6b39ade28801_aMBtPrd-4Rg2lanCuTYtSyEkfHNjodGgf_P_dWNqahupxYI22aTg5g7D9xsO4_HX_MR3nw5P4as3H9imSa1M9NS_WC7ZEfSPnMcBE_kZ44-M-AqoQSfYH-Zax01Dlg.png?width=688&#x26;height=265&#x26;name=60e43ea6010f6b39ade28801_aMBtPrd-4Rg2lanCuTYtSyEkfHNjodGgf_P_dWNqahupxYI22aTg5g7D9xsO4_HX_MR3nw5P4as3H9imSa1M9NS_WC7ZEfSPnMcBE_kZ44-M-AqoQSfYH-Zax01Dlg.png" alt="60e43ea6010f6b39ade28801_aMBtPrd-4Rg2lanCuTYtSyEkfHNjodGgf_P_dWNqahupxYI22aTg5g7D9xsO4_HX_MR3nw5P4as3H9imSa1M9NS_WC7ZEfSPnMcBE_kZ44-M-AqoQSfYH-Zax01Dlg"><figcaption><p>Example of a dynamic multiple-choice question</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60e43ea6010f6b39ade28801_aMBtPrd-4Rg2lanCuTYtSyEkfHNjodGgf_P_dWNqahupxYI22aTg5g7D9xsO4_HX_MR3nw5P4as3H9imSa1M9NS_WC7ZEfSPnMcBE_kZ44-M-AqoQSfYH-Zax01Dlg-1.webp" alt="60e43ea6010f6b39ade28801_aMBtPrd-4Rg2lanCuTYtSyEkfHNjodGgf_P_dWNqahupxYI22aTg5g7D9xsO4_HX_MR3nw5P4as3H9imSa1M9NS_WC7ZEfSPnMcBE_kZ44-M-AqoQSfYH-Zax01Dlg"><figcaption><p>Example of a dynamic multiple-choice question</p></figcaption></figure>
 
 In our example question, the correct choice is tied to the depreciation method. We need to tell EXAMIND what formula to use to derive the answer, based on the depreciation method.&#x20;
 
@@ -144,21 +144,21 @@ In our example question, the correct choice is tied to the depreciation method. 
 
 If the question asks for straight-line depreciation, the correct is based on the formula used to calculate straight-line depreciation:
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60e43fc60503952c73f63bb7_tALhXo3qEB6aNDOXaTRFFlHWjVuCDuLBthEq6u6iW1GmafYDK3GXbr7ImplyTJ3NDKKKTZej_2HFQ_V8_cCxZHYe6tYh9fslO2yzvBgf39ilOLHF6STru7BjfSVDBA.png?width=383&#x26;height=72&#x26;name=60e43fc60503952c73f63bb7_tALhXo3qEB6aNDOXaTRFFlHWjVuCDuLBthEq6u6iW1GmafYDK3GXbr7ImplyTJ3NDKKKTZej_2HFQ_V8_cCxZHYe6tYh9fslO2yzvBgf39ilOLHF6STru7BjfSVDBA.png" alt="60e43fc60503952c73f63bb7_tALhXo3qEB6aNDOXaTRFFlHWjVuCDuLBthEq6u6iW1GmafYDK3GXbr7ImplyTJ3NDKKKTZej_2HFQ_V8_cCxZHYe6tYh9fslO2yzvBgf39ilOLHF6STru7BjfSVDBA" height="72" width="383"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60e43fc60503952c73f63bb7_tALhXo3qEB6aNDOXaTRFFlHWjVuCDuLBthEq6u6iW1GmafYDK3GXbr7ImplyTJ3NDKKKTZej_2HFQ_V8_cCxZHYe6tYh9fslO2yzvBgf39ilOLHF6STru7BjfSVDBA.png" alt="60e43fc60503952c73f63bb7_tALhXo3qEB6aNDOXaTRFFlHWjVuCDuLBthEq6u6iW1GmafYDK3GXbr7ImplyTJ3NDKKKTZej_2HFQ_V8_cCxZHYe6tYh9fslO2yzvBgf39ilOLHF6STru7BjfSVDBA"><figcaption></figcaption></figure>
 
 Which translates to...
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60e43fdb02c6206f57e19872_TxvITfzHxdKGV9dng3tulAfRlIC7uzCv_R4M3MPl7HSxTMSD-I0yi4hmeMhve5QNuKwp0RC3_FQA3xUgJ9tGXB7CLJDUlWOIoOb4eEUAqaNRT0AWT-3ExSTS04Gh2Q.png?width=474&#x26;height=73&#x26;name=60e43fdb02c6206f57e19872_TxvITfzHxdKGV9dng3tulAfRlIC7uzCv_R4M3MPl7HSxTMSD-I0yi4hmeMhve5QNuKwp0RC3_FQA3xUgJ9tGXB7CLJDUlWOIoOb4eEUAqaNRT0AWT-3ExSTS04Gh2Q.png" alt="60e43fdb02c6206f57e19872_TxvITfzHxdKGV9dng3tulAfRlIC7uzCv_R4M3MPl7HSxTMSD-I0yi4hmeMhve5QNuKwp0RC3_FQA3xUgJ9tGXB7CLJDUlWOIoOb4eEUAqaNRT0AWT-3ExSTS04Gh2Q" height="73" width="474"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60e43fdb02c6206f57e19872_TxvITfzHxdKGV9dng3tulAfRlIC7uzCv_R4M3MPl7HSxTMSD-I0yi4hmeMhve5QNuKwp0RC3_FQA3xUgJ9tGXB7CLJDUlWOIoOb4eEUAqaNRT0AWT-3ExSTS04Gh2Q.png" alt="60e43fdb02c6206f57e19872_TxvITfzHxdKGV9dng3tulAfRlIC7uzCv_R4M3MPl7HSxTMSD-I0yi4hmeMhve5QNuKwp0RC3_FQA3xUgJ9tGXB7CLJDUlWOIoOb4eEUAqaNRT0AWT-3ExSTS04Gh2Q"><figcaption></figcaption></figure>
 
 #### **Correct Choice 2: Double-declining Balance Depreciation**
 
 If the question asks for double-declining depreciation, the correct is based on the formula used to calculate double-declining depreciation:
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60e43feed4637e6d48c8d343_JPQJLPte2kNqUOinjbMea1cs3iIGFFjjS0vqHjFu32EZNgSVH8zx0y0XKF4ZlpnRh6dWda52MmAgdP6XHnxYWb0S9QigtGvKYMNe6r0raY2ODVqjVnki1rOqeAvmaw.png?width=467&#x26;height=76&#x26;name=60e43feed4637e6d48c8d343_JPQJLPte2kNqUOinjbMea1cs3iIGFFjjS0vqHjFu32EZNgSVH8zx0y0XKF4ZlpnRh6dWda52MmAgdP6XHnxYWb0S9QigtGvKYMNe6r0raY2ODVqjVnki1rOqeAvmaw.png" alt="60e43feed4637e6d48c8d343_JPQJLPte2kNqUOinjbMea1cs3iIGFFjjS0vqHjFu32EZNgSVH8zx0y0XKF4ZlpnRh6dWda52MmAgdP6XHnxYWb0S9QigtGvKYMNe6r0raY2ODVqjVnki1rOqeAvmaw" height="76" width="467"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60e43feed4637e6d48c8d343_JPQJLPte2kNqUOinjbMea1cs3iIGFFjjS0vqHjFu32EZNgSVH8zx0y0XKF4ZlpnRh6dWda52MmAgdP6XHnxYWb0S9QigtGvKYMNe6r0raY2ODVqjVnki1rOqeAvmaw.png" alt="60e43feed4637e6d48c8d343_JPQJLPte2kNqUOinjbMea1cs3iIGFFjjS0vqHjFu32EZNgSVH8zx0y0XKF4ZlpnRh6dWda52MmAgdP6XHnxYWb0S9QigtGvKYMNe6r0raY2ODVqjVnki1rOqeAvmaw"><figcaption></figcaption></figure>
 
 Which translates to...
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60e44003528074772b627d76_tfK6I-r6Nn1z0JVHENwYMPmK_otEtwmNfTInMCmyb5QIzBK8HsnI2H4JWrFmkDexPETIeKNKV1wZesrc9naXe9slMT3vV467he-19VsIxpnqqkYOWUnNmO92DPlRww.png?width=331&#x26;height=84&#x26;name=60e44003528074772b627d76_tfK6I-r6Nn1z0JVHENwYMPmK_otEtwmNfTInMCmyb5QIzBK8HsnI2H4JWrFmkDexPETIeKNKV1wZesrc9naXe9slMT3vV467he-19VsIxpnqqkYOWUnNmO92DPlRww.png" alt="60e44003528074772b627d76_tfK6I-r6Nn1z0JVHENwYMPmK_otEtwmNfTInMCmyb5QIzBK8HsnI2H4JWrFmkDexPETIeKNKV1wZesrc9naXe9slMT3vV467he-19VsIxpnqqkYOWUnNmO92DPlRww" height="84" width="331"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60e44003528074772b627d76_tfK6I-r6Nn1z0JVHENwYMPmK_otEtwmNfTInMCmyb5QIzBK8HsnI2H4JWrFmkDexPETIeKNKV1wZesrc9naXe9slMT3vV467he-19VsIxpnqqkYOWUnNmO92DPlRww.png" alt="60e44003528074772b627d76_tfK6I-r6Nn1z0JVHENwYMPmK_otEtwmNfTInMCmyb5QIzBK8HsnI2H4JWrFmkDexPETIeKNKV1wZesrc9naXe9slMT3vV467he-19VsIxpnqqkYOWUnNmO92DPlRww"><figcaption></figcaption></figure>
 
 Notice how both the answer for straight-line depreciation ($362,100) and double-declining balance depreciation ($852,000) show up in the answer choices? This was by design. In order to create good functional distractors, you want to create incorrect answers that are commonly made mistakes.
 
@@ -172,11 +172,11 @@ In the above example we looked at a numerical question. Dynamic questions can al
 
 Here is a question we designed for a finance course:
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60ee161ca29d1826b4e1eb4b_Screen%20Shot%202021-07-13%20at%203.34.14%20PM.png?width=688&#x26;height=167&#x26;name=60ee161ca29d1826b4e1eb4b_Screen%20Shot%202021-07-13%20at%203.34.14%20PM.png" alt="60ee161ca29d1826b4e1eb4b_Screen Shot 2021-07-13 at 3.34.14 PM"><figcaption><p>Example of a multiple-choice question for finance</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60ee161ca29d1826b4e1eb4b_Screen Shot 2021-07-13 at 3.34.14 PM.png" alt="60ee161ca29d1826b4e1eb4b_Screen Shot 2021-07-13 at 3.34.14 PM"><figcaption><p>Example of a multiple-choice question for finance</p></figcaption></figure>
 
 Now, here is the same question with the dynamic variables highlighted:
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60ee164365373ebb252e0de1_Screen%20Shot%202021-07-13%20at%203.39.00%20PM.png?width=688&#x26;height=174&#x26;name=60ee164365373ebb252e0de1_Screen%20Shot%202021-07-13%20at%203.39.00%20PM.png" alt="60ee164365373ebb252e0de1_Screen Shot 2021-07-13 at 3.39.00 PM" height="174" width="688"><figcaption><p>Example of a dynamic multiple-choice question for finance</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60ee164365373ebb252e0de1_Screen Shot 2021-07-13 at 3.39.00 PM.png" alt="60ee164365373ebb252e0de1_Screen Shot 2021-07-13 at 3.39.00 PM"><figcaption><p>Example of a dynamic multiple-choice question for finance</p></figcaption></figure>
 
 ### **Step 1: Write Question**
 
@@ -186,7 +186,7 @@ Just copy and paste the above question into EXAMIND’s question builder.
 
 Once again, plan out which variables to change and name them. Below is a summary of the categories I created for this question:
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60ee166ac089df98d3445644_Screen%20Shot%202021-07-13%20at%203.40.31%20PM.png?width=688&#x26;height=126&#x26;name=60ee166ac089df98d3445644_Screen%20Shot%202021-07-13%20at%203.40.31%20PM.png" alt="60ee166ac089df98d3445644_Screen Shot 2021-07-13 at 3.40.31 PM" height="126" width="688"><figcaption><p>Table of variables and thought process</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60ee166ac089df98d3445644_Screen Shot 2021-07-13 at 3.40.31 PM.png" alt="60ee166ac089df98d3445644_Screen Shot 2021-07-13 at 3.40.31 PM"><figcaption><p>Table of variables and thought process</p></figcaption></figure>
 
 ### **Step 3: Specify Rules**
 
@@ -229,7 +229,7 @@ Let’s consider when the question asks us to use FIFO, when the direction of th
 
 #### **Scenario: FIFO, Higher, and Deflationary:**
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/60ee16eba5d8583ab77c6d44_Screen%20Shot%202021-07-13%20at%203.42.39%20PM.png?width=688&#x26;height=280&#x26;name=60ee16eba5d8583ab77c6d44_Screen%20Shot%202021-07-13%20at%203.42.39%20PM.png" alt="60ee16eba5d8583ab77c6d44_Screen Shot 2021-07-13 at 3.42.39 PM" height="280" width="688"><figcaption><p>Table of variables and thought process</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/60ee16eba5d8583ab77c6d44_Screen Shot 2021-07-13 at 3.42.39 PM.png" alt="60ee16eba5d8583ab77c6d44_Screen Shot 2021-07-13 at 3.42.39 PM"><figcaption><p>Table of variables and thought process</p></figcaption></figure>
 
 Based on this scenario, we need to build some logic into EXAMIND. All we need to do is build some “if then” logic into EXAMIND. We tell EXAMIND that “if” the scenario is FIFO, Higher, and Deflationary, “then” randomly pick one of the correct answers from the correct answer list and then randomly select the remaining answer choices from the incorrect answer list.
 

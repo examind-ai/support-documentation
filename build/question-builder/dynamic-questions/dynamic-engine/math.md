@@ -19,13 +19,13 @@ There are thirteen kinds of _math_ blocks you can use in the Dynamic Engine. Thi
 
 The **specific** **number** block lets you specify a specific number. For example, the following specific number block is set to "100".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-31-06%20PM-png.png?width=123&#x26;height=76&#x26;name=Screen%20Shot%202024-06-03%20at%205-31-06%20PM-png.png" alt="" height="76" width="123"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 5-31-06 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 ### Math: Random Number
 
 The **random number** block randomly generates a number between two numbers with specified increments. For example, the following random number block sets the block to a random number from "0" to "100", in steps of "10".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-31-53%20PM-png.png?width=640&#x26;height=82&#x26;name=Screen%20Shot%202024-06-03%20at%205-31-53%20PM-png.png" alt="" height="82" width="640"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 5-31-53 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 For further clarity, the above example would create a random number that could be 0, 10, 20... up to 100.
 
@@ -33,7 +33,7 @@ For further clarity, the above example would create a random number that could b
 
 The **basic equation** block lets you specify mathematical operations with specific numbers or variables. For example, the following blocks first set the variable "number" to a random number between "0" and "100", in increments of "10", and then using a **basic equation** block adds the number "1" to the variable "number" to a new variable called "new number".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-40-41%20PM-png.png?width=679&#x26;height=108&#x26;name=Screen%20Shot%202024-06-03%20at%205-40-41%20PM-png.png" alt="" height="108" width="679"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 5-40-41 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 There are five mathematical operators within the dropdown menu of the **basic equation** block:
 
@@ -45,13 +45,13 @@ There are five mathematical operators within the dropdown menu of the **basic eq
 
 You can nest multiple basic equation blocks inside of each other, creating a whole world of possibilities. For example, the following two basic equation blocks were combined to (1) double the variable "number" and (2) take it to the power of "3".
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-49-53%20PM-png.png?width=600&#x26;height=128&#x26;name=Screen%20Shot%202024-06-03%20at%205-49-53%20PM-png.png" alt="" height="128" width="600"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 5-49-53 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 ### Math: Sum of List
 
 The **sum of list** block adds all the values in a list. It must be combined with a **list** block in order to work. For example, the following blocks set the variable "number" to 10, by adding the **specific number** blocks "2", "3", and "5" together.
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-45-30%20PM-png.png?width=684&#x26;height=133&#x26;name=Screen%20Shot%202024-06-03%20at%205-45-30%20PM-png.png" alt="" height="133" width="684"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 5-45-30 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 There are eight operators within the dropdown menu of this block:
 
@@ -68,7 +68,7 @@ There are eight operators within the dropdown menu of this block:
 
 The **round** block rounds a value to the nearest whole number. For example, the following blocks set the variable "number" to the value "3", by rounding 3.14159 down to 3.
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/Screen%20Shot%202024-06-03%20at%205-46-23%20PM-png.png?width=688&#x26;height=101&#x26;name=Screen%20Shot%202024-06-03%20at%205-46-23%20PM-png.png" alt="" height="101" width="688"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screen Shot 2024-06-03 at 5-46-23 PM-png.png" alt=""><figcaption></figcaption></figure>
 
 There are three operators within the dropdown menu of this block:
 
