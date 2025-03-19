@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/ian-dooley-DJ7bWa-Gwks-unsplash.jpg
+cover: .gitbook/assets/brooke-cagle-uWVWQ8gF8PE-unsplash.jpg
 coverY: 0
 layout:
   cover:

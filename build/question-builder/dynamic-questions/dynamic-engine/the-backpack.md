@@ -1,5 +1,4 @@
 ---
-icon: backpack
 description: This article explains the Backpack in our Dynamic Engine.
 ---
 
