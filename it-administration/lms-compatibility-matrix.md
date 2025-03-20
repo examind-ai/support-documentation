@@ -5,6 +5,10 @@ icon: table-pivot
 
 # LMS Compatibility Matrix
 
+## LTI Version
+
+EXAMIND uses LTI 1.3 for all LMS integrations.
+
 ## Integration Features
 
 The matrix below summarizes which features are supported when EXAMIND is installed as an LTI tool into Blackboard, Brightspace, Canvas, and Moodle.
