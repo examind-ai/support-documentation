@@ -19,7 +19,7 @@ Choose Dynamic.
 For Dynamic Registration URL, use one of the following:
 
 * For US data center users: https://lti.examind.io/register
-* For Canadian data center users: https://lti-ca.examind.io/registe
+* For Canadian data center users: https://lti-ca.examind.io/register
 {% endtab %}
 
 {% tab title="D2L Step 4" %}
