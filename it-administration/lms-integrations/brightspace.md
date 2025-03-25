@@ -14,7 +14,9 @@ Note the following settings that are specific to EXAMIND **inside of D2L**:
 {% tab title="D2L Step 3" %}
 **Instructions for Step 3**
 
-Choose Dynamic For Dynamic Registration URL, use one of the following:
+Choose Dynamic.
+
+For Dynamic Registration URL, use one of the following:
 
 * For US data center users: https://lti.examind.io/register
 * For Canadian data center users: https://lti-ca.examind.io/registe
