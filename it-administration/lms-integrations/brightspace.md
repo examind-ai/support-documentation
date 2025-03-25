@@ -20,12 +20,20 @@ For Dynamic Registration URL, use one of the following:
 
 * For US data center users: https://lti.examind.io/register
 * For Canadian data center users: https://lti-ca.examind.io/register
+
+After clicking `Register`, you will be greeted with a blank page. This is a known issue. Attempting to register again will result in a 500 error due to duplicate registration.
+
+Return to Brightspace and find the `EXAMIND` tool:
+
+* From the `Admin Tools` menu, click `Manage Extensibility`
+* From the `LTI Advantage` tab, select the `All` filter and search for `EXAMIND`
+* Open the `EXAMIND` tool and continue to `Step 4` of (https://community.d2l.com/brightspace/kb/articles/23662-tool-registration-deployment-and-links) at 
 {% endtab %}
 
 {% tab title="D2L Step 4" %}
 **Instructions for Step 4**
 
-Select both **Send Institution Role** and **Send Context Role**
+Select **Send Institution Role**
 {% endtab %}
 
 {% tab title="D2L Step 5" %}
