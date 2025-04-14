@@ -1,5 +1,6 @@
 ---
 description: This article shows you how to invite additional instructors to your course.
+icon: user-plus
 ---
 
 # Invite Instructors
