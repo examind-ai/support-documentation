@@ -16,6 +16,7 @@
     * [Canvas](get-started/lms-integrated/assessment-deeplink/canvas.md)
     * [Moodle](get-started/lms-integrated/assessment-deeplink/moodle.md)
   * [Post Grades](get-started/lms-integrated/post-grades.md)
+  * [Invite Instructors](get-started/lms-integrated/invite-instructors.md)
 * [Information for Students](get-started/information-for-students.md)
 
 ## Build
