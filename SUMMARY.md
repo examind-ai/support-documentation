@@ -73,5 +73,7 @@
   * [Brightspace](it-administration/lms-integrations/brightspace.md)
   * [Canvas](it-administration/lms-integrations/canvas.md)
   * [Moodle](it-administration/lms-integrations/moodle.md)
+* [Proctoring Integrations](it-administration/proctoring-integrations/README.md)
+  * [Honorlock Integration](it-administration/proctoring-integrations/honorlock-integration.md)
 * [HECVAT Documentation](it-administration/hecvat-documentation.md)
 * [IT Support](it-administration/it-support.md)
