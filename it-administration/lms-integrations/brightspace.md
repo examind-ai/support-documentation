@@ -4,7 +4,7 @@ description: This article shows you how to install EXAMIND using LTI in Brightsp
 
 # Brightspace
 
-Step 1: Send info to EXAMIND
+## Step 1: Send info to EXAMIND
 
 In order for EXAMIND's iframe to load within your Brightspace instance, EXAMIND must white-list your Brightspace domain by adding it to its _content-security-policy_ HTTP header. Please send us your production Brightspace Instance URL (example: https://devcop.brightspace.com).
 
