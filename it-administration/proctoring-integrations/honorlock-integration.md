@@ -13,7 +13,7 @@ There are 2 forms of integration with Honorlock:
 
 Open the Honorlock widget (usually accessed through Honorlock's LTI) and choose `Register Third Party Assessment`:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In `Admin Settings`, select for following:
 
