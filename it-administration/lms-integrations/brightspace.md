@@ -10,6 +10,8 @@ In order for EXAMIND's iframe to load within your Brightspace instance, EXAMIND 
 
 Information can be emailed to [**support@examind.io**](mailto:support@examind.io).
 
+***
+
 ## Step 2: Register LTI Tool
 
 From the **Admin Tools** menu, click **Manage Extensibility**:
@@ -110,6 +112,8 @@ Click Add Org Units and in the popup, select which organizations or courses shou
 
 Create Deployment.
 
+***
+
 ## Step 3: Add Link
 
 From the deployment page, click **View Links**:
@@ -130,6 +134,8 @@ For **Type**, select **Deep Linking Quicklink:**
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Click **Save and Close**.
+
+***
 
 ## Step 4: Assessment Deeplink
 
