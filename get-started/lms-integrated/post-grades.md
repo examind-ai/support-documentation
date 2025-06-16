@@ -13,8 +13,18 @@ icon: memo-circle-check
 ## Post Grades
 
 1. Click **Post Grades**
-2. Verify grades have been imported into your LMS
+2. Choose between `New submissions only` and `All submissions`
+3. Verify grades have been imported into your LMS
+
+{% hint style="warning" %}
+Choosing `All submissions` will update and override all grades linked to EXAMIND's assessment. EXAMIND does not automatically post grades in order to protect any changes you have made inside your LMS.
+{% endhint %}
 
 {% hint style="info" %}
-Post Grades will update and override all scores linked to EXAMIND. EXAMIND does not automatically post grades in order to protect any changes you have made inside your LMS.
+In order to post grades to Canvas, the following conditions must be met:
+
+* Course must have started
+* Course cannot have ended
+* Course must to be published (even if posting grades for `Test Student`)
+* If posting grades using the `All submissions` option, each grade post counts as an attempt in Canvas, so ensure sufficient attempts are allowed in the Canvas assignment
 {% endhint %}
