@@ -1,17 +1,6 @@
 ---
-icon: webhook
 description: This section helps IT teams configure their LMS integrations with EXAMIND.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+icon: webhook
 ---
 
 # LMS Integrations

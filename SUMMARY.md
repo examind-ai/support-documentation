@@ -58,6 +58,9 @@
 * [Live View](deliver/live-view.md)
 * [Offline Behavior](deliver/offline-behavior.md)
 * [Tactical Deterrents](deliver/tactical-deterrents.md)
+* [Excel Assignments](deliver/excel-assignments/README.md)
+  * [Installation](deliver/excel-assignments/installation.md)
+  * [Troubleshooting](deliver/excel-assignments/troubleshooting.md)
 
 ## Grade
 
