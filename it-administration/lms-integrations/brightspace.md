@@ -57,15 +57,15 @@ Add the following **Substitution Parameters**:
 | --------------------------------------------------------- | ------------------------------------- |
 | brightspace\_context\_id\_history                         | $Context.id.history                   |
 | brightspace\_course\_offering\_label                      | $CourseOffering.label                 |
-| brightspace\_course\_offering\_source\_id                 | $CourseOffering.sourcedId             |
+| brightspace\_course\_offering\_sourced\_id                | $CourseOffering.sourcedId             |
 | brightspace\_course\_offering\_title                      | $CourseOffering.title                 |
 | brightspace\_course\_section\_dept                        | $CourseSection.dept                   |
 | brightspace\_course\_section\_label                       | $CourseSection.label                  |
-| brightspace\_course\_section\_source\_id                  | $CourseSection.sourcedId              |
+| brightspace\_course\_section\_sourced\_id                 | $CourseSection.sourcedId              |
 | brightspace\_course\_section\_time\_frame\_begin          | $CourseSection.timeFrame.begin        |
 | brightspace\_course\_section\_time\_frame\_end            | $CourseSection.timeFrame.end          |
 | brightspace\_course\_section\_title                       | $CourseSection.title                  |
-| brightspace\_person\_source\_id                           | $Person.sourcedId                     |
+| brightspace\_person\_sourced\_id                          | $Person.sourcedId                     |
 | brightspace\_resource\_link\_available\_end\_date\_time   | $ResourceLink.available.endDateTime   |
 | brightspace\_resource\_link\_available\_start\_date\_time | $ResourceLink.available.startDateTime |
 | brightspace\_resource\_link\_id\_history                  | $ResourceLink.id.history              |
@@ -76,7 +76,7 @@ Add the following **Substitution Parameters**:
 
 It should look like this:
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 **Save** you changes without closing, as we will need to configure deployments next.
 
