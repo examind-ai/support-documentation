@@ -10,7 +10,7 @@ icon: memo-circle-check
 1. Navigate to the assessment in your LMS that is linked to EXAMIND
 2. Click on **EXAMIND** assessment to load EXAMIND LTI page
 
-## Exams and Quizzes
+## Exams, Quizzes, and Practices
 
 ### Post Grades
 
