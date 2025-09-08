@@ -12,7 +12,7 @@ icon: memo-circle-check
 
 ## Post Grades
 
-1. Click **Post Grades ok**
+1. Click **Post Grades**
 2. Choose between `New submissions only` and `All submissions`
 3. Verify grades have been imported into your LMS
 
