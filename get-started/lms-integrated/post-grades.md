@@ -10,14 +10,32 @@ icon: memo-circle-check
 1. Navigate to the assessment in your LMS that is linked to EXAMIND
 2. Click on **EXAMIND** assessment to load EXAMIND LTI page
 
-## Post Grades
+## Exams and Quizzes
+
+### Post Grades
 
 1. Click **Post Grades**
 2. Choose between `New submissions only` and `All submissions`
 3. Verify grades have been imported into your LMS
 
+## Essays and Simulations
+
+### Send Results
+
+* Click **Send Results**
+* Choose between `New submissions only` and `All submissions`
+* Verify grades have been imported into your LMS
+
+When sending essay and simulation results to Canvas, the system automatically uploads a PDF containing the student's complete results to SpeedGrader alongside the numerical grade.
+
 {% hint style="warning" %}
-Choosing `All submissions` will update and override all grades linked to EXAMIND's assessment. EXAMIND does not automatically post grades in order to protect any changes you have made inside your LMS.
+**All submissions:** Updates all grades in the LMS for this assessment. This will override any manual adjustments made directly in the LMS with the grades stored in EXAMIND.
+
+**New submissions only:** Sends grades only for students whose results have not yet been posted to the LMS, preserving any existing grades and manual adjustments.
+{% endhint %}
+
+{% hint style="info" %}
+EXAMIND does not automatically post grades to the LMS in order to protect any changes you have made inside your LMS.
 {% endhint %}
 
 {% hint style="info" %}
