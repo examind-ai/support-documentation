@@ -2,6 +2,7 @@
 description: >-
   LTI Roster sync happens automatically when anyone in a course initiates an LTI
   Launch. The sync process follows these conditions:
+coverY: 0
 ---
 
 # Roster Sync
