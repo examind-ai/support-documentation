@@ -18,6 +18,13 @@ Follow the first 3 steps in  [this Microsoft documentation](https://learn.micros
 * [x] Adult student
 * [x] Non-adult student
 
-{% hint style="danger" %}
-Ensure that the appropriate student groups are enabled based on your institution's user base. Students who enroll in courses using EXAMIND's Add-in must have access to Microsoft AppSource. If your institution has students enrolling and unenrolling throughout the term, permission granting must be automated to prevent students from being locked out of their assessments, which could cause significant stress during exam periods.
+Ensure that the appropriate student groups are enabled based on your institution's user base. Students who enroll in courses using EXAMIND's Add-in must have access to Microsoft AppSource.&#x20;
+
+{% hint style="warning" %}
+If your institution has students enrolling and unenrolling throughout the term, permission granting must be automated to prevent students from being locked out of their assessments, which could cause significant stress during exam periods.
 {% endhint %}
+
+For definition of `non-student users`, refer to [this Microsoft documentation page](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#manage-add-in-downloads-by-turning-onoff-appsource-across-all-apps-except-outlook).
+
+For definition of `adult student` and `non-adult student`, refer to [this Microsoft documentation page](https://learn.microsoft.com/en-us/entra/fundamentals/how-to-manage-user-profile-info#profile-categories).
+
