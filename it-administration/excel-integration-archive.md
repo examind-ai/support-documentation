@@ -2,10 +2,11 @@
 description: >-
   This page explains how to allow an institution's students to install and use
   EXAMIND's Excel Add-in as part of their assessments.
+hidden: true
 icon: file-excel
 ---
 
-# Excel Integration
+# Excel Integration (Archive)
 
 ### Terminology
 
