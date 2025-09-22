@@ -9,18 +9,18 @@ icon: file-excel
 
 ## Deployment Strategy Overview
 
-Deploy the EXAMIND Add-in directly from AppSource using Microsoft 365 Centralized Deployment to student groups enrolled in courses requiring the add-in. This approach creates an "Admin Managed" tab in Excel, making the add-in automatically available without requiring student installation.
+Deploy the EXAMIND Add-in directly from AppSource using [Microsoft 365 Centralized Deployment](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/centralized-deployment-of-add-ins?view=o365-worldwide) to student groups enrolled in courses requiring the add-in. This approach creates an "Admin Managed" tab in Excel, making the add-in automatically available without requiring student installation.
 
-## Deployment Steps
+## [Deployment Steps](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)
 
 1. Access Microsoft 365 Admin Center
    1. Navigate to Settings > Integrated apps
    2. Search for "EXAMIND" in AppSource
 2. Configure Group-Based Deployment
    1. Select the EXAMIND add-in
-   2. Choose "Assign to groups"
+   2. Assign the add-in to "Specific users / groups"
    3. Select appropriate student groups for courses using EXAMIND
-   4. Set deployment as "Required" for automatic installation
+   4. Set deployment method to "Fixed (Default)" for automatic installation
 
 ## Group Management
 
