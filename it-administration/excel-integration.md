@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page explains how to centrally grant students access to use EXAMIND's
-  Excel Add-in as part of their assessments.
+  This page explains how to deploy EXAMIND's Excel Add-in to students using
+  Microsoft 365 Centralized Deployment for seamless assessment integration.
 icon: file-excel
 ---
 
