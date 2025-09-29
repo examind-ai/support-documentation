@@ -26,23 +26,17 @@ Follow these steps to mirror one or more assessments into another course.
 8. Click **OK**
 
 {% hint style="info" %}
-All questions tied to this assessment will automatically be added to the new course's question bank
+All questions tied to an assessment will automatically be added to the new course's question bank
 {% endhint %}
 
 ## Special Considerations
 
 {% hint style="warning" %}
-Assessments copied between courses **remain linked**.
+Questioned copied between courses **remain linked**.
 
-Editing one assessment **automatically updates the other**, helping you maintain across multiple sections at scale.
+Editing questions from assessment **automatically updates the questios from the other**, helping you maintain across multiple sections at scale.
 
-These updates **do not** affect assignments that have already been submitted.
+These updates **do not** affect assessments that have already been submitted.
 {% endhint %}
 
-To manage each course separately, duplicate the copied assessment after adding it to the new course. This will create an independent version.
-
-### How to Duplicate an Assessment
-
-1. Click **Assessments** in the left menu
-2. Locate and click the **3 Dot Menu** at the end of the row
-3. Select **Duplicate**
+Please [contact us](../../it-administration/it-support.md#email-support) if you would like to manage each course separately.
