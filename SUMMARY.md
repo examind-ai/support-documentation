@@ -52,6 +52,7 @@
 * [Assessments](build/assessments/README.md)
   * [Assessment Builder](build/assessments/assessment-types.md)
   * [Share Assessments](build/assessments/share-assessments.md)
+  * [Copying Between Courses](build/assessments/copying-between-courses.md)
 
 ## Deliver
 

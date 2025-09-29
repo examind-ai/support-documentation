@@ -50,3 +50,12 @@ You will find the account email address below the name
 ### How to sign in with a new account
 
 Follow [this link](https://support.microsoft.com/en-us/office/sign-in-to-microsoft-365-b9582171-fd1f-4284-9846-bdd72bb28426#id0ebbl=windows) to learn about all the different ways to sign into your Microsoft account.
+
+## I can install the Add-in, but I can't access my assignment
+
+{% hint style="info" %}
+This issue comes up when your university switches permissions part way through&#x20;
+{% endhint %}
+
+### Uninstall the EXAMIND Add-in
+
