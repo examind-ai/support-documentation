@@ -106,7 +106,7 @@ We encourage you to review how points and error tolerance are treated with the a
 
 ### Integrity Statement
 
-It's common to ask students to acknowledge an integrity statement by entering their name and student ID. You may even want to award points when a student completes the acknowledgment. To configure the fill-in-the-blank grader to accept any value entered into the textbox, select the `Use Regex` option and enter `.+` in the Acceptable Answers box:
+It's common to ask students to acknowledge an integrity statement by entering their name and student ID. You may even want to award points when a student completes the acknowledgment. To configure the fill-in-the-blank grader to accept any value entered into the textbox, select the `Use Regex` option and enter `.+` in the `Acceptable Answers` box:
 
 <figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
