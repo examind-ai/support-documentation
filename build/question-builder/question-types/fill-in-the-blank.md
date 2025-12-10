@@ -104,6 +104,12 @@ We encourage you to review how points and error tolerance are treated with the a
 * **Limited Time Windows:** Give students a set amount of time to complete the question.
 * **Variety of Answers:** For content that is easily guessable, consider using synonyms or less obvious blanks.
 
+### Integrity Statement
+
+It's common to ask students to acknowledge an integrity statement by entering their name and student ID. You may even want to award points when a student completes the acknowledgment. To configure the fill-in-the-blank grader to accept any value entered into the textbox, select the `Use Regex` option and enter `.+` in the Acceptable Answers box:
+
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
 ### Common Issues
 
 * Students may have trouble spelling words. You can leverage error tolerance to catch spelling mistakes.

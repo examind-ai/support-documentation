@@ -1,8 +1,8 @@
 ---
-icon: graduation-cap
 description: >-
   This article introduces the concept of dynamic questions and explains their
   importance to academic integrity.
+icon: graduation-cap
 ---
 
 # Dynamic Overview
@@ -243,4 +243,4 @@ You don't need to spend hours creating versions of questions or exams any more. 
 
 This approach allows you to easily give unique assessments to every student thereby increasing academic integrity because it makes it much more difficult for students to cheat.
 
-At EXAMIND we are ready to help you start building dynamic questions and creating better exams in a fraction of the time. \
+At EXAMIND we are ready to help you start building dynamic questions and creating better exams in a fraction of the time. <br>
