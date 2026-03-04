@@ -39,6 +39,10 @@ EXAMIND does not automatically post grades to the LMS in order to protect any ch
 {% endhint %}
 
 {% hint style="info" %}
+The score posted to the LMS is determined by the **Score to Keep** setting on the assessment. See [Schedule](../../deliver/schedule.md).
+{% endhint %}
+
+{% hint style="info" %}
 In order to post grades to Canvas, the following conditions must be met:
 
 * Course must have started

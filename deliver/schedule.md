@@ -20,6 +20,10 @@ description: This article shows you how to schedule an assessment.
 Leaving the number of attempts blank will allow unlimited attempts for the assessment.
 {% endhint %}
 
+* **Score to Keep:** Determines which score is recorded when a student attempts the assessment multiple times. This is also the score that gets sent to the LMS when posting grades.
+  * **Last:** The score from the student's most recent attempt is kept.
+  * **Highest:** The highest score across all of the student's attempts is kept.
+
 ## Availability
 
 Click **ADD AVAILABILITY** to add an availability window. Availability windows can be set for the following:
