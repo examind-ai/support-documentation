@@ -7,6 +7,7 @@
 * [Standalone Use](get-started/standalone-use/README.md)
   * [Sign-in](get-started/standalone-use/sign-in.md)
   * [Course Management](get-started/standalone-use/course-management.md)
+  * [Student Direct Pay Setup](get-started/standalone-use/student-direct-pay-setup.md)
   * [Roster Management](get-started/standalone-use/roster-management.md)
   * [Grade Management](get-started/standalone-use/grade-management.md)
 * [LMS Integrated](get-started/lms-integrated/README.md)
