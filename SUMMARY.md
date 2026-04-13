@@ -80,6 +80,7 @@
   * [Moodle](it-administration/lms-integrations/moodle.md)
 * [Proctoring Integrations](it-administration/proctoring-integrations/README.md)
   * [Honorlock Integration](it-administration/proctoring-integrations/honorlock-integration.md)
+  * [Proctorio Integration](it-administration/proctoring-integrations/proctorio-integration.md)
 * [Excel Integration (Archive)](it-administration/excel-integration-archive.md)
 * [Excel Integration](it-administration/excel-integration.md)
 * [HECVAT Documentation](it-administration/hecvat-documentation.md)
