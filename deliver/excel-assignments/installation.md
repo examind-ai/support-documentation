@@ -8,6 +8,10 @@ description: This article explains how to install the EXAMIND Add-in for Microso
 Confirm you are signed in to Microsoft Excel with your student account before proceeding
 {% endhint %}
 
+## Supported Excel versions
+
+The EXAMIND Add-in supports desktop versions of Excel 2019 or later on macOS and Windows.
+
 ## How to install EXAMIND
 
 1. Open **Microsoft Excel**
