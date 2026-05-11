@@ -30,8 +30,6 @@ Please save the deployment ID and send it to your EXAMIND representative
 
 Under Institution Policies, all options should be selected. This includes Role in Course, Name, Email Address, and "Yes" for Allow grade service access and Allow Membership Service Access.
 
-<figure><img src="https://instructor-help.examind.io/hs-fs/hubfs/institution-polocies-png.png?width=646&#x26;height=259&#x26;name=institution-polocies-png.png" alt=""><figcaption></figcaption></figure>
-
 Select Submit.
 
 ### Step 1.1: Create a Placement (if not automatically created)
@@ -40,21 +38,16 @@ Select Submit.
 A placement is usually created automatically during registration. Only follow these steps if it was not. Without at least one placement, the tool will not appear in the Content Market even though the tool provider is registered and approved.
 {% endhint %}
 
-1. In the **LTI Tool Providers** list, click the dropdown arrow next to **EXAMIND** to expand its menu, then select **Manage Placements**.
-
-   <!-- SCREENSHOT: EXAMIND dropdown menu open showing Manage Placements option -->
-
+1. In the **LTI Tool Providers** list, click the dropdown arrow next to **EXAMIND** to expand its menu, then select **Manage Placements**.\
+   ![](<../../.gitbook/assets/image (14).png>)
 2. Click **Create Placement** and fill in the following fields:
-   - **Label**: `EXAMIND` (this is the display name shown to instructors in the course)
-   - **Handle**: a unique identifier with no spaces (e.g. `examind-lti`)
-   - **Availability**: Yes
-   - **Type**: **Deep Linking content tool**, with **Allow student access** checked
-   - **Target Link URI**:
-     - US data center: `https://lti.examind.io`
-     - Canadian data center: `https://lti-ca.examind.io`
-
-   <!-- SCREENSHOT: filled-in Create Placement form -->
-
+   * **Label**: `EXAMIND` (this is the display name shown to instructors in the course)
+   * **Handle**: a unique identifier with no spaces (e.g. `examind-lti`)
+   * **Availability**: Yes
+   * **Type**: **Deep Linking content tool**, with **Allow student access** checked
+   * **Target Link URI**:
+     * US data center: `https://lti.examind.io`
+     * Canadian data center: `https://lti-ca.examind.io`
 3. Click **Submit**.
 
 ***
