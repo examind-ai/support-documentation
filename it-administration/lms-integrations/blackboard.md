@@ -34,7 +34,28 @@ Under Institution Policies, all options should be selected. This includes Role i
 
 Select Submit.
 
-By default, a placement and deployment will be automatically set up for the EXAMIND LTI tool. The placement is configured as a Deep Linking content tool with student access. This setup should be sufficient, but if you need to provide access to different users, you can customize another placement by selecting the EXAMIND LTI from the LTI Provider Tools list and accessing the Manage Placements option from the dropdown menu.
+### Step 1.1: Create a Placement (if not automatically created)
+
+{% hint style="info" %}
+A placement is usually created automatically during registration. Only follow these steps if it was not. Without at least one placement, the tool will not appear in the Content Market even though the tool provider is registered and approved.
+{% endhint %}
+
+1. In the **LTI Tool Providers** list, click the dropdown arrow next to **EXAMIND** to expand its menu, then select **Manage Placements**.
+
+   <!-- SCREENSHOT: EXAMIND dropdown menu open showing Manage Placements option -->
+
+2. Click **Create Placement** and fill in the following fields:
+   - **Label**: `EXAMIND` (this is the display name shown to instructors in the course)
+   - **Handle**: a unique identifier with no spaces (e.g. `examind-lti`)
+   - **Availability**: Yes
+   - **Type**: **Deep Linking content tool**, with **Allow student access** checked
+   - **Target Link URI**:
+     - US data center: `https://lti.examind.io`
+     - Canadian data center: `https://lti-ca.examind.io`
+
+   <!-- SCREENSHOT: filled-in Create Placement form -->
+
+3. Click **Submit**.
 
 ***
 
