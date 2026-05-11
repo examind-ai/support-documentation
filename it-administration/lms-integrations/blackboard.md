@@ -46,8 +46,8 @@ A placement is usually created automatically during registration. Only follow th
    * **Availability**: Yes
    * **Type**: **Deep Linking content tool**, with **Allow student access** checked
    * **Target Link URI**:
-     * US data center: `https://lti.examind.io`
-     * Canadian data center: `https://lti-ca.examind.io`
+     * US data center: `https://lti.examind.io/`
+     * Canadian data center: `https://lti-ca.examind.io/`
 3. Click **Submit**.
 
 ***
