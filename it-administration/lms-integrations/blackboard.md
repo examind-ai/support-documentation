@@ -12,7 +12,7 @@ The following set of instructions apply for both Blackboard Classic and Blackboa
 
 #### Register the EXAMIND LTI Tool in Blackboard
 
-Log in with an administrator account and navigate to the Blackboard Administrator Panel by going to Admin > LTI Tool Provider.
+Log in with an administrator account and navigate to the Blackboard Administrator Panel by going to Admin > LTI Tool Providers.
 
 Click on Register LTI 1.3/Advantage Tool.
 
