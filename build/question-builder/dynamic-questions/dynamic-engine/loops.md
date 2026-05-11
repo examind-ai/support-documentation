@@ -38,7 +38,7 @@ The options for the **repeat** dropdown do the following:
 
 #### **Repeat While:**
 
-The _Repeat While_ block repeats its body while some condition is _true_.  To determine whether a condition is _true_ or _false_, [_Logic Blocks_](logic.md) need to be used. In the following example, the _Repeat While_ block is used to assign 3 random numbers between 1 and 100 to a variable named &#x53;_&#x6F;rted List_, but continue doing that while those random numbers are not sorted in ascending order.
+The _Repeat While_ block repeats its body while some condition is _true_. To determine whether a condition is _true_ or _false_, [_Logic Blocks_](logic.md) need to be used. In the following example, the _Repeat While_ block is used to assign 3 random numbers between 1 and 100 to a variable named &#x53;_&#x6F;rted List_, but continue doing that while those random numbers are not sorted in ascending order.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-17 at 8.15.49 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -88,7 +88,7 @@ The _Break Out_ block provides an [early exit from a loop](https://en.wikipedia.
 
 The _Continue With Next Iteration_ block causes the remaining code in the body to be skipped and for the next iteration of the loop to begin. The following example logs "red" on the first iteration of the loop. On the second iteration, the _Continue With Next Iteration_ block is run, skipping the logging of "green". On the final iteration, "blue" is logged.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 2.01.07 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-06 at 2.01.07 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note that _Continue With Next Iteration_ is called [continue](https://en.wikipedia.org/wiki/Control_flow#Continuation_with_next_iteration) in most programming languages

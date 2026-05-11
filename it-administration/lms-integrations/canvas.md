@@ -72,7 +72,7 @@ Go to a course in Canvas, then in the **Assignments** page, click the **+ Assign
 
 Enter an **Assignment Name** and set the appropriate **Points:**
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-37-24-8923-PM (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-37-24-8923-PM.webp" alt=""><figcaption></figcaption></figure>
 
 For **Submission Type**, select **External Tool**, then click **Find**:
 
@@ -82,7 +82,7 @@ Select the EXAMIND LTI Tool:
 
 <figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-39-38-1333-PM.webp" alt=""><figcaption></figcaption></figure>
 
-If this is the first time you launch LTI Connect for EXAMIND, you will encounter the following error message. An automatic notification will have already been sent to EXAMIND's support team to take action. If this happens during regular business hours, we will resolve this issue within a couple of hours and notify you by email when this is done.&#x20;
+If this is the first time you launch LTI Connect for EXAMIND, you will encounter the following error message. An automatic notification will have already been sent to EXAMIND's support team to take action. If this happens during regular business hours, we will resolve this issue within a couple of hours and notify you by email when this is done.
 
 {% hint style="info" %}
 If you skipped **Step 4 (Send Platform Information to EXAMIND)** for any reason, now would be a good time to send the requested information to [**support@examind.io**](mailto:support@examind.io), as we can't proceed with platform registration without that information.

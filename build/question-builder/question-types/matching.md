@@ -25,25 +25,25 @@ This question type is effective for checking if students can correctly associate
 
 {% stepper %}
 {% step %}
-### Write Your Question Stem
+#### Write Your Question Stem
 
 <figure><img src="../../../.gitbook/assets/33e4c513-95fc-4038-a1f6-80225d54299e.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Matching Block
+#### Add Matching Block
 
 <figure><img src="../../../.gitbook/assets/410f460a-5095-4c35-9851-3ad6b191f40a.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Input Item Premise and Correct Choice
+#### Input Item Premise and Correct Choice
 
-<figure><img src="../../../.gitbook/assets/35d635d3-da7c-4552-a8f3-bf20820fb885 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/35d635d3-da7c-4552-a8f3-bf20820fb885.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add More Matches
+#### Add More Matches
 
 Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND will only show one correct choice at a time if the item premise is identical.
 
@@ -51,13 +51,13 @@ Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND 
 {% endstep %}
 
 {% step %}
-### Add Distractors
+#### Add Distractors
 
 <figure><img src="../../../.gitbook/assets/4a5aede0-4f08-4486-ac1b-ad0e58b4b534.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Configure Settings
+#### Configure Settings
 
 {% hint style="info" %}
 Remember to click **Update** to save your settings

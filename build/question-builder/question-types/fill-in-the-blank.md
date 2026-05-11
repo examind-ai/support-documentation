@@ -10,7 +10,7 @@ Fill-in-the-blank questions require students to enter words or numbers into one 
 
 ### Why Use It
 
-This question type tests not only recall but also precision. It strengthens the neural connections to new knowledge by leveraging active retrieval.&#x20;
+This question type tests not only recall but also precision. It strengthens the neural connections to new knowledge by leveraging active retrieval.
 
 * Harder for AI-cheating systems to answer correctly.
 * Encourages precision in terminology and spelling.
@@ -30,25 +30,25 @@ EXAMIND is currently developing a new editor which will greatly enhance the capa
 
 {% stepper %}
 {% step %}
-### Add Fill-in-the-blank Block
+#### Add Fill-in-the-blank Block
 
 <figure><img src="../../../.gitbook/assets/3dff7874-eda9-44a0-8194-17d5ca39df1b.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Write your Question Stem
+#### Write your Question Stem
 
 <figure><img src="../../../.gitbook/assets/77fc83f0-3921-44e0-84bb-6331342cdb95.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Select Text and Insert Blank
+#### Select Text and Insert Blank
 
 <figure><img src="../../../.gitbook/assets/c1c0bec5-29ea-4b7c-8a84-ec25528223f6.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Configure Settings
+#### Configure Settings
 
 {% hint style="info" %}
 Remember to click **Update** to save your settings.
@@ -84,7 +84,7 @@ Use \{{mustache brackets\}} to add variables from the Dynamic Engine as acceptab
 {% endstep %}
 
 {% step %}
-### Review and Test Autograder
+#### Review and Test Autograder
 
 <figure><img src="../../../.gitbook/assets/9897da9c-a8e9-4035-b7c4-30f8f383de51.gif" alt=""><figcaption></figcaption></figure>
 

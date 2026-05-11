@@ -26,19 +26,19 @@ This question type is ideal when you want students to apply, analyze, or synthes
 
 {% stepper %}
 {% step %}
-### Write Your Question Stem
+#### Write Your Question Stem
 
 <figure><img src="../../../.gitbook/assets/5571e940-94e8-4f9e-829c-20ba4a7c22a0.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Short Answer Block
+#### Add Short Answer Block
 
 <figure><img src="../../../.gitbook/assets/8e20846c-bba6-4450-83b7-0947b8a7d965.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Input Correct Answer
+#### Input Correct Answer
 
 <figure><img src="../../../.gitbook/assets/c0d78808-90f2-402d-987d-aafdf2a80b35.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ Short answer autograding is available in closed beta. Contact [**support@examind
 {% endstep %}
 
 {% step %}
-### Configure Settings
+#### Configure Settings
 
 {% hint style="info" %}
 Remember to click **Update** to save your settings.
@@ -64,7 +64,7 @@ Remember to click **Update** to save your settings.
 Students are warned when they go over the word count and will be unable to type further at 2x the word limit.
 {% endhint %}
 
-<div data-full-width="false"><figure><img src="../../../.gitbook/assets/Screenshot 2024-12-13 at 12.19.03 PM (1).png" alt=""><figcaption><p>Example of a student response going over the word limit</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/Screenshot 2024-12-13 at 12.19.03 PM.png" alt=""><figcaption><p>Example of a student response going over the word limit</p></figcaption></figure></div>
 {% endstep %}
 {% endstepper %}
 

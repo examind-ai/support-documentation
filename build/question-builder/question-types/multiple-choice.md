@@ -28,25 +28,25 @@ This question type is suitable for quickly gauging students’ factual knowledge
 
 {% stepper %}
 {% step %}
-### Write Your Question Stem
+#### Write Your Question Stem
 
 <figure><img src="../../../.gitbook/assets/b0eade75-4a36-4444-93a1-6a186cbaaae0.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Multiple Choice Block
+#### Add Multiple Choice Block
 
 <figure><img src="../../../.gitbook/assets/0ab036c9-7436-44c3-a39d-90071db8c24c.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Input the Correct/Incorrect Answers
+#### Input the Correct/Incorrect Answers
 
 <figure><img src="../../../.gitbook/assets/61851c65-011a-4c7a-a4f7-50dda6876113.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Randomization
+#### Add Randomization
 
 Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND will only show one correct choice at a time.
 
@@ -54,7 +54,7 @@ Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND 
 {% endstep %}
 
 {% step %}
-### Configure Settings
+#### Configure Settings
 
 {% hint style="info" %}
 Remember to click **Update** to save your settings.

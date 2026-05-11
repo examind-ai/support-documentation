@@ -26,33 +26,33 @@ This question type can assess more nuanced understanding than single-answer form
 
 {% stepper %}
 {% step %}
-### Write Your Question Stem
+#### Write Your Question Stem
 
 <figure><img src="../../../.gitbook/assets/72aa34f8-bed6-4603-8982-ac7d537b79f6.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Multiple Answer Block
+#### Add Multiple Answer Block
 
 <figure><img src="../../../.gitbook/assets/d78b709d-6b33-4c31-94cd-141313613f25.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Input the Correct/Incorrect Answers
+#### Input the Correct/Incorrect Answers
 
 <figure><img src="../../../.gitbook/assets/1eb0b05c-11ff-4102-8c76-487ecf219d78.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Randomization
+#### Add Randomization
 
-Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND , by default, will show the number of correct and incorrect choices listed. To add randomization proceed to Step 5 and update the number of correct and incorrect choices to present to the student. &#x20;
+Use the + and x symbols to add more correct and incorrect alternatives. EXAMIND , by default, will show the number of correct and incorrect choices listed. To add randomization proceed to Step 5 and update the number of correct and incorrect choices to present to the student.
 
 <figure><img src="../../../.gitbook/assets/d22bfe89-7ade-4941-9cc8-7ad5a5000bb5.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Configure Settings
+#### Configure Settings
 
 {% hint style="info" %}
 Remember to click **Update** to save your settings.
@@ -60,7 +60,7 @@ Remember to click **Update** to save your settings.
 
 <figure><img src="../../../.gitbook/assets/87fb8c96-6309-42ad-b13e-3c1ba80fb896.png" alt=""><figcaption></figcaption></figure>
 
-The settings for multiple-answer questions include:&#x20;
+The settings for multiple-answer questions include:
 
 **Points:** The total point value for this question in an assessment.
 

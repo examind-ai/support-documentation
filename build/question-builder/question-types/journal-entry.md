@@ -30,25 +30,25 @@ EXAMIND provides full autograding with partial credit on journal entry questions
 
 {% stepper %}
 {% step %}
-### Write Your Question Stem
+#### Write Your Question Stem
 
 <figure><img src="../../../.gitbook/assets/d3e1b67c-ee57-433d-9b69-2c05eca1ff98.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Matching Block
+#### Add Matching Block
 
 <figure><img src="../../../.gitbook/assets/eb38e90f-ce77-493f-93c8-c5762d362a2e.gif" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Accounts, Debits, and Credits
+#### Add Accounts, Debits, and Credits
 
 <figure><img src="../../../.gitbook/assets/904ab03c-1e45-4654-83b3-82a6ab4c6df7.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-### Add Line Items
+#### Add Line Items
 
 Use the + and x symbols to add or remove correct line items.
 
@@ -56,7 +56,7 @@ Use the + and x symbols to add or remove correct line items.
 {% endstep %}
 
 {% step %}
-### Add Distractors
+#### Add Distractors
 
 <figure><img src="../../../.gitbook/assets/7e56676f-dc6f-431c-96b5-f29dfa9ca109.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +66,7 @@ The list of accounts is presented alphabetically in a dropdown menu to students.
 {% endstep %}
 
 {% step %}
-### Configure Settings
+#### Configure Settings
 
 {% hint style="info" %}
 Remember to click **Update** to save your settings.
@@ -84,7 +84,7 @@ Remember to click **Update** to save your settings.
 {% endstep %}
 
 {% step %}
-### Review and Test Autograder
+#### Review and Test Autograder
 
 The review tab provides a real-time autograder to help you see how points are awarded.
 

@@ -12,13 +12,13 @@ Select a course from the grid icon, click on Content tab, then add a new module 
 
 From inside a module, click Existing Add Existing Activities and select the EXAMIND Link was [created by IT Admin](../../../it-administration/lms-integrations/brightspace.md):
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 When you first launch the EXAMIND tool, you will be asked to select an EXAMIND course to link this Brightspace course to.
 
 Either select an existing course in EXAMIND or create a new one.
 
-<figure><img src="../../../.gitbook/assets/image-png-2 (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-png-2.webp" alt=""><figcaption></figcaption></figure>
 
 If you have already linked an EXAMIND course, you will be asked to select an assessment in EXAMIND. Either select an existing assessment or create a new one:
 

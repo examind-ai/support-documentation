@@ -1,6 +1,6 @@
 ---
-icon: server
 description: This article shows you how to control logistics during a live assessment.
+icon: server
 ---
 
 # Live View
@@ -23,9 +23,9 @@ There are threes sections in Live View:
 {% tab title="NOT STARTED" %}
 This tab displays which students have not started their assessment.
 
-#### Status Icons
+**Status Icons**
 
-<img src="../.gitbook/assets/Screenshot 2024-12-09 at 2.19.18 PM (1).png" alt="" data-size="line"> - The student has not arrived for their assessment
+<img src="../.gitbook/assets/Screenshot 2024-12-09 at 2.19.18 PM.png" alt="" data-size="line"> - The student has not arrived for their assessment
 
 <img src="../.gitbook/assets/Screenshot 2024-12-09 at 2.22.13 PM.png" alt="" data-size="line"> - The student has arrived to the waiting room for this assessment
 {% endtab %}
@@ -33,7 +33,7 @@ This tab displays which students have not started their assessment.
 {% tab title="IN PROGRESS" %}
 This tab displays which students have started, but not submitted their assessment.
 
-#### Status Icons
+**Status Icons**
 
 <img src="../.gitbook/assets/Screenshot 2024-12-09 at 2.40.31 PM.png" alt="" data-size="line"> - The student is online and in the assessment
 
@@ -43,7 +43,7 @@ This tab displays which students have started, but not submitted their assessmen
 Live connection is accurate for \~95-99% of users. The remaining 1-5% may have settings or configurations on their machines that prevent live connection status from being monitored reliably.
 {% endhint %}
 
-#### On Hover
+**On Hover**
 
 The following diagnostic information is available while hovering on the status icon:
 
@@ -60,11 +60,11 @@ Instructors can also use this information to identify usual behavior.
 {% tab title="SUBMITTED" %}
 This tab displays which students have submitted their assessment.
 
-#### Status Icons
+**Status Icons**
 
 <img src="../.gitbook/assets/Screenshot 2024-12-09 at 2.49.07 PM.png" alt="" data-size="line"> - The student submission has been finalized and they no longer have access
 
-#### On Hover
+**On Hover**
 
 Diagnostic information from each attempt is saved and available while hovering on the status icon:
 
@@ -129,4 +129,3 @@ EXAMIND records each **Take** of an attempt in the Live View. Reopening an attem
 ### Bulk Actions
 
 You can perform any of the above actions in bulk by selecting the checkboxes and clicking **Bulk Actions**.
-

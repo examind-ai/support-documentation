@@ -16,7 +16,7 @@ Log in with an administrator account and navigate to the Blackboard Administrato
 
 Click on Register LTI 1.3/Advantage Tool.
 
-<figure><img src="../../.gitbook/assets/register-lti-panel-png (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/register-lti-panel-png.webp" alt=""><figcaption></figcaption></figure>
 
 The Client ID will differ depending on whether you're connecting to EXAMIND's Data Center in Canada or the USA. Please contact [**support@examind.io**](mailto:support@examind.io) to request the Client ID.
 
@@ -26,7 +26,7 @@ After submitting, you will see the Modify LTI 1.3 Tool: EXAMIND panel, where mos
 Please save the deployment ID and send it to your EXAMIND representative
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/tool-status-png.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Under Institution Policies, all options should be selected. This includes Role in Course, Name, Email Address, and "Yes" for Allow grade service access and Allow Membership Service Access.
 

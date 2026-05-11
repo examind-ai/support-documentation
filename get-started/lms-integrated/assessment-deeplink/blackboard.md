@@ -10,7 +10,7 @@ description: >-
 
 From the Course Content section, click the **+** icon to add content and select Content Market.
 
-<figure><img src="../../../.gitbook/assets/ultra-course-view-png (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ultra-course-view-png.webp" alt=""><figcaption></figcaption></figure>
 
 Locate Institutional Tools and click the **Assessment** card to launch the EXAMIND LTI Tool.
 
@@ -18,7 +18,7 @@ Locate Institutional Tools and click the **Assessment** card to launch the EXAMI
 
 Complete the fields to match your Blackboard settings and click **Create Course.**
 
-<figure><img src="../../../.gitbook/assets/create-course-png-1-1.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/create-course-png-1.webp" alt=""><figcaption></figcaption></figure>
 
 ## Blackboard Classic
 
@@ -32,7 +32,7 @@ Select **Build Content** > **Assessment** to launch EXAMIND LTI tool.
 
 Complete the fields to match your Blackboard settings and click **Create Course.**
 
-<figure><img src="../../../.gitbook/assets/create-course-png-1-1.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/create-course-png-1.webp" alt=""><figcaption></figcaption></figure>
 
 ## Special Considerations
 
