@@ -5,5 +5,13 @@ description: This section helps instructors learn more about question types in E
 
 # Question Types
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Multiple Choice</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/Multiple Choice.png">Multiple Choice.png</a></td><td><a href="multiple-choice.md">multiple-choice.md</a></td></tr><tr><td><strong>Multiple Answer</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/Multiple Answer.png">Multiple Answer.png</a></td><td><a href="multiple-answer.md">multiple-answer.md</a></td></tr><tr><td><strong>Matching</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/Matching.png">Matching.png</a></td><td><a href="matching.md">matching.md</a></td></tr><tr><td><strong>Journal Entry</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/Journal Entry.png">Journal Entry.png</a></td><td><a href="journal-entry.md">journal-entry.md</a></td></tr><tr><td><strong>Fill-in-the-blank</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/Fill-in-the-blank.png">Fill-in-the-blank.png</a></td><td><a href="fill-in-the-blank.md">fill-in-the-blank.md</a></td></tr><tr><td><strong>Short Answer</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/Short Answer.png">Short Answer.png</a></td><td><a href="short-answer.md">short-answer.md</a></td></tr><tr><td><strong>Financial Statement</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/Financial Statement.png">Financial Statement.png</a></td><td><a href="financial-statement.md">financial-statement.md</a></td></tr><tr><td><strong>Excel Workbook</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/Excel Workbook.png">Excel Workbook.png</a></td><td><a href="../dynamic-questions/dynamic-engine/excel.md">excel.md</a></td></tr></tbody></table>
+EXAMIND supports eight question types — from auto-graded objective questions to specialized accounting and spreadsheet formats:
 
+* [**Multiple Choice**](multiple-choice.md) — one correct answer.
+* [**Multiple Answer**](multiple-answer.md) — more than one correct answer.
+* [**Matching**](matching.md) — pair items together.
+* [**Journal Entry**](journal-entry.md) — accounting journal entries with partial credit.
+* [**Fill-in-the-blank**](fill-in-the-blank.md) — complete a sentence with text, numbers, or dropdowns.
+* [**Short Answer**](short-answer.md) — a brief free-text response.
+* [**Financial Statement**](financial-statement.md) — build balance sheets, income statements, and cash flows.
+* [**Excel Workbook**](../dynamic-questions/dynamic-engine/excel.md) — spreadsheet tasks graded automatically.

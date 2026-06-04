@@ -51,6 +51,8 @@
       * [The Backpack](build/question-builder/dynamic-questions/dynamic-engine/the-backpack.md)
 * [Assessments](build/assessments/README.md)
   * [Assessment Builder](build/assessments/assessment-types.md)
+  * [Essay Assessments](build/assessments/essay-assessments.md)
+  * [Simulation Assessments](build/assessments/simulation-assessments.md)
   * [Share Assessments](build/assessments/share-assessments.md)
   * [Copying Between Courses](build/assessments/copying-between-courses.md)
 
@@ -73,6 +75,10 @@
 ## Feedback Machines
 
 * [Overview](feedback-machines/overview.md)
+* [Get Started](feedback-machines/get-started.md)
+* [Build a Feedback Machine](feedback-machines/build-a-feedback-machine.md)
+* [Deliver to Students](feedback-machines/deliver.md)
+* [Review & Export Results](feedback-machines/review.md)
 
 ## IT Administration
 
@@ -89,3 +95,10 @@
 * [Excel Integration](it-administration/excel-integration.md)
 * [HECVAT Documentation](it-administration/hecvat-documentation.md)
 * [IT Support](it-administration/it-support.md)
+
+## Our Approach
+
+* [Overview](our-approach/README.md)
+* [Understanding Cheating Modes](our-approach/cheating-modes.md)
+* [Working with Online Proctoring](our-approach/online-proctoring.md)
+* [About EXAMIND](our-approach/about-examind.md)

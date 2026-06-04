@@ -66,14 +66,11 @@ Question Group titles will be presented to the student. One tip is to combine al
 
 ### Essays/Simulations
 
-Essay and Simulation assessments requires three steps:
+Essay and Simulation assessments each consist of a single question and have their own setup. See the dedicated pages:
 
-1. Enter Instructions
-2. Select the AI Model
-3. Enter AI System Prompt (optional)
-
-Information included in the instructions text field will be presented to the student.
+* [**Essay Assessments**](essay-assessments.md) — an open-response question students write in the essay room, graded by you.
+* [**Simulation Assessments**](simulation-assessments.md) — an AI-powered scenario evaluated by a [Feedback Machine](../../feedback-machines/overview.md).
 
 {% hint style="info" %}
-For support building high quality AI system prompts contact [**support@examind.io**](mailto:support@examind.io).
+For support building high-quality AI system prompts, contact [**support@examind.io**](mailto:support@examind.io).
 {% endhint %}
