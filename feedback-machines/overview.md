@@ -7,7 +7,7 @@ description: >-
 
 # Overview
 
-Feedback Machines is an AI-powered evaluation engine that auto-grades and provides detailed, rubric-aligned feedback on written student work — essays, memos, case studies, and more.
+Feedback Machines is a system that harnesses leading-edge AI models — such as those from Anthropic, Google, and OpenAI — to auto-grade and provide detailed, rubric-aligned feedback on written student work: essays, memos, case studies, and more.
 
 You configure a **Feedback Machine** by giving it your assignment instructions and a grading rubric. It then evaluates each student submission against those criteria, returning both a grade and specific feedback tied to the rubric.
 
