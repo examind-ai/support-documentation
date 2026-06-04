@@ -45,6 +45,8 @@ When a capability surfaces in two places (e.g., Feedback Machines is also the en
 
 Cards are a `data-view="cards"` table. Include a **title** column, a **description** column, and a hidden `data-card-target` (content-ref) column so the whole card is a link. A cover-image column is optional and, per the image policy, used only for real screenshots.
 
+**Card size — fill the row.** GitBook defaults to Medium (3 cards per row); add `data-card-size="large"` to the `<table>` for 2 per row. Pick the size so the row fills cleanly and text doesn't wrap awkwardly: use **Large for 2-card sections**, **Medium for 3**. (For 4, Large gives a tidy 2×2.)
+
 Example (title + description, no cover):
 
 ```html
