@@ -14,7 +14,7 @@ Every section landing page (a `README.md` with child pages) must orient the read
 
 1. **Title**
 2. **Orientation** — 1–3 sentences: what this section is and who it's for. For concept-light sections, this doubles as the "what-is."
-3. **Child links as cards, each with a one-line description** — kept high and scannable.
+3. **Child links, each with a one-line description, kept high and scannable** — as cards for a few items, or a described list when there are many (see §6).
 4. **Deeper context (only if needed)** — a short "How it works" block *below* the cards, or a dedicated **Overview** child page (first card) when the concept is substantial.
 
 **Rules:**
@@ -45,7 +45,11 @@ When a capability surfaces in two places (e.g., Feedback Machines is also the en
 
 Cards are a `data-view="cards"` table. Include a **title** column, a **description** column, and a hidden `data-card-target` (content-ref) column so the whole card is a link. A cover-image column is optional and, per the image policy, used only for real screenshots.
 
-**Card size — fill the row.** GitBook defaults to Medium (3 cards per row); add `data-card-size="large"` to the `<table>` for 2 per row. Pick the size so the row fills cleanly and text doesn't wrap awkwardly: use **Large for 2-card sections**, **Medium for 3**. (For 4, Large gives a tidy 2×2.)
+**Choose the format that's most scannable for the count and content — these are defaults, not rules. Use judgment; don't over-fit a card count.** The test is always the reader's: can they find the right link fast (time) and tell what each one is (clarity)?
+
+- **A few items (~2–4) with descriptions → cards**, sized to fill the row: add `data-card-size="large"` to the `<table>` for 2 per row (and a clean 2×2 for 4); the Medium default (3 per row) suits 3.
+- **Many items (~6+) → a described list** — a link plus a one-line description per row, optionally grouped under subheadings — usually beats a large card grid: it stays scannable and doesn't push the rest of the page far down.
+- **In between → whichever reads better** on that specific page.
 
 Example (title + description, no cover):
 
