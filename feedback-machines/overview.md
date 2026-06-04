@@ -9,7 +9,11 @@ description: >-
 
 Feedback Machines is an AI-powered evaluation engine that auto-grades and provides detailed, rubric-aligned feedback on written student work — essays, memos, case studies, and more.
 
-You configure a **Feedback Machine** by giving it your assignment instructions and grading rubric. It then evaluates each student submission against those criteria, returning both a grade and specific feedback tied to your rubric.
+You configure a **Feedback Machine** by giving it your assignment instructions and a grading rubric. It then evaluates each student submission against those criteria, returning both a grade and specific feedback tied to the rubric.
+
+{% hint style="success" %}
+**No rubric yet? You don't need one to start.** Feedback Machines can generate a rubric for you to the highest pedagogical standards. Just direct it on the qualities that matter for your learning outcomes, and it turns them into a complete, criteria-based rubric you can review and adjust.
+{% endhint %}
 
 ## What it can evaluate
 
@@ -27,7 +31,7 @@ Feedback Machines works with any assignment a student can submit as text, `.docx
 
 {% tabs %}
 {% tab title="Iterative feedback" %}
-Students submit a draft and receive AI feedback, then revise and resubmit. You can track how many drafts each student submits and how their work improves across rounds.
+Students submit a draft and receive AI feedback, then revise and resubmit. You can track how many drafts each student submits and how their work improves across iterations.
 
 This mode is built for skill development — the number of feedback rounds a student goes through correlates directly with how much their writing improves.
 {% endtab %}
