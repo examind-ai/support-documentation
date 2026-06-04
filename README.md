@@ -8,6 +8,10 @@ coverY: 0
 
 EXAMIND helps higher-education instructors **build, deliver, and auto-grade assessments** — both quantitative work (calculations, journal entries, Excel models) and qualitative work (essays, memos, case studies) — with academic integrity built in. This documentation covers everything you need to set up, run, and grade with EXAMIND.
 
+{% hint style="info" %}
+**Works with your LMS.** EXAMIND integrates with **any LMS that supports LTI** — including Canvas, Blackboard, Brightspace, and Moodle — for single sign-on, roster sync, deep-linking assessments, and posting grades back.
+{% endhint %}
+
 ## What EXAMIND can do
 
 EXAMIND has two complementary products.
@@ -19,11 +23,11 @@ The core web platform for building, delivering, and auto-grading assessments:
 * **Build** — a [question builder](build/question-builder/README.md) with eight question types, a [dynamic question engine](build/question-builder/dynamic-questions/README.md) that gives every student a unique variant for integrity, a reusable [question bank](build/question-bank/README.md), and an [assessment builder](build/assessments/README.md).
 * **Deliver** — [schedule](deliver/schedule.md) assessments with time limits and availability windows, monitor attempts live with [Live View](deliver/live-view.md), and discourage misconduct with [Tactical Deterrents](deliver/tactical-deterrents.md). Includes [Excel Assignments](deliver/excel-assignments/README.md) via the Excel add-in.
 * **Grade** — auto-graded [results](grade/results.md) with analytics, [grading adjustments](grade/grading-adjustment.md), and configurable [self review](grade/self-review.md).
-* **Connect** — [LMS integration](it-administration/lms-integrations/README.md) with Canvas, Blackboard, Brightspace, and Moodle for roster sync, deep-linking, and grade posting.
+* **Connect** — [works with any LMS that supports LTI](it-administration/lms-integrations/README.md) (Canvas, Blackboard, Brightspace, Moodle, and more) for roster sync, deep-linking, and grade posting.
 
 ### Feedback Machines
 
-An [AI engine](feedback-machines/overview.md) that auto-grades and provides detailed, rubric-aligned feedback on written student work — essays, memos, case studies, and more — in two modes: **iterative draft feedback** and **auto-grading at scale**. It also powers the Simulation assessment type in the Examind Platform.
+An [AI engine](feedback-machines/overview.md) that auto-grades and provides detailed, rubric-aligned feedback on written student work — essays, memos, case studies, and more — in two modes: **iterative draft feedback** and **auto-grading at scale**. It can also auto-grade Simulation assessments in the Examind Platform.
 
 ## Where to start
 

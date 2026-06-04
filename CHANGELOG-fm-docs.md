@@ -19,13 +19,13 @@
 
 ## Accuracy corrections (from reading the code)
 
-- **FM powers the *Simulation* assessment type**; the **Essay** type is **instructor-graded** with an optional AI writing assistant. (Earlier framing and the Products KB said FM powers both — the essay integration is in progress, so excluded per released-only.) Fixed on the homepage and FM Overview.
+- **Feedback Machines can *auto-grade* Simulation assessments** — Simulation is a native EXAMIND assessment type, and linking a Feedback Machine to auto-grade it is optional. The **Essay** type is **instructor-graded** with an optional AI writing assistant. (Earlier framing and the Products KB implied FM "powers" these types; corrected per the code and per Kenny.) Fixed on the homepage, FM Overview, and Simulation page.
 - **Review page** documents bulk import/export and machine modify, and deliberately does **not** document manual score override / regrade / feedback editing — those aren't in the code.
 
 ## Please verify (judgment calls)
 
 - **Proctoring** — no proctoring code exists in `examind-web`; you confirmed it's third-party-launch compatibility (Honorlock/Proctorio) and the existing docs describe it. I kept the proctoring content on that basis — please confirm the framing.
-- **About EXAMIND (mission/values)** — preserved but demoted to a sub-page. Per Diátaxis they arguably don't belong in support docs at all; say the word and I'll cut it.
+- **About EXAMIND (mission/values)** — *deleted* per Kenny's call (per Diátaxis, company values don't belong in support docs).
 - **FM Get Started** mentions launching from **Canvas** via LTI (that's what FM's code shows). Confirm whether other LMSs are supported for FM specifically.
 - **FM "auto-grading at scale"** is achieved via class sharing + bulk import/export (not a labeled toggle); described that way.
 

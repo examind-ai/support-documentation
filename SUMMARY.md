@@ -101,4 +101,3 @@
 * [Overview](our-approach/README.md)
 * [Understanding Cheating Modes](our-approach/cheating-modes.md)
 * [Working with Online Proctoring](our-approach/online-proctoring.md)
-* [About EXAMIND](our-approach/about-examind.md)

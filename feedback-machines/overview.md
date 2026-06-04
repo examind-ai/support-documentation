@@ -43,7 +43,7 @@ Feedback Machines grades qualitative assignments at scale, producing scores and 
 
 ## Feedback Machines and EXAMIND assessments
 
-Feedback Machines also powers the **Simulation** assessment type in the EXAMIND Platform — a Simulation links to a Feedback Machine, which evaluates the student's interaction. (The EXAMIND **Essay** assessment type is a separate, instructor-graded written response.)
+Feedback Machines can also **auto-grade Simulation assessments** in the EXAMIND Platform — link a Feedback Machine to a Simulation and it evaluates the student's interaction against your rubric. (The EXAMIND **Essay** assessment type is instructor-graded.)
 
 {% hint style="info" %}
 See [Simulation Assessments](../build/assessments/simulation-assessments.md) for how to add one to a course.
