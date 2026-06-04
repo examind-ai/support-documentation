@@ -70,6 +70,10 @@
 * [Grading Adjustment](grade/grading-adjustment.md)
 * [Self Review](grade/self-review.md)
 
+## Feedback Machines
+
+* [Overview](feedback-machines/overview.md)
+
 ## IT Administration
 
 * [LMS Compatibility Matrix](it-administration/lms-compatibility-matrix.md)
