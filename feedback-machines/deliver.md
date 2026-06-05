@@ -7,7 +7,7 @@ description: >-
 
 # Deliver to Students
 
-Once a Feedback Machine is published and [set up in your Canvas course](canvas-setup.md) (or shared as a direct link), students submit their work and get immediate, rubric-aligned feedback — then revise and resubmit as many times as they like. The more feedback rounds a student goes through, the more their writing tends to improve. You can see all of a student's submissions to follow their progress.
+Once a Feedback Machine is published and [set up in your Canvas course](canvas-setup.md) (or shared as a direct link), students submit their work and get immediate, criteria-aligned feedback — then revise and resubmit as many times as they like. The more feedback rounds a student goes through, the more their writing tends to improve. You can see all of a student's submissions to follow their progress.
 
 {% hint style="info" %}
 Want to grade a whole class's submissions at once instead? See [Bulk Grading Assist](bulk-grading-assist.md).

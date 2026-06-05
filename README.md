@@ -27,7 +27,7 @@ The core web platform for building, delivering, and auto-grading assessments:
 
 ### Feedback Machines
 
-A [system that harnesses leading AI models](feedback-machines/overview.md) to auto-grade and provide detailed, rubric-aligned feedback on written student work — essays, memos, case studies, and more — in two modes: **iterative draft feedback** and **auto-grading at scale**. It can also auto-grade Simulation assessments in the Examind Platform.
+A [system that harnesses leading AI models](feedback-machines/overview.md) to auto-grade and provide detailed, rubric-aligned feedback on qualitative student work — essays, memos, case studies, presentations, EXAMIND Simluations and more — in two modes: **iterative draft feedback** and **bulk-grading-assist**.
 
 ## Where to start
 

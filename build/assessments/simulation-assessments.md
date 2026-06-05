@@ -23,7 +23,7 @@ When you build an assessment and choose the **Simulation** type, you can configu
 {% step %}
 ### Points & auto-grading
 
-Set the **points** the simulation is worth. To auto-grade it, a **Feedback Machine** evaluates the student's work against a rubric. You build the Feedback Machine yourself (see the [Feedback Machines](../../feedback-machines/build-a-feedback-machine.md) section).
+Set the **points** the simulation is worth. To auto-grade it, a **Feedback Machine** evaluates the student's work against your criteria. You build the Feedback Machine yourself (see the [Feedback Machines](../../feedback-machines/build-a-feedback-machine.md) section).
 
 {% hint style="info" %}
 **Linking is handled by EXAMIND for now.** You can set up and configure both the Simulation and the Feedback Machine on your own, but connecting the two currently requires us to set it up. Just [contact us](mailto:support@examind.io) and we'll link them.
@@ -53,5 +53,5 @@ Add **comment instructions** to give the student a second, written reflection st
 
 A simulation combines optional AI auto-grading with your own judgment:
 
-* If a **Feedback Machine** is linked (see above), it auto-grades the interaction against its rubric.
+* If a **Feedback Machine** is linked (see above), it auto-grades the interaction against its criteria.
 * You can assign **points** and add an **overall comment**.

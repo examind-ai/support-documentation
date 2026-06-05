@@ -7,10 +7,10 @@ description: >-
 
 # Bulk Grading Assist
 
-Bulk Grading Assist lets you grade a whole class's work at once. You upload a batch of student submissions, the Feedback Machine evaluates each one against your rubric, and you review and export the scores and feedback — instead of collecting drafts one at a time.
+Bulk Grading Assist lets you grade a whole class's work at once. You upload a batch of student submissions, the Feedback Machine evaluates each one against your criteria, and you review and export the scores and feedback.
 
 {% hint style="info" %}
-Bulk Grading Assist is enabled per plan and class. If you don't see **Bulk Import** on your machine, [contact us](mailto:support@examind.io).
+Bulk Grading Assist is enabled per institution and class. If you don't see **Bulk Import** on your machine, [contact us](mailto:support@examind.io).
 {% endhint %}
 
 ## Grade a batch
@@ -19,7 +19,7 @@ Bulk Grading Assist is enabled per plan and class. If you don't see **Bulk Impor
 {% step %}
 ### Start a bulk import
 
-From your machine, open **Bulk Imports** and select **Start Bulk Import**. Upload a **`.zip` file containing your students' `.docx` and/or `.pdf` submissions** — other file types in the zip are ignored.
+From your Feedback Machine's menu, select **Bulk Import**. Upload a **`.zip` containing your students' `.docx` and/or `.pdf` files** — each file becomes its own submission (only `.docx` and `.pdf` files are processed). Then select **Start Bulk Import**, and keep the browser tab open until all submissions are created.
 
 {% hint style="info" %}
 In Canvas, an assignment's **Download Submissions** option gives you a zip of student files you can upload directly. Feedback Machines recognizes the Canvas filename format and groups multiple files from the same student.
@@ -29,13 +29,13 @@ In Canvas, an assignment's **Download Submissions** option gives you a zip of st
 {% step %}
 ### Let it evaluate
 
-Feedback Machines creates a submission for each file and evaluates it against your rubric. You'll see live progress for each submission; any that fail are retried automatically, and you can retry remaining errors yourself.
+Feedback Machines creates a submission for each file and evaluates it against your criteria. You'll see live progress for each submission; any that fail are retried automatically, and you can retry remaining errors yourself.
 {% endstep %}
 
 {% step %}
 ### Review results
 
-The import lists every submission with its score and status. Open any one to read its full feedback and rubric breakdown — the same view a student would see.
+The import lists every submission with its score and status. Open any one to read its full feedback and criteria breakdown — the same view a student would see.
 {% endstep %}
 
 {% step %}

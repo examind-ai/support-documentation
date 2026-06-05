@@ -2,14 +2,14 @@
 icon: robot
 description: >-
   Feedback Machines harnesses leading AI models to auto-grade and give detailed,
-  rubric-aligned feedback on written student work.
+  criteria-aligned feedback on written student work.
 ---
 
 # Overview
 
-Feedback Machines is a system that harnesses leading-edge AI models — such as those from Anthropic, Google, and OpenAI — to auto-grade and provide detailed, rubric-aligned feedback on qualitative student work: essays, memos, case studies, presentations, EXAMIND Simulations, and more.
+Feedback Machines is a system that harnesses leading-edge AI models — such as those from Anthropic, Google, and OpenAI — to auto-grade and provide detailed, criteria-aligned feedback on qualitative student work: essays, memos, case studies, presentations, EXAMIND Simulations, and more.
 
-You configure a **Feedback Machine** by giving it your assignment instructions and a grading rubric — or have one generated for you (see below). It then evaluates each student submission against those criteria, returning both a grade and detailed feedback tied to the rubric.
+You configure a **Feedback Machine** by giving it your assignment instructions and a grading rubric — or have one generated for you (see below). It then evaluates each student submission against those criteria, returning both a grade and detailed feedback tied to your criteria.
 
 {% hint style="success" %}
 **No rubric yet? You don't need one to start.** Feedback Machines can generate a rubric for you to the highest pedagogical standards. Just direct it on the qualities that matter for your learning outcomes, and it turns them into a complete, criteria-based rubric you can review and adjust.
@@ -47,7 +47,7 @@ See [Bulk Grading Assist](bulk-grading-assist.md) to grade a whole class at once
 
 ## Feedback Machines and EXAMIND assessments
 
-Feedback Machines can also **auto-grade Simulation assessments** in the EXAMIND Platform: once a Feedback Machine is linked to a Simulation, it evaluates the student's interaction against your rubric. (The EXAMIND **Essay** assessment type is instructor-graded.)
+Feedback Machines can also **auto-grade Simulation assessments** in the EXAMIND Platform: once a Feedback Machine is linked to a Simulation, it evaluates the student's interaction against your criteria. (The EXAMIND **Essay** assessment type is instructor-graded.)
 
 {% hint style="info" %}
 **Linking is handled by EXAMIND for now.** You can build and configure both a Simulation and a Feedback Machine yourself, but connecting the two currently requires us to set it up — just [contact us](mailto:support@examind.io) and we'll link them. See [Simulation Assessments](../build/assessments/simulation-assessments.md).
