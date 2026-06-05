@@ -9,6 +9,10 @@ icon: table-pivot
 
 EXAMIND uses LTI 1.3 for all LMS integrations.
 
+{% hint style="info" %}
+This matrix covers the **EXAMIND Platform**. **Feedback Machines** is a separate product with its own LTI integration, and supports **Canvas only** — see [Feedback Machines: Canvas Setup](feedback-machines-canvas-setup.md).
+{% endhint %}
+
 ## Integration Features
 
 The matrix below summarizes which features are supported when EXAMIND is installed as an LTI tool into Blackboard, Brightspace, Canvas, and Moodle.

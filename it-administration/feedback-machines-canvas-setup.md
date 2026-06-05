@@ -5,9 +5,9 @@ description: >-
   Canvas administrators.
 ---
 
-# Canvas LTI Installation (IT)
+# Feedback Machines: Canvas LTI Installation
 
-This guide is for **institution IT or Canvas administrators**. It covers the one-time installation of the Feedback Machines LTI tool at the Canvas account level. Once it's installed, instructors can [enable Feedback Machines in their own courses](canvas-setup.md).
+This guide is for **institution IT or Canvas administrators**. It covers the one-time installation of the Feedback Machines LTI tool at the Canvas account level. Once it's installed, instructors can [enable Feedback Machines in their own courses](../feedback-machines/canvas-setup.md).
 
 {% hint style="info" %}
 Feedback Machines is a **separate product** from the EXAMIND Platform and has its **own** Canvas LTI integration. Installing one does not install the other.
@@ -80,4 +80,4 @@ We'll complete the platform registration and confirm when it's ready to test.
 
 ## Next step
 
-Once installation is confirmed, instructors can [enable Feedback Machines in their course and link a class](canvas-setup.md).
+Once installation is confirmed, instructors can [enable Feedback Machines in their course and link a class](../feedback-machines/canvas-setup.md).
