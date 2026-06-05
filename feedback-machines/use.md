@@ -51,11 +51,16 @@ Because a Feedback Machine is shared, you can see how your class is using it —
 
 ### Submissions
 
-From your class, open the **submissions** view to see every student alongside **all** of their drafts — each iteration, newest first, with its score and status. Open any draft to read the full feedback and criteria breakdown, exactly as the student saw it. Because students can resubmit as often as they like, you see the complete history of their revisions, not just the latest one.
+There are two ways to see submissions:
+
+* **Across the whole class** — from your class page, select **View all submissions** to see every student alongside **all** of their drafts from **every** machine in the class, combined into one list.
+* **For a single machine** — open that machine's **⋮** menu and choose **Submissions** to see just its submissions.
+
+Either way, each student's drafts are listed newest first with score and status, and you can open any draft to read the full feedback and criteria breakdown, exactly as the student saw it. Because students can resubmit as often as they like, you see the complete history of their revisions, not just the latest one.
 
 ### Insights
 
-Each machine has an **Insights** page that summarizes how the class is engaging with it:
+Open a machine's **⋮** menu and choose **Insights** for a summary of how the class is engaging with it:
 
 * **Active Students** — students who have submitted at least once.
 * **Total Submissions** — across everyone using the machine.
