@@ -1,5 +1,5 @@
 ---
-description: This article explains how to build question pools.
+description: Pool related questions so an assessment draws a random subset for each student.
 ---
 
 # Question Pools
