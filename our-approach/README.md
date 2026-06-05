@@ -1,11 +1,11 @@
 ---
 icon: lightbulb
-description: Why EXAMIND approaches assessment and academic integrity the way it does.
+description: How EXAMIND approaches assessment and academic integrity.
 ---
 
 # Our Approach
 
-EXAMIND is built on a simple thesis: **every assessment should be fully auto-graded, provide meaningful feedback, and maintain academic integrity** — whether the work is quantitative (calculations, journal entries, Excel models) or qualitative (essays, case studies, memos).
+EXAMIND is built on a simple thesis: every assessment should be fully auto-graded, give students meaningful feedback, and stand up to modern academic-integrity threats — whether the work is quantitative (calculations, journal entries, Excel models) or qualitative (essays, case studies, memos).
 
 ## What makes a good assessment
 
@@ -18,18 +18,16 @@ We believe every assessment should aim for:
 
 \*Exceptions occur — for example, bimodal distributions in subjects like Organic Chemistry.
 
-## The psychology of cheating
+## How we approach academic integrity
 
-We understand cheating as habit formation: **trigger → action → reward**.
+Our goal is to **prevent cheating — or make it not worth attempting — before relying on catching it after the fact.** Gathering evidence of misconduct is a fallback, not the first line of defense.
 
-* **Trigger** — exams create potent cues to cheat: fear of failure, anxiety, time pressure.
-* **Action** — the easier cheating is, the more likely it happens; moving exams online lowered the effort.
-* **Reward** — when cheating produces grades without learning, it reinforces itself and spreads among students.
+We also believe protection should be **proportionate to the stakes and as invisible as possible to honest students.** Good integrity measures shouldn't add anxiety or surveillance for the students doing the right thing.
 
-EXAMIND focuses on **removing the reward**. Our designs emphasize results over copied behavior, so cheating stops paying off — which is a more durable strategy than chasing every new cheating method.
+**Where assessment design is decisive.** EXAMIND's [dynamic question engine](../build/question-builder/dynamic-questions/README.md) gives every student a unique variant, which makes **shared, leaked, and copied answers worthless** — neutralizing a whole family of cheating (answer-sharing, copying, and leaked content) at its root.
 
-## Rethinking assessments for an AI world
+**Where design needs help.** Design alone doesn't stop every threat. **AI-assisted cheating, contract cheating, and the use of a second device** call for complementary layers — most importantly [online proctoring](online-proctoring.md) for remote, high-stakes exams. Honest integrity today is **design plus the right controls**, not design alone.
 
-Rather than only restricting access to information, we favor assessment designs that hold up in an open, AI-rich world — and we pair them with the controls that keep remote assessment trustworthy. Two topics matter most today:
+Two topics go deeper:
 
-<table data-view="cards" data-card-size="large"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Understanding Cheating Modes</strong></td><td>The strategies modern assessments face — now led by generative AI.</td><td><a href="cheating-modes.md">cheating-modes.md</a></td></tr><tr><td><strong>Working with Online Proctoring</strong></td><td>How EXAMIND complements proctoring for remote-exam integrity.</td><td><a href="online-proctoring.md">online-proctoring.md</a></td></tr></tbody></table>
+<table data-view="cards" data-card-size="large"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Understanding Cheating Modes</strong></td><td>The methods modern assessments face — now led by AI-assisted cheating.</td><td><a href="cheating-modes.md">cheating-modes.md</a></td></tr><tr><td><strong>Working with Online Proctoring</strong></td><td>How EXAMIND complements proctoring for remote-exam integrity.</td><td><a href="online-proctoring.md">online-proctoring.md</a></td></tr></tbody></table>

@@ -1,29 +1,31 @@
 ---
 icon: user-secret
-description: The cheating strategies modern assessments face — led, today, by generative AI.
+description: The cheating methods modern assessments face — and where EXAMIND's design helps.
 ---
 
 # Understanding Cheating Modes
 
-From hundreds of one-on-one interviews with students across North America, South America, and Europe, we identified the main ways students cheat. Today, one of them dominates the rest.
+Our analysis of how students cheat groups today's methods into a handful of categories. The landscape has shifted toward **AI-assisted cheating**, but several long-standing methods remain widespread — and any integrity strategy designed before modern AI is worth re-evaluating.
 
-## AI-generated content — the top threat
+## AI-assisted cheating — the fastest-growing threat
 
-Since the arrival of ChatGPT and modern large language models, **AI-generated content is by far the most significant academic-integrity threat.** Students can produce essays, code, calculations, and complete assignment responses in seconds, at a quality that defeats traditional take-home and unproctored online assessment. Any integrity strategy designed before modern LLMs needs to be re-evaluated against this reality.
+Since modern large language models arrived, AI-assisted cheating has become the most rapidly evolving category. It isn't one thing — students can reach AI in several ways during an exam, for example:
 
-EXAMIND addresses it on two fronts:
+* AI built into the browser or the device they're testing on.
+* A **second device** (like a phone) used to look up or generate answers. Because it never touches the exam device, this is one of the hardest vectors to catch.
+* Emerging vectors on the horizon — AI-native browsers, smart glasses, and on-device AI agents.
 
-* **Assessment designs resistant to generic AI output** — per-student [dynamic question variants](../build/question-builder/dynamic-questions/README.md) and applied, contextual tasks make a generic AI answer far less useful.
-* **Controlled exam conditions where they're needed** — support for [online proctoring](online-proctoring.md) when high-stakes exams must be supervised remotely.
+The takeaway: strategies built for the pre-AI era need to be re-examined against live AI use.
 
-## The other modes
+## Other persistent methods
 
-These remain relevant, especially in remote and unproctored settings:
+* **Contract cheating** — someone other than the student does the work: impersonation, sharing account access, or letting someone else operate their device.
+* **Leaked content** — questions or answer keys shared after an exam (for example, on sites like Chegg, Course Hero, or Quizlet), or leaked ahead of time.
+* **Copy cheating** — copying another student's answers in real time (over the shoulder, via messaging, or relayed by an early finisher).
+* **Unauthorized resources** — notes, a second monitor, or switching to other tabs or apps to look things up.
 
-1. **Access to information** — using unauthorized materials during a closed-book exam.
-2. **Asynchronous information** — students who have taken an exam sharing it with those who haven't.
-3. **Group collaboration** — collaborating in person or digitally during an exam.
-4. **Leaked content** — acquiring questions and answer keys from sites like Chegg, Course Hero, and Quizlet.
-5. **Contract cheating** — hiring someone to assist with or write the assessment.
+## Where EXAMIND's design helps
 
-EXAMIND's [dynamic question engine](../build/question-builder/dynamic-questions/README.md) is designed to blunt several of these at once: when every student gets a unique variant, leaked content and shared answers lose most of their value.
+EXAMIND's [dynamic question engine](../build/question-builder/dynamic-questions/README.md) gives every student a unique variant, so **shared, leaked, and copied answers lose their value** — a structurally strong defense against the answer-sharing, copying, and leaked-content family.
+
+Design alone, though, doesn't neutralize AI-assisted, contract, or second-device cheating. Those call for complementary layers — most importantly [online proctoring](online-proctoring.md) for remote, high-stakes exams.
