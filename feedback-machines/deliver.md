@@ -17,7 +17,7 @@ Want to grade a whole class's submissions at once instead? See [Bulk Grading Ass
 
 Students open the machine (from your Canvas course, or a direct link) and submit their work in the format you configured:
 
-* **Text** — typed or pasted into a rich-text editor, with a live word count.
+* **Text** — pasted into the submission box (typing directly into it isn't supported), with a live word count.
 * **`.docx` or `.pdf`** — uploaded; the text is extracted for evaluation.
 * **Multiple files** — if you allowed more than one file per submission.
 
