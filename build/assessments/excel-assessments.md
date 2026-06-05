@@ -6,7 +6,7 @@ description: >-
 
 # Excel Assessments
 
-Want students to do their work **directly in Microsoft Excel** — models, calculations, spreadsheet analysis — and have it auto-graded? EXAMIND supports this, but it isn't a separate assessment type. It's built as an **Excel Workbook question** that students complete inside Excel through the EXAMIND add-in, added to an **Exam**, **Quiz**, or **Practice** assessment.
+An **Excel assessment** has students complete their work — models, calculations, spreadsheet analysis — directly in Microsoft Excel, with their submissions auto-graded. It isn't a separate assessment type in EXAMIND: you build it as an **Excel Workbook question** that students complete in Excel through the EXAMIND add-in, then add to an **Exam**, **Quiz**, or **Practice** assessment.
 
 {% hint style="info" %}
 **This capability is in beta** and is set up in coordination with EXAMIND. To enable it for your course, contact us at [support@examind.io](mailto:support@examind.io).
