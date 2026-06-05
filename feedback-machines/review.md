@@ -7,7 +7,7 @@ description: >-
 
 # Review & Export Results
 
-From a Feedback Machine you can review every submission, grade a whole class at once, and export results to your LMS gradebook.
+From a Feedback Machine you can review every submission, grade a whole class at once, and export results to your Canvas gradebook.
 
 ## Review submissions
 
