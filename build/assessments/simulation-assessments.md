@@ -6,7 +6,7 @@ description: >-
 
 # Simulation Assessments
 
-A **Simulation** assessment is an AI-powered, conversational scenario. The student works through an interactive exchange with an AI. It can also be **auto-graded** by a [Feedback Machine](../../feedback-machines/overview.md) (see below).
+A **Simulation** assessment is an AI-powered, conversational scenario. The student works through an interactive exchange with an AI. It can also be **auto-graded** by a [Feedback Machine](../../feedback-machines/get-started.md) (see below).
 
 ## How a simulation works
 

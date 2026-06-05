@@ -71,14 +71,14 @@
 
 ## Feedback Machines
 
-* [Overview](feedback-machines/overview.md)
 * [Get Started](feedback-machines/get-started.md)
-  * [Set Up Canvas](feedback-machines/canvas-setup.md)
+  * [Using Canvas](feedback-machines/using-canvas.md)
+  * [Without Canvas](feedback-machines/without-canvas.md)
 * [Build a Feedback Machine](feedback-machines/build-a-feedback-machine.md)
   * [Modifying a Feedback Machine](feedback-machines/modifying-a-feedback-machine.md)
   * [How Scoring Works](feedback-machines/how-scoring-works.md)
   * [Content Dependencies](feedback-machines/content-dependencies.md)
-* [Deliver to Students](feedback-machines/deliver.md)
+* [Use a Feedback Machine](feedback-machines/use.md)
 * [Bulk Grading Assist](feedback-machines/bulk-grading-assist.md)
 
 ## Our Approach

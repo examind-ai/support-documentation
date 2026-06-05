@@ -15,5 +15,5 @@ It follows a simple lifecycle:
 * [**Grade**](grade/README.md) — review auto-graded results, make adjustments, and release self-review.
 
 {% hint style="info" %}
-For AI feedback and auto-grading of written work, see [Feedback Machines](feedback-machines/overview.md) — a separate, complementary product.
+For AI feedback and auto-grading of written work, see [Feedback Machines](feedback-machines/get-started.md) — a separate, complementary product.
 {% endhint %}

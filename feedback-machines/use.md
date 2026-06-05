@@ -1,13 +1,15 @@
 ---
 icon: paper-plane
 description: >-
-  How students access a Feedback Machine and submit work for iterative
-  feedback.
+  How students submit work to a Feedback Machine for iterative feedback — and
+  how instructors can use the same machine themselves.
 ---
 
-# Deliver to Students
+# Use a Feedback Machine
 
-Once a Feedback Machine is published and [set up in your Canvas course](canvas-setup.md) (or shared as a direct link), students submit their work and get immediate, criteria-aligned feedback — then revise and resubmit as many times as they like. The more feedback-and-revision cycles a student goes through, the more their work tends to improve. You can see all of a student's submissions to follow their progress.
+A Feedback Machine is a **shared tool**: you and your students use the *same* machine. Students submit their work and get immediate, criteria-aligned feedback — then revise and resubmit as many times as they like — while you can run submissions through that machine yourself and always see the full results. The more feedback-and-revision cycles a student goes through, the more their work tends to improve, and you can see all of a student's submissions to follow their progress.
+
+Once a machine is published and [set up in your Canvas course](using-canvas.md) (or shared via [direct login](without-canvas.md)), it's ready to use.
 
 {% hint style="info" %}
 Want to grade a whole class's submissions at once instead? See [Bulk Grading Assist](bulk-grading-assist.md).
@@ -30,10 +32,18 @@ For group assignments, students can check **"Submitting only part of the assignm
 After submitting, students get results organized into tabs:
 
 * **Submission** — their original work.
-* **Rubric** — per-criterion scores (if you've made the rubric view visible).
+* **Rubric** — per-criterion scores (only if you've made the rubric view visible).
 * **Feedback** — narrative feedback: **What you did well**, **Areas for development**, and a prioritized list of **Things you can do to improve**.
 
 A score appears only if you chose to show point values. Students select **New Draft** to revise and resubmit.
+
+## Use it yourself as an instructor
+
+You can run a submission through any published machine yourself — choose **Use** on the machine, just as a student would, and submit a sample. This is the best way to see exactly what your students will experience before you share it.
+
+{% hint style="success" %}
+**You always see the full results — even what's hidden from students.** When you view an evaluation (your own submission or a student's), you see the complete **grade** and **rubric** regardless of whether you've hidden point values or the rubric view from students. So you can keep scores or the rubric hidden to keep students focused on the feedback, and still review everything yourself.
+{% endhint %}
 
 ## Tell students how to access it
 

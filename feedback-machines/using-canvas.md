@@ -5,9 +5,9 @@ description: >-
   can access it directly.
 ---
 
-# Set Up Canvas
+# Using Canvas
 
-Setting up Feedback Machines in Canvas lets your students access it directly from your course — no separate login. There are two parts: a one-time institution install handled by IT, and a quick per-course activation handled by you.
+Setting up Feedback Machines in Canvas lets your students reach it directly from your course — no separate login. There are two parts: a one-time institution install handled by IT, and a quick per-course activation handled by you.
 
 {% hint style="info" %}
 Feedback Machines currently supports **Canvas only**, and is a **separate integration from the EXAMIND Platform**. Setting up one does not set up the other.
@@ -63,4 +63,4 @@ To carry your Feedback Machines into a new course instance:
 
 ## How students access it
 
-Once your class is linked, students click the **Feedback Machines** link in your course's left menu, then **Use** next to the assignment they're working on. See [Deliver to Students](deliver.md) for more.
+Once your class is linked, students click the **Feedback Machines** link in your course's left menu, then **Use** next to the assignment they're working on. See [Use a Feedback Machine](use.md) for more.

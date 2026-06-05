@@ -9,7 +9,7 @@ How an assessment is graded depends on what's in it — some things are scored a
 
 * **Auto-graded** — most question types are scored the moment a student submits: multiple choice, multiple answer, matching, fill-in-the-blank, journal entry, financial statement, and Excel.
 * **Graded by you** — **short-answer** questions and **Essay** assessments are graded manually.
-* **Simulations** — auto-graded when the assessment is linked to a [Feedback Machine](../feedback-machines/overview.md); otherwise graded by you.
+* **Simulations** — auto-graded when the assessment is linked to a [Feedback Machine](../feedback-machines/get-started.md); otherwise graded by you.
 
 So for a typical exam or quiz, most of the work is done for you the instant students submit, and you only step in for any short-answer questions. Essays and (un-linked) simulations are fully manual.
 

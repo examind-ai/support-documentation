@@ -1,47 +1,66 @@
 ---
-icon: rocket
+icon: robot
 description: >-
-  How you and your students reach Feedback Machines — through a Canvas
-  integration, or direct login with no LMS required.
+  What a Feedback Machine is, what it can evaluate, and how you and your
+  students reach it — through Canvas or direct login.
 ---
 
 # Get Started
 
-You — and your students — can use Feedback Machines two ways: through a **Canvas integration**, or through **direct login** at [feedbackmachines.com](https://feedbackmachines.com), which needs no LMS at all. Direct login is also the quickest way to try it yourself.
+Feedback Machines is a system that harnesses leading-edge AI models — such as those from Anthropic, Google, and OpenAI — to auto-grade and provide detailed, criteria-aligned feedback on qualitative student work: essays, memos, case studies, presentations, EXAMIND Simulations, and more.
+
+You configure a **Feedback Machine** by giving it your assignment instructions and a grading rubric — or have one generated for you. It then evaluates each student submission against those criteria, returning both a grade and detailed feedback tied to your criteria.
+
+{% hint style="success" %}
+**No rubric yet? You don't need one to start.** Feedback Machines can generate a rubric for you to the highest pedagogical standards. Just direct it on the qualities that matter for your learning outcomes, and it turns them into a complete, criteria-based rubric you can review and adjust.
+{% endhint %}
+
+## How you and your students reach it
+
+You — and your students — can use Feedback Machines two ways:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Using Canvas</strong></td><td>Reach Feedback Machines from your Canvas course — no separate login for students.</td><td><a href="using-canvas.md">using-canvas.md</a></td></tr><tr><td><strong>Without Canvas</strong></td><td>Sign in directly at feedbackmachines.com — no LMS required. The quickest way to try it yourself.</td><td><a href="without-canvas.md">without-canvas.md</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
-**Feedback Machines is a separate product from the EXAMIND Platform**, with its own setup — configuring one doesn't configure the other. Its only built-in **LMS integration** is **Canvas**; with any other LMS (or none), use **direct login** (see below).
+**Feedback Machines is a separate product from the EXAMIND Platform**, with its own setup — configuring one doesn't configure the other. Its only built-in **LMS integration** is **Canvas**; with any other LMS (or none), use **direct login** (see [Without Canvas](without-canvas.md)).
 {% endhint %}
 
-## Two ways to give access
+## What it can evaluate
+
+Feedback Machines works with any assignment a student can submit as text, `.docx`, or `.pdf`, including:
+
+* Essays and reports
+* Business memos and emails
+* Letters
+* Case studies
+* Negotiation preparation documents
+* Negotiation reflections
+* Presentation decks (as `.pdf`)
+
+Beyond the text itself, Feedback Machines can evaluate **images and visuals inside PDFs**, and **document formatting in `.docx` files** — margins, font types and sizes, footers, footnotes, and the like.
+
+## Two ways to use it
 
 {% tabs %}
-{% tab title="Direct login (no LMS needed)" %}
-Anyone — you or your students — can use Feedback Machines by signing in at [feedbackmachines.com](https://feedbackmachines.com) with a university email; the site emails a one-time login link. No integration required, so this works whatever LMS your institution uses, or none at all.
+{% tab title="Iterative feedback" %}
+Students submit a draft and receive immediate pedagogically optimal feedback aligned with your learning objectives, then revise and resubmit. You can track how many drafts each student submits and how their work improves across iterations.
 
-* **To try it yourself:** sign in, then [build a Feedback Machine](build-a-feedback-machine.md) and test it on a sample submission.
-* **To use it with students:** add their emails to your class so they get access when they log in (see [Give students access without Canvas](#give-students-access-without-canvas)). You can also run [Bulk Grading Assist](bulk-grading-assist.md) entirely through direct login.
+This mode is built for [skill development](../our-approach/why-iterative-feedback-works.md) — the more feedback-and-revision cycles a student goes through, the more their work tends to improve.
 {% endtab %}
 
-{% tab title="Canvas integration" %}
-For the smoothest student experience, set up Feedback Machines in your Canvas course so students reach it from the course with no separate login. Your IT team installs it once; then you enable it in your course and create or link a class. See **[Set Up Canvas](canvas-setup.md)** for the full steps.
+{% tab title="Auto-grading" %}
+Feedback Machines grades qualitative assignments at scale, producing scores and feedback aligned to your criteria. When configured properly, Feedback Machines exceed human-level inter-rater reliability (e.g. 0.9+ on Quadratic Weighted Kappa).
 
-{% hint style="info" %}
-**Already at an institution that uses Feedback Machines?** You don't start from scratch — just [enable it in your Canvas course](canvas-setup.md) and link a class.
-{% endhint %}
+See [Bulk Grading Assist](bulk-grading-assist.md) to grade a whole class at once.
 {% endtab %}
 {% endtabs %}
 
-## Give students access without Canvas
+## Feedback Machines and EXAMIND assessments
 
-If you'd rather not integrate with Canvas — or your institution uses a different LMS — you can give students **direct-login** access by adding their emails to your class:
+Feedback Machines can also **auto-grade Simulation assessments** in the EXAMIND Platform: once a Feedback Machine is linked to a Simulation, it evaluates the student's interaction against your criteria. (The EXAMIND **Essay** assessment type is instructor-graded.)
 
-1. Open your class and find the **Students** field.
-2. Paste your students' emails. The field is forgiving: separate them by commas, spaces, or new lines, and it pulls out the valid email addresses (ignoring names or other stray text) and removes duplicates, showing each as a chip you can delete.
-3. Each student then signs in at [feedbackmachines.com](https://feedbackmachines.com) with that email and gets access to **every Feedback Machine shared with that class**.
-
-{% hint style="warning" %}
-**Login emails often land in spam.** University mail systems frequently route the one-time login link to junk or spam folders. Check there if you don't see it, and tell your students to do the same.
+{% hint style="info" %}
+**Linking is handled by EXAMIND for now.** You can build and configure both a Simulation and a Feedback Machine yourself, but connecting the two currently requires us to set it up — just [contact us](mailto:support@examind.io) and we'll link them. See [Simulation Assessments](../build/assessments/simulation-assessments.md).
 {% endhint %}
 
 ## Next step

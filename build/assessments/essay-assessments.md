@@ -57,5 +57,5 @@ You grade essays yourself:
 * Leave **comments on the AI chat**, where the assistant was used.
 
 {% hint style="info" %}
-There's no built-in connection between Essay assessments and [Feedback Machines](../../feedback-machines/overview.md) yet. If you'd like AI help with grading, you can still do it manually — copy a student's essay into a Feedback Machine and run it there.
+There's no built-in connection between Essay assessments and [Feedback Machines](../../feedback-machines/get-started.md) yet. If you'd like AI help with grading, you can still do it manually — copy a student's essay into a Feedback Machine and run it there.
 {% endhint %}

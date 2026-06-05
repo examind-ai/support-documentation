@@ -62,4 +62,4 @@ Publish when you're ready, and the machine becomes available for use.
 
 ## Next step
 
-[Deliver to Students →](deliver.md)
+[Use a Feedback Machine →](use.md)
