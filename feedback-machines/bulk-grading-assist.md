@@ -19,7 +19,7 @@ Bulk Grading Assist is enabled per institution and class. If you don't see **Bul
 {% step %}
 ### Start a bulk import
 
-From your Feedback Machine's menu, select **Bulk Import**. Upload a **`.zip` containing your students' `.docx` and/or `.pdf` files** — each file becomes its own submission (only `.docx` and `.pdf` files are processed). Then select **Start Bulk Import**, and keep the browser tab open until all submissions are created.
+From your Feedback Machine's menu, select **Bulk Import**. Upload a **`.zip` containing your students' `.docx` and/or `.pdf` files** — each file becomes its own submission (only `.docx` and `.pdf` files are processed). A single import accepts up to **1 GiB** of files (with individual files up to 30 MB). Then select **Start Bulk Import**, and keep the browser tab open until all submissions are created.
 
 {% hint style="info" %}
 In Canvas, an assignment's **Download Submissions** option gives you a zip of student files you can upload directly. Feedback Machines recognizes the Canvas filename format and groups multiple files from the same student.
@@ -29,7 +29,7 @@ In Canvas, an assignment's **Download Submissions** option gives you a zip of st
 {% step %}
 ### Let it evaluate
 
-Feedback Machines creates a submission for each file and evaluates it against your criteria. You'll see live progress for each submission; any that fail are retried automatically, and you can retry remaining errors yourself.
+Feedback Machines creates a submission for each file and evaluates it against your criteria. Evaluations run in the background — **up to 200 at a time** — so large batches process steadily without you waiting on each one; when the system isn't busy, a full class of around 1,000 submissions can finish in as little as an hour. You'll see live progress for each submission; any that fail are retried automatically, and you can retry remaining errors yourself.
 {% endstep %}
 
 {% step %}

@@ -45,6 +45,26 @@ You can run a submission through any published machine yourself — choose **Use
 **You always see the full results — even what's hidden from students.** When you view an evaluation (your own submission or a student's), you see the complete **grade** and **rubric** regardless of whether you've hidden point values or the rubric view from students. So you can keep scores or the rubric hidden to keep students focused on the feedback, and still review everything yourself.
 {% endhint %}
 
+## Follow your students' progress
+
+Because a Feedback Machine is shared, you can see how your class is using it — both submission by submission and at a glance.
+
+### Submissions
+
+From your class, open the **submissions** view to see every student alongside **all** of their drafts — each iteration, newest first, with its score and status. Open any draft to read the full feedback and criteria breakdown, exactly as the student saw it. Because students can resubmit as often as they like, you see the complete history of their revisions, not just the latest one.
+
+### Insights
+
+Each machine has an **Insights** page that summarizes how the class is engaging with it:
+
+* **Active Students** — students who have submitted at least once.
+* **Total Submissions** — across everyone using the machine.
+* **Avg. Iterations** — average submissions per active student.
+* **Avg. Improvement** — the average score gain from a student's first submission to their best one.
+* **Avg. Effort** — how much students revised between drafts, based on how much their text changed.
+
+It also charts submission activity over time and the distribution of submissions, so you can see engagement and improvement at a class level — not just per student.
+
 ## Tell students how to access it
 
 Copy and adapt one of these for your assignment instructions, a course announcement, or a message to students.
