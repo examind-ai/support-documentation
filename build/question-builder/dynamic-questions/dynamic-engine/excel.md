@@ -2,7 +2,11 @@
 description: This article shows you how to use the Excel blocks in our Dynamic Engine.
 ---
 
-# Excel
+# Excel Functions
+
+{% hint style="info" %}
+These are dynamic-engine blocks for *generating question content* with Excel-style formulas. They're **not** the [Excel Workbook question type](../../question-types/excel-workbook.md), where students complete work in Excel.
+{% endhint %}
 
 ## What Is an Excel Block?
 

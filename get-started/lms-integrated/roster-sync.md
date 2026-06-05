@@ -8,6 +8,8 @@ coverY: 0
 
 # Roster Sync
 
+How EXAMIND keeps your course roster in sync with your LMS — and when that sync happens.
+
 1. Has it been more than 24 hours since the last Roster Sync?
 2. If yes, a roster sync will automatically occur
 

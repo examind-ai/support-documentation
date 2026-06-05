@@ -5,6 +5,8 @@ description: This article shows you how to allow students to review an assessmen
 
 # Self Review
 
+Let students revisit their submitted assessment, with control over when it's available and whether they see the answer key and explanations.
+
 ## Accessing Self Review
 
 1. Click Assessments in the left menu

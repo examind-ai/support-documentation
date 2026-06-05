@@ -6,6 +6,8 @@ description: >-
 
 # Share Assessments
 
+Share an assessment with another instructor, or copy one into another of your own courses.
+
 ## Sharing Assessments
 
 1. From the Assessments, click the checkbox next to each assessment you want to share

@@ -5,6 +5,8 @@ description: This article shows you how to schedule an assessment.
 
 # Schedule
 
+Set when an assessment is available to students, along with time limits, attempts, and individual extensions.
+
 ## Accessing Schedule
 
 1. Click **Assessments** in the left menu

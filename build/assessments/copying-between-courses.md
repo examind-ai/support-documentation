@@ -6,6 +6,8 @@ description: >-
 
 # Copying Between Courses
 
+Reuse an assessment in another course — a different section or a new semester — without rebuilding it from scratch.
+
 ## Preparation
 
 You will need access to both the original course and the new course in order to proceed.

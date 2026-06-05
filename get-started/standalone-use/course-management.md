@@ -6,6 +6,8 @@ description: >-
 
 # Course Management
 
+Create and manage your courses in standalone EXAMIND — names, codes, and dates.
+
 ## Accessing Courses
 
 Click **Courses** or **Back to Courses** in the left menu.

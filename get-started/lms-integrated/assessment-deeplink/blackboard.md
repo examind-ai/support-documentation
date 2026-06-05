@@ -6,6 +6,8 @@ description: >-
 
 # Blackboard
 
+Add an EXAMIND assessment link inside a Blackboard course — on either Blackboard Ultra or Classic.
+
 ## Blackboard Ultra
 
 From the Course Content section, click the **+** icon to add content and select Content Market.

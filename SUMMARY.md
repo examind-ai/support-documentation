@@ -4,6 +4,7 @@
 
 ## Get Started
 
+* [Overview](get-started/README.md)
 * [Standalone Use](get-started/standalone-use/README.md)
   * [Sign-in](get-started/standalone-use/sign-in.md)
   * [Course Management](get-started/standalone-use/course-management.md)
@@ -22,6 +23,7 @@
 
 ## Build
 
+* [Overview](build/README.md)
 * [Question Bank](build/question-bank/README.md)
   * [Import](build/question-bank/import.md)
   * [Share Questions](build/question-bank/share-questions.md)
@@ -44,7 +46,7 @@
       * [Math](build/question-builder/dynamic-questions/dynamic-engine/math.md)
       * [Text](build/question-builder/dynamic-questions/dynamic-engine/text.md)
       * [Lists](build/question-builder/dynamic-questions/dynamic-engine/lists.md)
-      * [Excel](build/question-builder/dynamic-questions/dynamic-engine/excel.md)
+      * [Excel Functions](build/question-builder/dynamic-questions/dynamic-engine/excel.md)
       * [Logic](build/question-builder/dynamic-questions/dynamic-engine/logic.md)
       * [Loops](build/question-builder/dynamic-questions/dynamic-engine/loops.md)
       * [Functions](build/question-builder/dynamic-questions/dynamic-engine/functions.md)
@@ -59,6 +61,7 @@
 
 ## Deliver
 
+* [Overview](deliver/README.md)
 * [Schedule](deliver/schedule.md)
 * [Live View](deliver/live-view.md)
 * [Offline Behavior](deliver/offline-behavior.md)
@@ -69,6 +72,7 @@
 
 ## Grade
 
+* [Overview](grade/README.md)
 * [Results](grade/results.md)
 * [Grading Adjustment](grade/grading-adjustment.md)
 * [Self Review](grade/self-review.md)
@@ -95,6 +99,7 @@
 
 ## IT Administration
 
+* [Overview](it-administration/README.md)
 * [LMS Compatibility Matrix](it-administration/lms-compatibility-matrix.md)
 * [LMS Integrations](it-administration/lms-integrations/README.md)
   * [Blackboard](it-administration/lms-integrations/blackboard.md)

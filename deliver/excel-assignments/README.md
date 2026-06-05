@@ -9,6 +9,10 @@ icon: file-spreadsheet
 
 Excel Assignments let students complete spreadsheet work — models, calculations, and analyses — directly in Microsoft Excel, with each student receiving unique data and their work auto-graded. They run through the EXAMIND Excel add-in.
 
+{% hint style="info" %}
+Excel Assignments are the [Excel Workbook question type](../../build/question-builder/question-types/excel-workbook.md) delivered through the add-in. This section covers the student side — installing and using it.
+{% endhint %}
+
 <table data-view="cards" data-card-size="large"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Installation</strong></td><td>Set up the EXAMIND Excel add-in.</td><td><a href="installation.md">installation.md</a></td></tr><tr><td><strong>Troubleshooting</strong></td><td>Fix common add-in and sign-in issues.</td><td><a href="troubleshooting.md">troubleshooting.md</a></td></tr></tbody></table>
 
 ## How it works

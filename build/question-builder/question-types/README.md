@@ -14,4 +14,4 @@ EXAMIND supports eight question types — from auto-graded objective questions t
 * [**Fill-in-the-blank**](fill-in-the-blank.md) — complete a sentence with text, numbers, or dropdowns.
 * [**Short Answer**](short-answer.md) — a brief free-text response.
 * [**Financial Statement**](financial-statement.md) — build balance sheets, income statements, and cash flows.
-* [**Excel Workbook**](../dynamic-questions/dynamic-engine/excel.md) — spreadsheet tasks graded automatically.
+* [**Excel Workbook**](excel-workbook.md) — spreadsheet tasks completed in Excel and graded automatically.
