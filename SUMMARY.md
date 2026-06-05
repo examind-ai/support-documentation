@@ -104,5 +104,6 @@
 ## Our Approach
 
 * [Overview](our-approach/README.md)
+* [Why Iterative Feedback Works](our-approach/why-iterative-feedback-works.md)
 * [Understanding Cheating Modes](our-approach/cheating-modes.md)
 * [Working with Online Proctoring](our-approach/online-proctoring.md)

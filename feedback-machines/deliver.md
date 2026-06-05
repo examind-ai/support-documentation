@@ -7,7 +7,7 @@ description: >-
 
 # Deliver to Students
 
-Once a Feedback Machine is published and [set up in your Canvas course](canvas-setup.md) (or shared as a direct link), students submit their work and get immediate, criteria-aligned feedback — then revise and resubmit as many times as they like. The more feedback rounds a student goes through, the more their writing tends to improve. You can see all of a student's submissions to follow their progress.
+Once a Feedback Machine is published and [set up in your Canvas course](canvas-setup.md) (or shared as a direct link), students submit their work and get immediate, criteria-aligned feedback — then revise and resubmit as many times as they like. The more feedback-and-revision cycles a student goes through, the more their work tends to improve. You can see all of a student's submissions to follow their progress.
 
 {% hint style="info" %}
 Want to grade a whole class's submissions at once instead? See [Bulk Grading Assist](bulk-grading-assist.md).
@@ -41,13 +41,11 @@ Copy and adapt one of these for your assignment instructions, a course announcem
 
 {% tabs %}
 {% tab title="Canvas" %}
-> **Get Instant, Actionable Assignment Feedback** — We've partnered with Feedback Machines, an AI platform that gives you immediate, constructive feedback on your written assignments, helping you iteratively refine and elevate your writing with every submission. To access the instant feedback, click the **Feedback Machines** link in the left menu, then click **\[use]** next to the assignment you're working on.
+> **Get Instant, Actionable Assignment Feedback** — We've partnered with Feedback Machines, an AI platform that gives you immediate, constructive feedback on your assignments, helping you refine and improve your work with every submission. To access the instant feedback, click the **Feedback Machines** link in the left menu, then click **\[use]** next to the assignment you're working on.
 {% endtab %}
 
 {% tab title="Direct login" %}
-> **Get Instant Iterative Feedback**
->
-> To provide you with the most timely feedback possible, we are piloting a new AI feedback system this semester. Because the system provides a significant amount of detailed feedback, we recommend focusing on 1–2 items from the top of the list per iteration to avoid feeling overwhelmed. Feel free to use the service to iterate through multiple rounds of feedback and edits.
+> **Get Instant, Actionable Assignment Feedback** — We've partnered with Feedback Machines, an AI platform that gives you immediate, constructive feedback on your assignments, helping you refine and improve your work with every submission.
 >
 > **How to use:** Go to [feedbackmachines.com](https://feedbackmachines.com) and click **\[Sign In]**, then enter your university email. The site will email you a link to complete the login. If you don't see the email, check your spam/junk folder. Once logged in, click **\[use]** next to this assignment and follow the on-screen instructions.
 {% endtab %}

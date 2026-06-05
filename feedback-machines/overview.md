@@ -2,7 +2,7 @@
 icon: robot
 description: >-
   Feedback Machines harnesses leading AI models to auto-grade and give detailed,
-  criteria-aligned feedback on written student work.
+  criteria-aligned feedback on student work.
 ---
 
 # Overview
@@ -35,7 +35,7 @@ Beyond the text itself, Feedback Machines can evaluate **images and visuals insi
 {% tab title="Iterative feedback" %}
 Students submit a draft and receive immediate pedagogically optimal feedback aligned with your learning objectives, then revise and resubmit. You can track how many drafts each student submits and how their work improves across iterations.
 
-This mode is built for skill development — the number of feedback rounds a student goes through correlates directly with how much their writing improves.
+This mode is built for [skill development](../our-approach/why-iterative-feedback-works.md) — the more feedback-and-revision cycles a student goes through, the more their work tends to improve.
 {% endtab %}
 
 {% tab title="Auto-grading" %}
