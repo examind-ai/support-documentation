@@ -1,23 +1,28 @@
 ---
 description: >-
   An open-response assessment where students write in the essay room and you
-  grade against your rubric.
+  grade it yourself.
 ---
 
 # Essay Assessments
 
-An **Essay** assessment is a single open-response question. Students write their response in the **essay room** — a built-in rich-text editor — and you grade it yourself, with optional help from an AI writing assistant for the student while they work.
+An **Essay** assessment is a single open-response question. The student writes their answer in the **essay room** — a simple in-browser editor — and **you grade it yourself**. An optional [AI assistant](#the-ai-assistant) can help the student *while they write*; it doesn't grade their work.
 
-{% hint style="info" %}
-Essay assessments are **instructor-graded**. For AI auto-grading of written work, see [Feedback Machines](../../feedback-machines/overview.md), or use a [Simulation assessment](simulation-assessments.md).
-{% endhint %}
+## The essay room
 
-## What students see — the essay room
+The essay room is a straightforward writing editor with the basics:
 
-* A **rich-text editor** for composing their response.
-* A live **word count** that flags when they exceed the limit.
-* The **time remaining**, with their work **auto-saved** as they write.
-* An optional **AI assistant** panel, if you enable it (see below).
+* **Basic formatting** — bold, italic, underline, and text alignment, plus undo/redo. It's intentionally simple: there are no lists, headings, links, or images.
+* **A live word count** against the limit you set; it turns red if the student goes over.
+* **Time remaining**, with the student's work **auto-saved** as they go.
+
+## The AI assistant
+
+Alongside the editor, students can chat with an **AI assistant** as they work — to think through ideas, get unstuck, or ask questions about the task. It supports the *process* of writing; **it does not grade the work**. It's on by default, and you stay in control of it:
+
+* **Shape its role** with an **AI system message** — for example, a brainstorming partner, a Socratic tutor that asks questions instead of giving answers, or a subject-matter expert.
+* **Turn it off** with **Hide Chat** if you'd rather students work without it.
+* **Review the conversations** — a student's chats are saved with their submission, so you can see how they used the assistant when you grade.
 
 ## Create an essay assessment
 
@@ -33,20 +38,24 @@ Set the **points** the essay is worth and the **maximum word count** (default 10
 {% step %}
 ### Instructions
 
-Enter the **instructions** shown to students in the essay room.
+Enter the **instructions** shown to the student in the essay room.
 {% endstep %}
 
 {% step %}
 ### AI assistant (optional)
 
-By default students have an AI assistant alongside the editor. You can turn it off with **Hide Chat**, or shape it by setting an **AI system message** and choosing the **AI model**.
+Leave the assistant on and shape it with an **AI system message** (and choose the **AI model**), or turn it off with **Hide Chat**.
 {% endstep %}
 {% endstepper %}
 
 ## Grading
 
-You grade essays manually:
+You grade essays yourself:
 
 * Assign **points** and write an **overall comment**.
 * Add **inline annotations** on specific parts of the student's writing.
-* Leave **comments on the AI chat** exchanges, when the assistant was used.
+* Leave **comments on the AI chat**, where the assistant was used.
+
+{% hint style="info" %}
+There's no built-in connection between Essay assessments and [Feedback Machines](../../feedback-machines/overview.md) yet. If you'd like AI help with grading, you can still do it manually — copy a student's essay into a Feedback Machine and run it there.
+{% endhint %}
