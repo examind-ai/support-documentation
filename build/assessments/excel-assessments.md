@@ -10,11 +10,13 @@ An **Excel assessment** has students complete their work — financial models, c
 
 Like other EXAMIND questions, Excel assessments can be **dynamic** — each student receives their own variables and data, so work can't be copied or shared between students.
 
-The plugin runs in **desktop Excel 2019 or later on Windows and macOS**; students install it once (see [Excel Assignments](../../deliver/excel-assignments/README.md) for the student side).
+The plugin runs in **desktop Excel 2021 or later on Windows and macOS**; students install it once (see [Excel Assignments](../../deliver/excel-assignments/README.md) for the student side).
 
-{% hint style="warning" %}
-**Excel assessments are in closed beta, and EXAMIND sets them up for you.** They aren't self-serve yet — each one is custom-configured to your assignment, so rather than building it yourself, you tell us what you'd like students to do and we build it with you. To get started, contact [support@examind.io](mailto:support@examind.io).
-{% endhint %}
+## Setting up an Excel assessment
+
+Excel assessments are in **closed beta**, and EXAMIND sets each one up for you — they aren't self-serve yet. Every assessment is custom-configured to your assignment, so instead of building it yourself, you tell us what you'd like students to do and we build it with you.
+
+To get started, contact [**support@examind.io**](mailto:support@examind.io) with what you'd like to assess.
 
 ## How it works
 
