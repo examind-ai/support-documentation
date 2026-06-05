@@ -4,6 +4,8 @@ description: This article shows you how to export grades from EXAMIND to your LM
 
 # Grade Management
 
+Download grades from standalone EXAMIND — for example, to import them into your LMS gradebook.
+
 ## Accessing Results
 
 1. Click **Assessments** in the left menu

@@ -5,6 +5,8 @@ description: This article shows you how to make grading adjustments to an assess
 
 # Grading Adjustment
 
+Change scores after an assessment is submitted — override a student's points, omit a question, or award full credit.
+
 ## Accessing Results
 
 1. Click **Assessments** in the left menu

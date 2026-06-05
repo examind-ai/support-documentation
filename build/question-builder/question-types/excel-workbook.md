@@ -1,5 +1,7 @@
 ---
-description: This article shows you how to build an Excel Workbook question.
+description: >-
+  What the Excel Workbook question type is, how it's graded, and how to request
+  one (closed beta).
 ---
 
 # Excel Workbook
@@ -8,7 +10,11 @@ description: This article shows you how to build an Excel Workbook question.
 
 Excel workbook questions enable students to work directly inside Excel with a direct connection to EXAMIND. Using a specialized plugin, students input a unique code to launch their EXAMIND question. When they are complete, they can click a button inside of Excel to submit their work to EXAMIND's autograder. This type of question is ideal for courses that require data analysis, financial modeling, statistical computations, or spreadsheet-based problem-solving.
 
-### Why Use It
+{% hint style="info" %}
+Students complete these in Microsoft Excel through the **EXAMIND Excel Add-in**. See [Excel Assignments](../../../deliver/excel-assignments/README.md) for the student side — installing and using the add-in. For how this fits together as a graded assessment, see [Excel Assessments](../../assessments/excel-assessments.md).
+{% endhint %}
+
+### Why use it
 
 This question type allows students to practice real-world skills. They can format data, apply formulas, create charts, and run analyses as they would in a professional setting, bridging theoretical concepts and practical application.
 
@@ -20,21 +26,19 @@ This question type allows students to practice real-world skills. They can forma
 EXAMIND provides full autograding with partial credit on Excel workbook questions.
 {% endhint %}
 
-### Use Cases
+### Use cases
 
 * **Accounting and Finance:** Create financial models, forecast cash flows, or prepare budgets.
 * **Statistics and Data Analysis:** Run descriptive statistics, regression analyses, or create pivot tables from provided datasets.
 * **Operations Management:** Model inventory decisions, optimize supply chain scenarios, or simulate queuing models.
 
-## Create and Configure
+## Setting up
 
-{% hint style="info" %}
-This question type is only available in closed beta. For more information, email [**support@examind.io**](mailto:support@examind.io).
-{% endhint %}
+Excel Workbook questions are in **closed beta** and configured by EXAMIND — they aren't self-serve yet. Tell us what you'd like to assess and we'll build it with you: see [Excel Assessments](../../assessments/excel-assessments.md), or contact [**support@examind.io**](mailto:support@examind.io).
 
-## Instructor Tips
+## Instructor tips
 
-### Ensuring Academic Integrity
+### Ensuring academic integrity
 
 * **Randomized Data Sets:** Use different data sets for each student or each attempt, making it harder to share answers or collaborate.
 * **Time Limits:** Set a reasonable time limit for accessing and submitting the Excel workbook to reduce external collaboration.
@@ -43,12 +47,12 @@ This question type is only available in closed beta. For more information, email
 To improve academic integrity, EXAMIND wipes all data in their workbook when they input their code to gain access to a question. Then, it adds a unique ID to every workbook to prove if a student attempts to use another student's work.
 {% endhint %}
 
-### Common Issues
+### Common issues
 
 * **Overwriting Cells:** Students can overwrite reference cells or instructions by mistake. Lock these cells or provide a protected sheet.
 * **Plugin Installation:** Students sometimes wait until the last minute to install the excel plugin. Conduct a low-stakes assignment at the start of your course to mitigate this issue.
 
-### Best Practices
+### Best practices
 
 * Provide a practice assignment so students get comfortable with the Excel integration before a graded task.
 * Offer a rubric that clarifies which aspects (correctness, formatting, analysis) carry the most weight.

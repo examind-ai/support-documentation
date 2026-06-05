@@ -5,6 +5,8 @@ icon: user-plus
 
 # Invite Instructors
 
+Give a co-instructor or teaching assistant access to your course.
+
 ## Accessing Roster
 
 Click **Roster** in the left menu.&#x20;

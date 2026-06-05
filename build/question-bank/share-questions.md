@@ -6,6 +6,8 @@ description: >-
 
 # Share Questions
 
+Share questions from your bank with another instructor, or copy them into another of your own courses.
+
 ## Accessing Question Bank
 
 1. Click **Question Bank** in the left menu

@@ -5,6 +5,8 @@ icon: memo-circle-check
 
 # Post Grades
 
+Send assessment grades from EXAMIND back to the linked assignment in your LMS gradebook.
+
 ## Accessing EXAMIND LTI Page
 
 1. Navigate to the assessment in your LMS that is linked to EXAMIND

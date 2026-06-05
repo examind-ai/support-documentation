@@ -4,6 +4,8 @@ description: This article shows you how to sign-in to EXAMIND as a standalone pr
 
 # Sign-in
 
+Sign in to EXAMIND when you're using it as a standalone product — including where to log in and what to do if your sign-in link doesn't arrive.
+
 ## Accessing EXAMIND
 
 ### Institutions in the USA

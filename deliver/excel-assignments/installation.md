@@ -10,7 +10,7 @@ Confirm you are signed in to Microsoft Excel with your student account before pr
 
 ## Supported Excel versions
 
-The EXAMIND Add-in supports desktop versions of Excel 2019 or later on macOS and Windows.
+The EXAMIND Add-in supports desktop versions of Excel 2021 or later on macOS and Windows.
 
 ## How to install EXAMIND
 

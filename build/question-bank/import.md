@@ -4,6 +4,8 @@ description: This article explains how to import questions.
 
 # Import
 
+Bring existing questions into your question bank from a file — such as a QTI, Word, XML, or Common Cartridge export.
+
 ## Accessing Import
 
 1. Click **Question Bank** in the left menu

@@ -5,6 +5,8 @@ icon: square-poll-vertical
 
 # Results
 
+Review student performance after an assessment, and export the data for further analysis.
+
 ## Accessing Results
 
 1. Click **Assessments** in the left menu
