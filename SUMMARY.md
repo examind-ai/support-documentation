@@ -76,6 +76,7 @@
 
 * [Overview](feedback-machines/overview.md)
 * [Get Started](feedback-machines/get-started.md)
+* [Set Up Canvas](feedback-machines/canvas-setup.md)
 * [Build a Feedback Machine](feedback-machines/build-a-feedback-machine.md)
 * [Deliver to Students](feedback-machines/deliver.md)
 * [Review & Export Results](feedback-machines/review.md)

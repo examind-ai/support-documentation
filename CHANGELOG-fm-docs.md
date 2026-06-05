@@ -26,7 +26,7 @@
 
 - **Proctoring** — no proctoring code exists in `examind-web`; you confirmed it's third-party-launch compatibility (Honorlock/Proctorio) and the existing docs describe it. I kept the proctoring content on that basis — please confirm the framing.
 - **About EXAMIND (mission/values)** — *deleted* per Kenny's call (per Diátaxis, company values don't belong in support docs).
-- **FM Get Started** mentions launching from **Canvas** via LTI (that's what FM's code shows). Confirm whether other LMSs are supported for FM specifically.
+- ~~FM Get Started / LMS~~ **Resolved (post-review):** Feedback Machines is a **separate** product from the EXAMIND Platform with its own **Canvas-only** LTI integration. Get Started is reframed around two paths (direct login to test vs Canvas for students); added a **Set Up Canvas** page (IT install → enable in course → create/link/copy class → semester recycle) and reciprocal separation notes. Internal sales/onboarding material was filtered out.
 - **FM "auto-grading at scale"** is achieved via class sharing + bulk import/export (not a labeled toggle); described that way.
 
 ## Deferred to next iteration

@@ -1,45 +1,40 @@
 ---
 icon: rocket
-description: Sign in, set up a class, and get ready to build your first Feedback Machine.
+description: >-
+  The two ways to start with Feedback Machines — a quick direct-login test, or a
+  Canvas setup so your students can log in easily.
 ---
 
 # Get Started
 
-Getting started with Feedback Machines takes two steps: sign in to your account, then set up a class to organize your machines and students. Once that's done, you're ready to [build your first Feedback Machine](build-a-feedback-machine.md).
+There are two ways to start using Feedback Machines, depending on whether you want to **try it yourself** or **roll it out to students**.
 
-## Sign in
+{% hint style="warning" %}
+**Feedback Machines is a separate product from the EXAMIND Platform, with its own LMS integration.** Setting up one does not set up the other, and Feedback Machines currently integrates with **Canvas only**.
+{% endhint %}
 
-Feedback Machines uses email-based sign-in. You can sign in with a magic link sent to your email, or with an email and password. The first time you sign in, you'll be asked whether you're an **instructor** or a **student**.
-
-## Set up a class
-
-A **class** groups your Feedback Machines and the students who can use them. There are two ways to create one.
+## Two ways to start
 
 {% tabs %}
-{% tab title="Create a class manually" %}
-1. Go to **Classes** and select **Create Class**.
-2. Fill in the details:
-   * **Class Name** (required)
-   * **Description** (optional)
-   * **End Date** (required)
-   * **License** (required)
-   * **Instructors** — paste instructor emails (you're included automatically)
-   * **Students** — paste student emails (optional; you can add them later)
-3. Save the class.
+{% tab title="Try it with direct login" %}
+The fastest way for an instructor to evaluate Feedback Machines — no LMS setup required.
+
+1. Go to [feedbackmachines.com](https://feedbackmachines.com) and select **Sign In**.
+2. Enter your university email. We'll email you a sign-in link (check your spam or junk folder if you don't see it).
+3. Once signed in, [build a Feedback Machine](build-a-feedback-machine.md) and test it on a sample submission.
+
+This is best for trying Feedback Machines out and aligning a machine to your assignment before students are involved.
 {% endtab %}
 
-{% tab title="Launch from your LMS" %}
-If your institution uses Canvas, you can launch Feedback Machines directly from your course using the LTI link your administrator has set up.
+{% tab title="Set up Canvas for your students" %}
+When you're ready for students to use Feedback Machines, set it up in your Canvas course so they can access it without a separate login.
 
-* The **first time** you launch, you'll see a short welcome screen where you can create your class.
-* On later launches, you'll see the classes already linked to that course.
-
-A class created this way is automatically connected to your LMS course.
+Your institution's IT team installs Feedback Machines in Canvas once; then you enable it in your course and create or link a class. See **[Set Up Canvas](canvas-setup.md)** for the full steps.
 {% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
-Sharing a Feedback Machine with a class lets every student in that class use it, and unlocks class-level features like bulk import and grade export. See [Deliver to Students](deliver.md).
+**Already at an institution that uses Feedback Machines?** Many instructors adopt it where it's already installed in Canvas. In that case you don't start from scratch — just [enable it in your Canvas course](canvas-setup.md) and link a class.
 {% endhint %}
 
 ## Next step

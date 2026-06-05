@@ -25,7 +25,7 @@ To grade a whole class's work at once, share the machine with a **class** and us
 
 ## How students submit
 
-Students open the machine (via a shared link or from their LMS) and submit their work in the format you configured:
+Students open the machine (from your Canvas course, or a direct link) and submit their work in the format you configured:
 
 * **Text** — typed or pasted into a rich-text editor, with a live word count.
 * **`.docx` or `.pdf`** — uploaded; the text is extracted for evaluation.
