@@ -4,6 +4,7 @@
 
 ## EXAMIND Platform
 
+* [Overview](examind-platform.md)
 * [Get Started](get-started/README.md)
   * [Standalone Use](get-started/standalone-use/README.md)
     * [Sign-in](get-started/standalone-use/sign-in.md)
@@ -72,7 +73,7 @@
 
 * [Overview](feedback-machines/overview.md)
 * [Get Started](feedback-machines/get-started.md)
-* [Set Up Canvas](feedback-machines/canvas-setup.md)
+  * [Set Up Canvas](feedback-machines/canvas-setup.md)
 * [Build a Feedback Machine](feedback-machines/build-a-feedback-machine.md)
   * [Modifying a Feedback Machine](feedback-machines/modifying-a-feedback-machine.md)
   * [How Scoring Works](feedback-machines/how-scoring-works.md)
@@ -96,7 +97,7 @@
   * [Brightspace](it-administration/lms-integrations/brightspace.md)
   * [Canvas](it-administration/lms-integrations/canvas.md)
   * [Moodle](it-administration/lms-integrations/moodle.md)
-* [Feedback Machines: Canvas Setup](it-administration/feedback-machines-canvas-setup.md)
+  * [Feedback Machines: Canvas Setup](it-administration/feedback-machines-canvas-setup.md)
 * [Proctoring Integrations](it-administration/proctoring-integrations/README.md)
   * [Honorlock Integration](it-administration/proctoring-integrations/honorlock-integration.md)
   * [Proctorio Integration](it-administration/proctoring-integrations/proctorio-integration.md)
