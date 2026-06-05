@@ -1,5 +1,7 @@
 ---
-description: This article shows you how to build an Excel Workbook question.
+description: >-
+  What the Excel Workbook question type is, how it's graded, and how to request
+  one (closed beta).
 ---
 
 # Excel Workbook
@@ -30,11 +32,9 @@ EXAMIND provides full autograding with partial credit on Excel workbook question
 * **Statistics and Data Analysis:** Run descriptive statistics, regression analyses, or create pivot tables from provided datasets.
 * **Operations Management:** Model inventory decisions, optimize supply chain scenarios, or simulate queuing models.
 
-## Create and Configure
+## Setting up
 
-{% hint style="info" %}
-This question type is only available in closed beta. For more information, email [**support@examind.io**](mailto:support@examind.io).
-{% endhint %}
+Excel Workbook questions are in **closed beta** and configured by EXAMIND — they aren't self-serve yet. Tell us what you'd like to assess and we'll build it with you: see [Excel Assessments](../../assessments/excel-assessments.md), or contact [**support@examind.io**](mailto:support@examind.io).
 
 ## Instructor Tips
 
