@@ -29,3 +29,17 @@ The takeaway: strategies built for the pre-AI era need to be re-examined against
 EXAMIND's [dynamic question engine](../build/question-builder/dynamic-questions/README.md) gives every student a unique variant, so **shared, leaked, and copied answers lose their value** — a structurally strong defense against the answer-sharing, copying, and leaked-content family.
 
 Design alone, though, doesn't neutralize AI-assisted, contract, or second-device cheating. Those call for complementary layers — most importantly [online proctoring](online-proctoring.md) for remote, high-stakes exams.
+
+## Match your defenses to your setup
+
+Where the greatest risk lies depends on how and where students take the assessment:
+
+* **Testing center · institution devices · in-person proctoring.** The environment is locked down, so the main risk is **leaked content** — questions circulating between sections or semesters. [Dynamic questions](../build/question-builder/dynamic-questions/README.md) address this directly: every student gets a unique variant, so leaked answers are worthless and you don't have to rewrite exams each term.
+* **Testing center · students' own devices · in-person proctoring.** The main risk becomes students using **AI on the test-taking device itself**. EXAMIND's [tactical deterrents](../deliver/tactical-deterrents.md) help control this during the attempt.
+* **Remote exams on students' own devices.** The hardest case: students could use **AI on any device**, in view or not. Here [online proctoring](online-proctoring.md) becomes essential alongside EXAMIND's assessment design.
+
+**The risks compound.** Each setup carries the risks of the more controlled ones plus its own — a remote exam faces leaked content *and* on-device AI *and* off-device AI. Match your defenses to your setup.
+
+{% hint style="info" %}
+Designing an integrity strategy for your specific setup? [Talk to us](mailto:support@examind.io) — we'll help you choose the right combination of controls.
+{% endhint %}
