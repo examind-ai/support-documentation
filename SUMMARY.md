@@ -79,6 +79,9 @@
 * [Set Up Canvas](feedback-machines/canvas-setup.md)
   * [Canvas LTI Installation (IT)](feedback-machines/canvas-lti-installation.md)
 * [Build a Feedback Machine](feedback-machines/build-a-feedback-machine.md)
+  * [Modifying a Feedback Machine](feedback-machines/modifying-a-feedback-machine.md)
+  * [How Scoring Works](feedback-machines/how-scoring-works.md)
+  * [Content Dependencies](feedback-machines/content-dependencies.md)
 * [Deliver to Students](feedback-machines/deliver.md)
 * [Review & Export Results](feedback-machines/review.md)
 
