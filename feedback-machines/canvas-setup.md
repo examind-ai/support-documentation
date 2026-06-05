@@ -17,7 +17,7 @@ Feedback Machines currently supports **Canvas only**, and is a **separate integr
 
 Before instructors can use Feedback Machines in Canvas, your institution's IT team installs it once at the Canvas account level. Share the installation guide with them:
 
-* [Canvas LTI installation guide for IT →](https://feedbackmachines.com/docs/lti/canvas)
+* [Canvas LTI Installation (IT) →](canvas-lti-installation.md)
 
 Once it's installed for your account (or the relevant sub-account), instructors can enable it in their own courses.
 
