@@ -6,7 +6,7 @@ description: >-
 
 # Simulation Assessments
 
-A **Simulation** assessment is an AI-powered, conversational scenario. The student works through an interactive exchange with an AI. You can optionally link a [Feedback Machine](../../feedback-machines/overview.md) to **auto-grade** the interaction against a rubric.
+A **Simulation** assessment is an AI-powered, conversational scenario. The student works through an interactive exchange with an AI. It can also be **auto-graded** by a [Feedback Machine](../../feedback-machines/overview.md) (see below).
 
 ## How a simulation works
 
@@ -23,7 +23,11 @@ When you build an assessment and choose the **Simulation** type, you can configu
 {% step %}
 ### Points & auto-grading
 
-Set the **points** the simulation is worth. To auto-grade it, optionally link a **Feedback Machine** that will evaluate the student's work against a rubric. (Build one first in the [Feedback Machines](../../feedback-machines/build-a-feedback-machine.md) section.)
+Set the **points** the simulation is worth. To auto-grade it, a **Feedback Machine** evaluates the student's work against a rubric. You build the Feedback Machine yourself (see the [Feedback Machines](../../feedback-machines/build-a-feedback-machine.md) section).
+
+{% hint style="info" %}
+**Linking is handled by EXAMIND for now.** You can set up and configure both the Simulation and the Feedback Machine on your own, but connecting the two currently requires us to set it up. Just [contact us](mailto:support@examind.io) and we'll link them.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -49,5 +53,5 @@ Add **comment instructions** to give the student a second, written reflection st
 
 A simulation combines optional AI auto-grading with your own judgment:
 
-* If you link a **Feedback Machine**, it auto-grades the interaction against its rubric.
+* If a **Feedback Machine** is linked (see above), it auto-grades the interaction against its rubric.
 * You can assign **points** and add an **overall comment**.
