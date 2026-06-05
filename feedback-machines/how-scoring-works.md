@@ -5,7 +5,14 @@ description: How a Feedback Machine turns performance levels into a score.
 
 # How Scoring Works
 
-A Feedback Machine scores work the way a rubric does — it judges each criterion, then adds the results up.
+A Feedback Machine scoring capabilities are generally more flexible than most rubrics. It can support:
+
+* Traditional point-based rubrics
+* Check-style criteria that give feedback without changing the score
+* Penalty-style rubrics with negative points
+* Parts with minimum score floors
+
+The combination of these capabilities allows Feedback Machines to be aligned with your preferred grading approach, even when a traditional rubric might not. 
 
 ## The structure
 
@@ -30,18 +37,5 @@ A part can have a **points floor** — a minimum it won't drop below. If the que
 
 ### After you change points
 
-If you modify questions or point values, the machine may **rebalance** points so a part's values stay consistent. When it does, it lets you know in the [Modify panel](modifying-a-feedback-machine.md).
+If you modify questions or point values, the machine may **rebalance** points so a part's values stay consistent. When it does, it lets you know in the [Modify panel](modifying-a-feedback-machine.md). For example, if you have an assignment worth 50 points, and you increase the point value of one criterion from 10 to 15, the machine will automatically adjust the point values of the other criteria to maintain the total of 50 points. If you ever want to avoid this behavior, just clarify that you want to change the total points for the whole assignment or part.
 
-## Example
-
-| Part | Question | Earned |
-| --- | --- | --- |
-| **Content** (20 pts) | Clarity of argument (max 10) | 10 |
-| | Use of evidence (max 10) | 5 |
-| | **Part score** | **15** |
-| **Writing** (10 pts) | Mechanics (max 10) | 10 |
-| | **Part score** | **10** |
-| **Analysis** (10 pts, 5-pt floor) | Depth of analysis (max 10) | 0 → floor |
-| | **Part score** | **5** |
-
-**Overall: 15 + 10 + 5 = 30 out of 40.** The Analysis part summed to 0, but its 5-point floor applied.

@@ -1,27 +1,17 @@
 ---
 icon: paper-plane
 description: >-
-  Share a Feedback Machine with students and choose how they use it — iterative
-  draft feedback or auto-grading at scale.
+  How students access a Feedback Machine and submit work for iterative
+  feedback.
 ---
 
 # Deliver to Students
 
-Once a Feedback Machine is published, students submit their work and receive AI feedback aligned to your rubric. There are two ways to put a machine to work.
+Once a Feedback Machine is published and [set up in your Canvas course](canvas-setup.md) (or shared as a direct link), students submit their work and get immediate, rubric-aligned feedback — then revise and resubmit as many times as they like. The more feedback rounds a student goes through, the more their writing tends to improve. You can see all of a student's submissions to follow their progress.
 
-## Two ways to use a machine
-
-{% tabs %}
-{% tab title="Iterative draft feedback" %}
-Students submit a draft and receive feedback within a few minutes, then revise and resubmit — as many times as they like. Each submission is a new draft, and you can see all of a student's submissions, so you can follow how their work improves.
-
-This mode is built for skill development: the more feedback rounds a student goes through, the more their writing tends to improve.
-{% endtab %}
-
-{% tab title="Auto-grading at scale" %}
-To grade a whole class's work at once, share the machine with a **class** and use **Bulk Import** to upload many submissions together (see [Review & Export Results](review.md)). Feedback Machines evaluates them all against your rubric, and you can export the scores and feedback to your gradebook.
-{% endtab %}
-{% endtabs %}
+{% hint style="info" %}
+Want to grade a whole class's submissions at once instead? See [Bulk Grading Assist](bulk-grading-assist.md).
+{% endhint %}
 
 ## How students submit
 
@@ -43,8 +33,22 @@ After submitting, students get results organized into tabs:
 * **Rubric** — per-criterion scores (if you've made the rubric view visible).
 * **Feedback** — narrative feedback: **What you did well**, **Areas for development**, and a prioritized list of **Things you can do to improve**.
 
-A score appears only if you chose to show point values. Students can select **New Draft** to revise and resubmit.
+A score appears only if you chose to show point values. Students select **New Draft** to revise and resubmit.
 
-## Next step
+## Tell students how to access it
 
-[Review & Export Results →](review.md)
+Copy and adapt one of these for your assignment instructions, a course announcement, or a message to students.
+
+{% tabs %}
+{% tab title="Canvas" %}
+> **Get Instant, Actionable Assignment Feedback** — We've partnered with Feedback Machines, an AI platform that gives you immediate, constructive feedback on your written assignments, helping you iteratively refine and elevate your writing with every submission. To access the instant feedback, click the **Feedback Machines** link in the left menu, then click **\[use]** next to the assignment you're working on.
+{% endtab %}
+
+{% tab title="Direct login" %}
+> **Get Instant Iterative Feedback**
+>
+> To provide you with the most timely feedback possible, we are piloting a new AI feedback system this semester. Because the system provides a significant amount of detailed feedback, we recommend focusing on 1–2 items from the top of the list per iteration to avoid feeling overwhelmed. Feel free to use the service to iterate through multiple rounds of feedback and edits.
+>
+> **How to use:** Go to [feedbackmachines.com](https://feedbackmachines.com) and click **\[Sign In]**, then enter your university email. The site will email you a link to complete the login. If you don't see the email, check your spam/junk folder. Once logged in, click **\[use]** next to this assignment and follow the on-screen instructions.
+{% endtab %}
+{% endtabs %}

@@ -9,7 +9,7 @@ description: >-
 
 Some evaluation questions rely on material outside the student's submission — for example, a case study the assignment is built around, a template the work must follow, or a transcript the student responds to. Feedback Machines calls these **content dependencies**.
 
-When you build a machine, the system scans your questions and flags any dependencies it detects. (Your assignment instructions and rubric are always available to the machine — those are built in.)
+When you build a machine, the system scans your questions and flags any dependencies it detects. 
 
 ## Why they matter
 
@@ -27,8 +27,8 @@ To resolve a dependency, either **paste the text** or **upload a document** (`.d
 
 ## Adding a dependency yourself
 
-If the system didn't detect a dependency it should have, add one through the [Modify panel](modifying-a-feedback-machine.md) — for example, "this question depends on the case study." You can remove dependencies there too.
+If the system didn't detect a dependency it should have, add one through the [Modify panel](modifying-a-feedback-machine.md) — for example, "please add a dependency for a case study and link it to all the analysis questions." You can remove dependencies there too.
 
 {% hint style="info" %}
-Dependencies aren't required to publish a machine — but resolving them improves the accuracy of the questions that rely on them.
+Dependencies aren't required to publish a machine — but resolving them improves the accuracy of the evaluation questions that rely on them.
 {% endhint %}

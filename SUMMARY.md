@@ -83,7 +83,7 @@
   * [How Scoring Works](feedback-machines/how-scoring-works.md)
   * [Content Dependencies](feedback-machines/content-dependencies.md)
 * [Deliver to Students](feedback-machines/deliver.md)
-* [Review & Export Results](feedback-machines/review.md)
+* [Bulk Grading Assist](feedback-machines/bulk-grading-assist.md)
 
 ## IT Administration
 

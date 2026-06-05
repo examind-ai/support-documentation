@@ -34,7 +34,7 @@ Your institution's IT team installs Feedback Machines in Canvas once; then you e
 {% endtabs %}
 
 {% hint style="info" %}
-**Already at an institution that uses Feedback Machines?** Many instructors adopt it where it's already installed in Canvas. In that case you don't start from scratch — just [enable it in your Canvas course](canvas-setup.md) and link a class.
+**Already at an institution that uses Feedback Machines?** In that case you don't start from scratch — just [enable it in your Canvas course](canvas-setup.md) and link a class.
 {% endhint %}
 
 ## Next step

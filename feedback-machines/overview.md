@@ -40,6 +40,8 @@ This mode is built for skill development — the number of feedback rounds a stu
 
 {% tab title="Auto-grading" %}
 Feedback Machines grades qualitative assignments at scale, producing scores and feedback aligned to your criteria. When configured properly, Feedback Machines exceed human-level inter-rater reliability (e.g. 0.9+ on Quadratic Weighted Kappa).
+
+See [Bulk Grading Assist](bulk-grading-assist.md) to grade a whole class at once.
 {% endtab %}
 {% endtabs %}
 

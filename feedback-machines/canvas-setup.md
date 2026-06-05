@@ -52,7 +52,7 @@ Set up your class by choosing one of:
 {% endstep %}
 {% endstepper %}
 
-## Reuse your setup next semester
+## Reuse last semester's Feedback Machines
 
 To carry your Feedback Machines into a new course instance:
 
