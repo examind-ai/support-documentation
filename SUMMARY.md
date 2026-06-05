@@ -51,8 +51,8 @@
       * [The Backpack](build/question-builder/dynamic-questions/dynamic-engine/the-backpack.md)
 * [Assessments](build/assessments/README.md)
   * [Assessment Builder](build/assessments/assessment-types.md)
-  * [Essay Assessments](build/assessments/essay-assessments.md)
-  * [Simulation Assessments](build/assessments/simulation-assessments.md)
+    * [Essay Assessments](build/assessments/essay-assessments.md)
+    * [Simulation Assessments](build/assessments/simulation-assessments.md)
   * [Share Assessments](build/assessments/share-assessments.md)
   * [Copying Between Courses](build/assessments/copying-between-courses.md)
 
@@ -85,6 +85,13 @@
 * [Deliver to Students](feedback-machines/deliver.md)
 * [Bulk Grading Assist](feedback-machines/bulk-grading-assist.md)
 
+## Our Approach
+
+* [Overview](our-approach/README.md)
+* [Why Iterative Feedback Works](our-approach/why-iterative-feedback-works.md)
+* [Understanding Cheating Modes](our-approach/cheating-modes.md)
+* [Working with Online Proctoring](our-approach/online-proctoring.md)
+
 ## IT Administration
 
 * [LMS Compatibility Matrix](it-administration/lms-compatibility-matrix.md)
@@ -100,10 +107,3 @@
 * [Excel Integration](it-administration/excel-integration.md)
 * [HECVAT Documentation](it-administration/hecvat-documentation.md)
 * [IT Support](it-administration/it-support.md)
-
-## Our Approach
-
-* [Overview](our-approach/README.md)
-* [Why Iterative Feedback Works](our-approach/why-iterative-feedback-works.md)
-* [Understanding Cheating Modes](our-approach/cheating-modes.md)
-* [Working with Online Proctoring](our-approach/online-proctoring.md)
