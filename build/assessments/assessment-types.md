@@ -1,76 +1,19 @@
 ---
-description: This article shows instructors how to create an assessment.
+description: Create an assessment and choose its type.
 ---
 
 # Assessment Builder
 
-## Create an Assessment
+The Assessment Builder is where you create an assessment and choose its type.
 
-1. Click **Assessments** in the left menu
-2. Click **+ Add Assessment**
-3. Input the desired information and click **Create Assessment**
+## Create an assessment
 
-## Assessment Types
+1. Click **Assessments** in the left menu.
+2. Click **+ Add Assessment**.
+3. Enter the details and click **Create Assessment**.
 
-EXAMIND supports five assessment types:
+## Assessment types
 
-1. Exam
-2. Quiz
-3. Practice
-4. Essay
-5. Simulation
+EXAMIND supports five assessment types. Exams, quizzes, and practice are built the same way — from your question bank — while essays and simulations are each a single, specialized question.
 
-{% hint style="info" %}
-Exams, Quizzes and Practice are similar assessment types based on adding questions from the question bank.
-{% endhint %}
-
-## Build an Assessment
-
-### Exam/Quiz/Practice
-
-Exams, quizzes, and practice assessments require three steps to build an assessment:
-
-{% stepper %}
-{% step %}
-**Add Question to Assessment**
-
-Click the box next to the question title in your question bank to add the question to the assessment.
-{% endstep %}
-
-{% step %}
-**Verify Question Included in Assessment**&#x20;
-
-Questions added in Step 1 will appear in the assessment window on the right-hand side.
-
-{% hint style="info" %}
-The number of questions, question pools, and points associated with the assessment will automatically update as you add questions.
-{% endhint %}
-
-To remove a question from the assessment, simply uncheck the box next to the question title in your question bank.&#x20;
-{% endstep %}
-
-{% step %}
-**Set Question Order**
-
-By default, questions are ordered by question type into Question Groups and randomized within each group. You can make the following changes:
-
-1. **Create New Groups**: Click the **+** button after clicking on the question group title
-2. **Fix Question Order**: Click the crossed arrow icon.
-3. **Combine Question Groups**: Click on a question in the assessment window and drag into a different question group.&#x20;
-
-{% hint style="info" %}
-Question Group titles will be presented to the student. One tip is to combine all questions into one group and rename the group the assessment title (e.g. Final Exam). In other cases you may want to fix long workout problems as the last questions in the exam.
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-### Essays/Simulations
-
-Essay and Simulation assessments each consist of a single question and have their own setup. See the dedicated pages:
-
-* [**Essay Assessments**](essay-assessments.md) — an open-response question students write in the essay room, graded by you.
-* [**Simulation Assessments**](simulation-assessments.md) — an AI-powered scenario evaluated by a [Feedback Machine](../../feedback-machines/overview.md).
-
-{% hint style="info" %}
-For support building high-quality AI system prompts, contact [**support@examind.io**](mailto:support@examind.io).
-{% endhint %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Exams, Quizzes &#x26; Practice</strong></td><td>Built from questions in your question bank.</td><td><a href="exams-quizzes-practice.md">exams-quizzes-practice.md</a></td></tr><tr><td><strong>Essay</strong></td><td>A single open-response question, written in the essay room.</td><td><a href="essay-assessments.md">essay-assessments.md</a></td></tr><tr><td><strong>Simulation</strong></td><td>An AI-powered conversational scenario.</td><td><a href="simulation-assessments.md">simulation-assessments.md</a></td></tr></tbody></table>
