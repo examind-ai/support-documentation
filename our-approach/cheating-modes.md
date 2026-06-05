@@ -1,4 +1,5 @@
 ---
+icon: user-secret
 description: The cheating strategies modern assessments face — led, today, by generative AI.
 ---
 

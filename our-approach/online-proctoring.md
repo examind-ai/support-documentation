@@ -1,4 +1,5 @@
 ---
+icon: shield-halved
 description: How EXAMIND works alongside online proctoring to protect remote-exam integrity.
 ---
 
