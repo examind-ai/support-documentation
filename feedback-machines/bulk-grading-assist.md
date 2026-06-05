@@ -51,6 +51,16 @@ You can export all students, or only each student's highest-scoring submission.
 {% endstep %}
 {% endstepper %}
 
-## Re-evaluate after changes
+## Refine and re-evaluate
 
-If you update the machine's rubric or criteria, use **Re-evaluate All** to re-run every submission against the current version. The original import and its results are preserved.
+Bulk grading is iterative. As you review the results, you'll often spot evaluations you'd have graded differently — that's expected, and it's easy to correct:
+
+1. **Spot a discrepancy.** While reviewing the grading results, note any evaluation you don't agree with.
+2. **Explain it to the machine.** Open the [Modify panel](modifying-a-feedback-machine.md) and describe the discrepancy — for example, adjust a question, change point values, or add an instructor note clarifying how that case should be handled.
+3. **Re-evaluate.** Come back to the import and select **Re-evaluate All** to re-run every submission against the updated machine.
+
+Your original import and its results are preserved, so you can compare before and after.
+
+{% hint style="info" %}
+This review → refine → re-evaluate loop is the core of bulk grading. A few rounds is normal — it's how you bring the machine into agreement with your judgment.
+{% endhint %}
