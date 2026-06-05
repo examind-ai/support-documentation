@@ -1,6 +1,6 @@
 # EXAMIND Documentation — Authoring & Structure Guide
 
-> **Internal guide.** This file is intentionally **not** listed in `SUMMARY.md`, so it is not published to the GitBook site. It defines the conventions for the documentation catch-up and enhancement (intention EXI-33), and is intended as a basis the CTO can reuse to guide continuous, automated doc updates.
+> **Internal guide.** This file is intentionally **not** listed in `SUMMARY.md`, so it is not published to the GitBook site. It defines the conventions for authoring and structuring EXAMIND's customer-facing documentation — for both manual edits and automated/continuous updates.
 
 ## 1. Document only released capabilities
 
@@ -23,13 +23,20 @@ Every section landing page (a `README.md` with child pages) must orient the read
 - Every link carries a one-line description.
 - Brief orientation goes **above** the links; deeper concept goes **below** them (or on a linked page) — never bury navigation under a wall of prose.
 
-## 3. Concept vs how-to (Diátaxis-lite)
+## 3. Diátaxis — keep the four modes distinct
 
-Separate **what / why** (concept) from **how** (steps):
+Documentation serves four distinct needs (the [Diátaxis](https://diataxis.fr) framework). A page should do **one** of these well, not blur several:
 
-- **Small concept** → inline orientation on the landing page.
-- **Substantial concept** → a dedicated **Overview** page.
-- Keep how-to pages task-focused; link out to the concept rather than repeating it.
+- **Explanation** (*understanding-oriented*) — what something is and why it matters; our conceptual "Overview" / "what-is" pages. This is the layer EXAMIND docs have historically lacked, so it's usually where a gap is.
+- **How-to guide** (*task-oriented*) — numbered steps to accomplish a specific goal; most existing pages. Keep them focused on the task; don't pad them with concept.
+- **Reference** (*information-oriented*) — dry, factual lookup (e.g., the LMS Compatibility Matrix, a question type's options). Complete and accurate over narrative.
+- **Tutorial** (*learning-oriented*) — a guided first experience for a newcomer. Rare in our docs; don't force one.
+
+**Applying it:**
+
+- Separate **what / why** (explanation) from **how** (how-to). A small concept → inline orientation on the landing page; a substantial concept → a dedicated **Overview** (explanation) page.
+- Keep each page in a single mode. When a how-to needs concept, **link to the explanation** rather than repeating it (see §4).
+- When catching docs up to a product change, ask which mode the gap is in — a new capability usually needs **explanation first** (what it is), then how-to coverage.
 
 ## 4. Cross-link, don't duplicate
 
@@ -38,7 +45,7 @@ When a capability surfaces in two places (e.g., Feedback Machines is also the en
 ## 5. Images
 
 - **Allowed:** product screenshots and integration logos (LMS / proctoring).
-- **Not allowed:** license-restricted third-party decorative art. (The previous Toonville card illustrations are personal-use-only and are being removed.)
+- **Not allowed:** license-restricted third-party decorative art (e.g., stock illustrations under a personal-use-only license).
 - Prefer screenshots accurate to the current released UI — they double as automatable artifacts for ongoing updates.
 
 ## 6. GitBook card syntax
