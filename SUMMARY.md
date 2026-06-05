@@ -54,6 +54,7 @@
       * [Exams, Quizzes & Practice](build/assessments/exams-quizzes-practice.md)
       * [Essay Assessments](build/assessments/essay-assessments.md)
       * [Simulation Assessments](build/assessments/simulation-assessments.md)
+      * [Excel Assessments](build/assessments/excel-assessments.md)
     * [Share Assessments](build/assessments/share-assessments.md)
     * [Copying Between Courses](build/assessments/copying-between-courses.md)
 * [Deliver](deliver/README.md)
