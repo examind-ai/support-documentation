@@ -37,10 +37,6 @@ When sending essay and simulation results to Canvas, the system automatically up
 {% endhint %}
 
 {% hint style="info" %}
-EXAMIND does not automatically post grades to the LMS in order to protect any changes you have made inside your LMS.
-{% endhint %}
-
-{% hint style="info" %}
 The score posted to the LMS is determined by the **Score to Keep** setting on the assessment. See [Schedule](../../deliver/schedule.md).
 {% endhint %}
 
@@ -51,4 +47,20 @@ In order to post grades to Canvas, the following conditions must be met:
 * Course cannot have ended
 * Course must to be published (even if posting grades for `Test Student`)
 * If posting grades using the `All submissions` option, each grade post counts as an attempt in Canvas, so ensure sufficient attempts are allowed in the Canvas assignment
+{% endhint %}
+
+## Automatically Post Grades
+
+By default, EXAMIND keeps grades in EXAMIND until you post them yourself using the steps above, so that any adjustments you make directly in your LMS are never overwritten without your say-so. If you would rather not post grades by hand, you can have EXAMIND keep the LMS gradebook up to date for you.
+
+In the assessment's **Settings**, under **LMS Integration**, turn on **Auto-post grades to LMS**. Once enabled, EXAMIND automatically sends grades for newly submitted attempts to the linked LMS gradebook, so you no longer need to click **Post Grades** after each round of submissions.
+
+{% hint style="info" %}
+* **Auto-post grades to LMS** appears only for assessments that are linked to an LMS, and it is off until you turn it on.
+* Auto-posting sends **new submissions only**, so grades you have already adjusted in the LMS are preserved.
+* The score sent follows the assessment's **Score to Keep** setting, the same as a manual post.
+{% endhint %}
+
+{% hint style="info" %}
+When you change an LMS-linked assessment's **Everyone** availability dates, EXAMIND automatically updates the matching dates on the linked LMS gradebook column, so you do not have to edit them in both places.
 {% endhint %}
