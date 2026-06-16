@@ -60,7 +60,3 @@ In the assessment's **Settings**, under **LMS Integration**, turn on **Auto-post
 * Auto-posting sends **new submissions only**, so grades you have already adjusted in the LMS are preserved.
 * The score sent follows the assessment's **Score to Keep** setting, the same as a manual post.
 {% endhint %}
-
-{% hint style="info" %}
-When you change an LMS-linked assessment's **Everyone** availability dates, EXAMIND automatically updates the matching dates on the linked LMS gradebook column, so you do not have to edit them in both places.
-{% endhint %}

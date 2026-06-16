@@ -39,3 +39,7 @@ EXAMIND's assessment is now available as an activity in Brightspace.
 {% hint style="info" %}
 Students extensions needs to be configured in both Brightspace and EXAMIND. Refer to the [scheduling page](../../../deliver/schedule.md) on how to configure extensions in EXAMIND.
 {% endhint %}
+
+{% hint style="info" %}
+For how the assessment's Release and Due dates appear in Brightspace - and what to do if you change them later - see [Availability Dates & Your LMS](../availability-dates.md).
+{% endhint %}

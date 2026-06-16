@@ -33,3 +33,7 @@ Check **Load This Tool In A New Tab** and leave **Allowed Attempts** as **Unlimi
 {% hint style="info" %}
 Students extensions needs to be configured in both Canvas and EXAMIND. Refer to the [scheduling page](../../../deliver/schedule.md) on how to configure extensions in EXAMIND.
 {% endhint %}
+
+{% hint style="info" %}
+EXAMIND does not send dates to Canvas - you manage the assignment's dates in Canvas. See [Availability Dates & Your LMS](../availability-dates.md) for why.
+{% endhint %}
