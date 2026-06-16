@@ -41,3 +41,7 @@ Complete the fields to match your Blackboard settings and click **Create Course.
 {% hint style="info" %}
 Students extensions need to be configured in both Blackboard and EXAMIND. Refer to the [scheduling page](../../../deliver/schedule.md) on how to configure extensions in EXAMIND.
 {% endhint %}
+
+{% hint style="info" %}
+For how the assessment's Release and Due dates appear in Blackboard - and what to do if you change them later - see [Availability Dates & Your LMS](../availability-dates.md).
+{% endhint %}

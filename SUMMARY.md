@@ -17,6 +17,7 @@
       * [Brightspace](get-started/lms-integrated/assessment-deeplink/brightspace.md)
       * [Canvas](get-started/lms-integrated/assessment-deeplink/canvas.md)
       * [Moodle](get-started/lms-integrated/assessment-deeplink/moodle.md)
+    * [Availability Dates](get-started/lms-integrated/availability-dates.md)
     * [Post Grades](get-started/lms-integrated/post-grades.md)
     * [Invite Instructors](get-started/lms-integrated/invite-instructors.md)
     * [Roster Sync](get-started/lms-integrated/roster-sync.md)

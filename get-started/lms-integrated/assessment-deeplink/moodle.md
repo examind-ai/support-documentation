@@ -53,3 +53,7 @@ EXAMIND's LTI is now available as an activity in Moodle.
 {% hint style="info" %}
 Students extensions needs to be configured in both Moodle and EXAMIND. Refer to the [scheduling page](../../../deliver/schedule.md) on how to configure extensions in EXAMIND.
 {% endhint %}
+
+{% hint style="info" %}
+For how the assessment's Release and Due dates appear in Moodle, see [Availability Dates & Your LMS](../availability-dates.md).
+{% endhint %}
