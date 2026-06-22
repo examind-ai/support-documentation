@@ -56,7 +56,7 @@ By default, EXAMIND keeps grades in EXAMIND until you post them yourself using t
 In the assessment's **Settings**, under **LMS Integration**, turn on **Auto-post grades to LMS**. Once enabled, EXAMIND automatically sends grades for newly submitted attempts to the linked LMS gradebook, so you no longer need to click **Post Grades** after each round of submissions.
 
 {% hint style="info" %}
-* **Auto-post grades to LMS** appears only for assessments that are linked to an LMS, and it is off until you turn it on.
+* **Auto-post grades to LMS** is off until you turn it on, and you can enable it as soon as the assessment is set up. Grades begin posting automatically once the assessment has been opened from your LMS at least once (the launch that links it to its gradebook column); any submissions from before that point are sent automatically as soon as the link is in place.
 * Auto-posting sends **new submissions only**, so grades you have already adjusted in the LMS are preserved.
 * The score sent follows the assessment's **Score to Keep** setting, the same as a manual post.
 {% endhint %}
