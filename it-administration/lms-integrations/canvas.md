@@ -5,93 +5,90 @@ description: This article shows you how to install EXAMIND using LTI in Canvas.
 # Canvas
 
 {% hint style="info" %}
-It should take no more than 15 minutes of work to get EXAMIND LTI set up, but the total elapsed time may span a couple of days due to a couple of back and forth communication that are required.
+EXAMIND supports two ways to install its LTI tool in Canvas. **Dynamic Registration is the recommended method** — it configures the developer key automatically from a single URL. A manual **JSON URL** method is available as a fallback (see [Alternative: install with a JSON URL](#alternative-install-with-a-json-url)).
 
-To minimize this time, please complete the first 4 steps and send the information requested in step 4 (**Send Platform Information to EXAMIND**) to EXAMIND as soon as possible.
+Setup takes about 15 minutes of work, but total elapsed time may span a day or two because EXAMIND needs to activate your integration (see Step 4). To minimize the wait, send the information requested in **Step 4** as early as possible.
 {% endhint %}
 
-## Step 1: Add Developer Key
+## Step 1: Register EXAMIND via Dynamic Registration
 
-From the Canvas **Admin** / **Developer Keys** page, click the **+ Developer Key** button, then select **+ LTI Key**:
+From the Canvas **Admin** / **Developer Keys** page, click the **+ Developer Key** button, then select **+ LTI Registration**:
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-29-52-4061-PM.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/canvas-dr-add-lti-registration.png" alt=""><figcaption></figcaption></figure>
 
-Enter **EXAMIND** for **Key Name**, then for the **Method**, select **Enter URL**, then paste one of the following URLs in the **JSON URL** box:
+Enter the **Dynamic Registration URL** for your data center, then click **Continue**:
 
-* **For US data center users -** https://lti.examind.io/developer-keys/canvas
-* **For Canadian data center users -** https://lti-ca.examind.io/developer-keys/canvas
+* **US data center —** `https://lti.examind.io/register`
+* **Canadian data center —** `https://lti-ca.examind.io/register`
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-22-48-4503-PM.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/canvas-dr-registration-url.png" alt=""><figcaption></figcaption></figure>
 
-Click **Save.**
+Canvas and EXAMIND exchange the configuration automatically. Review the permissions, user data, and placement, then click **Enable & Close**:
 
-***
+<figure><img src="../../.gitbook/assets/canvas-dr-permissions-enable.png" alt=""><figcaption></figcaption></figure>
 
-## Step 2: Turn State On
-
-The developer key state is OFF by default. Make sure to turn it on by clicking ON:
-
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-24-17-5251-PM.webp" alt=""><figcaption></figcaption></figure>
+The developer key is created and enabled — there's no separate step to turn it on.
 
 ***
 
-## Step 3: Add External App
+## Step 2: Copy the Client ID
 
-Make note of the Client ID and copy it to your clipboard:
+On the **Developer Keys** page, find the **EXAMIND** key and copy its **Client ID** (the number shown in the **Details** column):
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-24-52-6470-PM.webp" alt=""><figcaption></figcaption></figure>
-
-From the **Settings** / **Apps** page, click the **+ App** button:
-
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-27-31-9107-PM.webp" alt=""><figcaption></figcaption></figure>
-
-Choose **By Client ID** for **Configuration Type** and paste your **Client ID**:
-
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-32-23-4978-PM.webp" alt=""><figcaption></figcaption></figure>
-
-When asked if you really want to proceed, click **Install**:
-
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-32-58-2265-PM.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/canvas-developer-key-client-id.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-## Step 4: Send Info to EXAMIND
+## Step 3: Add EXAMIND as an External App
 
-Now that an External App has been added for EXAMIND, please send the following information to [**support@examind.io**](mailto:support@examind.io) so that we can register your platform:
+From the **Settings** / **Apps** page, click **View App Configurations**:
 
-* Your production and test Canvas Instance URLs (e.g.: https://canvas.hillman.edu and https://hillmanedu.test.instructure.com)
-* The Client ID that Canvas generated in step 3
+<figure><img src="../../.gitbook/assets/canvas-apps-view-configurations.png" alt=""><figcaption></figcaption></figure>
+
+Click the **+ App** button:
+
+<figure><img src="../../.gitbook/assets/canvas-apps-add-app.png" alt=""><figcaption></figcaption></figure>
+
+For **Configuration Type**, select **By Client ID**, paste your **Client ID**, then click **Submit**:
+
+<figure><img src="../../.gitbook/assets/canvas-add-app-by-client-id.png" alt=""><figcaption></figcaption></figure>
+
+When asked to confirm, click **Install**:
+
+<figure><img src="../../.gitbook/assets/canvas-add-app-install.png" alt=""><figcaption></figcaption></figure>
+
+EXAMIND now appears in your list of external apps:
+
+<figure><img src="../../.gitbook/assets/canvas-external-apps-examind-installed.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-## Step 5: Link Assessment
+## Step 4: Send your Client ID and Canvas URLs to EXAMIND
 
-Go to a course in Canvas, then in the **Assignments** page, click the **+ Assignment** button:
+EXAMIND is notified automatically when you register, but we still need two things from you to finish activating your integration. Please email the following to [**support@examind.io**](mailto:support@examind.io):
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-36-41-5130-PM.webp" alt=""><figcaption></figcaption></figure>
+* **Your Client ID** (from Step 2) — so we can match your registration to your institution.
+* **Your production and test Canvas instance URLs** (e.g. `https://canvas.hillman.edu` and `https://hillmanedu.test.instructure.com`) — so we can allow EXAMIND to be embedded within your Canvas pages.
 
-Enter an **Assignment Name** and set the appropriate **Points:**
+Once we receive this, we'll activate your integration and notify you by email.
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-37-24-8923-PM.webp" alt=""><figcaption></figcaption></figure>
+***
 
-For **Submission Type**, select **External Tool**, then click **Find**:
+## Step 5: Link an Assessment
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-38-18-7234-PM.webp" alt=""><figcaption></figcaption></figure>
+Once your integration is active, instructors can [link an EXAMIND assessment to a Canvas assignment](../../get-started/lms-integrated/assessment-deeplink/#canvas) without administrator involvement.
 
-Select the EXAMIND LTI Tool:
+***
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-39-38-1333-PM.webp" alt=""><figcaption></figcaption></figure>
+## Alternative: install with a JSON URL
 
-If this is the first time you launch LTI Connect for EXAMIND, you will encounter the following error message. An automatic notification will have already been sent to EXAMIND's support team to take action. If this happens during regular business hours, we will resolve this issue within a couple of hours and notify you by email when this is done.
+If your environment can't use Dynamic Registration, you can create the developer key manually from a JSON URL. This replaces **Step 1** only — the remaining steps are identical.
 
-{% hint style="info" %}
-If you skipped **Step 4 (Send Platform Information to EXAMIND)** for any reason, now would be a good time to send the requested information to [**support@examind.io**](mailto:support@examind.io), as we can't proceed with platform registration without that information.
-{% endhint %}
+From the **Admin** / **Developer Keys** page, click **+ Developer Key**, then select **+ LTI Key**. Enter **EXAMIND** for the **Key Name**, set **Method** to **Enter URL**, and paste the **JSON URL** for your data center:
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-02-56-15-6589-PM.webp" alt=""><figcaption></figcaption></figure>
+* **US data center —** `https://lti.examind.io/developer-keys/canvas`
+* **Canadian data center —** `https://lti-ca.examind.io/developer-keys/canvas`
 
-Once your Canvas platform is registered, try again:
+Click **Save**. Unlike Dynamic Registration, a key created this way is **OFF** by default — switch its **State** to **ON**.
 
-<figure><img src="../../.gitbook/assets/image-png-Jun-13-2024-03-00-44-0898-PM.webp" alt=""><figcaption></figcaption></figure>
-
-From this point forward, [linking an assessment in EXAMIND to an assignment in Canvas](../../get-started/lms-integrated/assessment-deeplink/#canvas) can be done by the instructor without administrator involvement.
+Then continue from [**Step 2: Copy the Client ID**](#step-2-copy-the-client-id) above.
