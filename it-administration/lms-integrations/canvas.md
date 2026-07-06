@@ -33,7 +33,7 @@ The developer key is created and enabled — there's no separate step to turn it
 
 ## Step 2: Copy the Client ID
 
-On the **Developer Keys** page, find the **EXAMIND** key and copy its **Client ID** (the number shown in the **Details** column):
+On the **Developer Keys** page, find the **EXAMIND** key (named **EXAMIND CA** if you registered on the Canadian data center) and copy its **Client ID** (the number shown in the **Details** column):
 
 <figure><img src="../../.gitbook/assets/canvas-developer-key-client-id.png" alt=""><figcaption></figcaption></figure>
 
