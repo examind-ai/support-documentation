@@ -64,3 +64,7 @@ To carry your Feedback Machines into a new course instance:
 ## How students access it
 
 Once your class is linked, students click the **Feedback Machines** link in your course's left menu, then **Use** next to the assignment they're working on. See [Use a Feedback Machine](use.md) for more.
+
+## Open in a full window
+
+Inside Canvas, Feedback Machines runs in an embedded panel, which can be narrow. Whenever it's opened this way, a banner offers to **open it in a full browser window** for more room. You and your students can also do this anytime from **Open in Full Window** in the account menu. Either way you stay signed in and land right where you were, so nothing is lost in the switch.
