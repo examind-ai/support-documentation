@@ -6,7 +6,7 @@ description: >-
 
 # Essay Assessments
 
-An **Essay** assessment is a single open-response question. The student writes their answer in the **essay room** — a simple in-browser editor — and **you grade it yourself**. An optional [AI assistant](#the-ai-assistant) can help the student *while they write*; it doesn't grade their work.
+An **Essay** assessment is a single open-response question. The student writes their answer in the **essay room** — a simple in-browser editor — and you grade it yourself, or link a [Feedback Machine](../../feedback-machines/get-started.md) to auto-grade it against your criteria. An optional [AI assistant](#the-ai-assistant) can help the student *while they write*; it doesn't grade their work.
 
 ## The essay room
 
@@ -46,16 +46,23 @@ Enter the **instructions** shown to the student in the essay room.
 
 Leave the assistant on and shape it with an **AI system message** (and choose the **AI model**), or turn it off with **Hide Chat**.
 {% endstep %}
+
+{% step %}
+### Feedback Machine (optional)
+
+To auto-grade the essay, select **Link Feedback Machine** in the builder's **Feedback Machine** section and pick, copy, or create the machine that will evaluate it against your criteria. Once linked, a status shows whether setup is **complete** or still needs finishing. You build the machine's rubric and instructions in the [Feedback Machines](../../feedback-machines/build-a-feedback-machine.md) section.
+{% endstep %}
 {% endstepper %}
 
 ## Grading
 
-You grade essays yourself:
+You grade essays yourself, with optional Feedback Machine auto-grading:
 
 * Assign **points** and write an **overall comment**.
 * Add **inline annotations** on specific parts of the student's writing.
 * Leave **comments on the AI chat**, where the assistant was used.
+* If a **Feedback Machine** is linked, it auto-grades the essay against your criteria; a manual grade you enter always takes precedence. Once feedback is ready, a **See Feedback** button opens the detailed, criteria-aligned feedback in Feedback Machines — for you, and for students during their [self review](../../grade/self-review.md) window.
 
 {% hint style="info" %}
-There's no built-in connection between Essay assessments and [Feedback Machines](../../feedback-machines/get-started.md) yet. If you'd like AI help with grading, you can still do it manually — copy a student's essay into a Feedback Machine and run it there.
+Prefer to grade manually but still want AI help? You can copy a student's essay into a standalone [Feedback Machine](../../feedback-machines/get-started.md) and run it there, without linking it to the assessment.
 {% endhint %}

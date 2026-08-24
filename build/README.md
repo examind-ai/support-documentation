@@ -8,7 +8,7 @@ description: Create questions and assemble them into assessments.
 In EXAMIND you build the **questions**, then bring them together into an **assessment**. How that works depends on the assessment type — and that distinction is the key thing to understand here:
 
 * **Question-based assessments** — **exams, quizzes, and practice** are assembled from your question bank. Most of this section is about creating and organizing those questions.
-* **Single-question assessments** — **Essay** and **Simulation** are *not* built from the question bank. Each is one specialized prompt (a written response in the essay room, or an AI-powered scenario), configured directly in the [Assessment Builder](assessments/assessment-types.md).
+* **Single-question assessments** — **Essay**, **Simulation**, and **File Upload** are *not* built from the question bank. Each is one specialized prompt (a written response in the essay room, an AI-powered scenario, or a drop box for uploaded files), configured directly in the [Assessment Builder](assessments/assessment-types.md).
 
 ## The question-based flow (exams, quizzes, practice)
 
@@ -22,4 +22,4 @@ The [**dynamic question engine**](question-builder/dynamic-questions/README.md) 
 
 * [**Question Bank**](question-bank/README.md) — import, share, and pool your questions for reuse across courses.
 * [**Question Builder**](question-builder/README.md) — create questions across the eight question types, including dynamic, per-student variants.
-* [**Assessments**](assessments/README.md) — assemble exams, quizzes, and practice from your questions, or set up an Essay or Simulation.
+* [**Assessments**](assessments/README.md) — assemble exams, quizzes, and practice from your questions, or set up an Essay, Simulation, or File Upload.

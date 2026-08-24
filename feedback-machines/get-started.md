@@ -57,10 +57,16 @@ See [Bulk Grading Assist](bulk-grading-assist.md) to grade a whole class at once
 
 ## Feedback Machines and EXAMIND assessments
 
-Feedback Machines can also **auto-grade Simulation assessments** in the EXAMIND Platform: once a Feedback Machine is linked to a Simulation, it evaluates the student's interaction against your criteria. (The EXAMIND **Essay** assessment type is instructor-graded.)
+Feedback Machines can also auto-grade assessments in the EXAMIND Platform. Once a Feedback Machine is linked to an assessment, it evaluates each student's work against your criteria. Three assessment types can be linked:
+
+* [**Essay**](../build/assessments/essay-assessments.md) — the student's written response.
+* [**Simulation**](../build/assessments/simulation-assessments.md) — the student's interaction with the AI.
+* [**File Upload**](../build/assessments/file-upload-assessments.md) — the PDF or Word files the student uploads.
+
+You link a machine yourself from the assessment builder (**Link Feedback Machine**), no involvement from us required. When feedback is ready, a **See Feedback** button on the review opens it in Feedback Machines — for you, and for students during their self review window.
 
 {% hint style="info" %}
-**Linking is handled by EXAMIND for now.** You can build and configure both a Simulation and a Feedback Machine yourself, but connecting the two currently requires us to set it up — just [contact us](mailto:support@examind.io) and we'll link them. See [Simulation Assessments](../build/assessments/simulation-assessments.md).
+This is a **separate integration** from the Canvas LTI above. Linking a Feedback Machine to an EXAMIND assessment happens inside the EXAMIND Platform and doesn't require Canvas. If Feedback Machines isn't enabled for your institution yet, the builder will prompt you to [contact us](mailto:support@examind.io).
 {% endhint %}
 
 ## Next step

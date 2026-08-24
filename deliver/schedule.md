@@ -22,6 +22,12 @@ Set when an assessment is available to students, along with time limits, attempt
 Leaving the number of attempts blank will allow unlimited attempts for the assessment.
 {% endhint %}
 
+{% hint style="info" %}
+**[File Upload](../build/assessments/file-upload-assessments.md) assessments have no time limit** — because the work is done outside EXAMIND, they're governed by the availability window instead, and the time limit option doesn't appear for them.
+
+For any **untimed** assessment, students see the **due date** (for example, "Due: Sep 3, 23:59") rather than a countdown, until the last hour before it closes.
+{% endhint %}
+
 * **Score to Keep:** Determines which score is recorded when a student attempts the assessment multiple times. This is also the score that gets sent to the LMS when posting grades.
   * **Last:** The score from the student's most recent attempt is kept.
   * **Highest:** The highest score across all of the student's attempts is kept.
