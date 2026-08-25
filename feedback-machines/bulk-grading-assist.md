@@ -47,7 +47,7 @@ Select **Export Results** to download:
 * **Feedback files** — a zip of per-student feedback.
 * **Submissions** — a zip of the original student files.
 
-You can export all students, or only each student's highest-scoring submission.
+You can export all students, or only each student's highest-scoring submission. The detailed CSV export includes separate **First Name** and **Last Name** columns alongside each student's email.
 {% endstep %}
 {% endstepper %}
 

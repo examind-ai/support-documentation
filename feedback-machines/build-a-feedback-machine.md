@@ -50,7 +50,7 @@ Name your machine and set how it behaves for students:
 * **Rubric view** — show or hide the per-criterion rubric summary to students.
 * **Machine details** — show how the machine evaluates always, only after a first submission, or never.
 * **Sharing** — keep the machine **personal** (just you) or share it with a **class**.
-* **Submission type** — text, `.docx`, or `.pdf`, and how many files a submission may include.
+* **Submission type** — how students submit: **DOCX**, **PDF**, **DOCX or PDF** (either format, so a submission can even mix the two), or **text** (copy & paste). For file uploads, also set **Files Per Submission** (up to three) — when more than one is allowed, all files are evaluated together.
 
 Publish when you're ready, and the machine becomes available for use.
 {% endstep %}

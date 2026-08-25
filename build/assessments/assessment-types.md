@@ -14,9 +14,9 @@ The Assessment Builder is where you create an assessment and choose its type.
 
 ## Assessment types
 
-EXAMIND supports five assessment types. Exams, quizzes, and practice are built the same way — from your question bank — while essays and simulations are each a single, specialized question.
+EXAMIND supports six assessment types. Exams, quizzes, and practice are built the same way — from your question bank — while essays, simulations, and file uploads are each a single, specialized question.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Exams, Quizzes &#x26; Practice</strong></td><td>Built from questions in your question bank.</td><td><a href="exams-quizzes-practice.md">exams-quizzes-practice.md</a></td></tr><tr><td><strong>Essay</strong></td><td>A single open-response question, written in the essay room.</td><td><a href="essay-assessments.md">essay-assessments.md</a></td></tr><tr><td><strong>Simulation</strong></td><td>An AI-powered conversational scenario.</td><td><a href="simulation-assessments.md">simulation-assessments.md</a></td></tr></tbody></table>
+<table data-view="cards" data-card-size="large"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Exams, Quizzes &#x26; Practice</strong></td><td>Built from questions in your question bank.</td><td><a href="exams-quizzes-practice.md">exams-quizzes-practice.md</a></td></tr><tr><td><strong>Essay</strong></td><td>A single open-response question, written in the essay room.</td><td><a href="essay-assessments.md">essay-assessments.md</a></td></tr><tr><td><strong>Simulation</strong></td><td>An AI-powered conversational scenario.</td><td><a href="simulation-assessments.md">simulation-assessments.md</a></td></tr><tr><td><strong>File Upload</strong></td><td>Students upload completed work as PDF or Word files.</td><td><a href="file-upload-assessments.md">file-upload-assessments.md</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Looking to assess work done in Microsoft Excel?** That isn't a separate assessment type — students work in the Excel app through the EXAMIND plugin. It's in closed beta and set up by EXAMIND. See [Excel Assessments](excel-assessments.md).

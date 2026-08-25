@@ -20,8 +20,10 @@ Want to grade a whole class's submissions at once instead? See [Bulk Grading Ass
 Students open the machine (from your Canvas course, or a direct link) and submit their work in the format you configured:
 
 * **Text** — pasted into the submission box (typing directly into it isn't supported), with a live character count.
-* **`.docx` or `.pdf`** — uploaded; the text is extracted for evaluation.
-* **Multiple files** — if you allowed more than one file per submission.
+* **`.docx` or `.pdf`** — uploaded; the text is extracted for evaluation. If you allowed **DOCX or PDF**, a single submission can even mix the two formats.
+* **Multiple files** — if you set **Files Per Submission** above one; all files in a submission are evaluated together.
+
+Each file is checked before it's accepted — the format and size (up to 30 MB), and that the file actually opens (a corrupt, empty, or password-protected file is rejected with a clear message) — so a bad upload is caught up front rather than after submitting.
 
 {% hint style="info" %}
 For group assignments, students can check **"Submitting only part of the assignment?"** so the feedback adapts to the portion they contributed.
@@ -57,6 +59,8 @@ There are two ways to see submissions:
 * **For a single machine** — open that machine's **⋮** menu and choose **Submissions** to see just its submissions.
 
 Either way, each student's drafts are listed newest first with score and status, and you can open any draft to read the full feedback and criteria breakdown, exactly as the student saw it. Because students can resubmit as often as they like, you see the complete history of their revisions, not just the latest one.
+
+You can flip how names read between **First Last** and **Last, First**; the list sorts to match, so it always reads the way it's ordered. (This choice resets each visit rather than being saved.)
 
 ### Insights
 

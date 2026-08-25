@@ -23,10 +23,12 @@ When you build an assessment and choose the **Simulation** type, you can configu
 {% step %}
 ### Points & auto-grading
 
-Set the **points** the simulation is worth. To auto-grade it, a **Feedback Machine** evaluates the student's work against your criteria. You build the Feedback Machine yourself (see the [Feedback Machines](../../feedback-machines/build-a-feedback-machine.md) section).
+Set the **points** the simulation is worth. To auto-grade it, link a **Feedback Machine** that evaluates the student's work against your criteria.
+
+In the builder's **Feedback Machine** section, select **Link Feedback Machine** and pick, copy, or create the machine that will grade this simulation. Once it's linked, a status shows whether setup is **complete** or still needs finishing, and you can jump back into the machine anytime with **Open in Feedback Machines** / **Continue setup**. You build the machine's rubric and instructions in the [Feedback Machines](../../feedback-machines/build-a-feedback-machine.md) section.
 
 {% hint style="info" %}
-**Linking is handled by EXAMIND for now.** You can set up and configure both the Simulation and the Feedback Machine on your own, but connecting the two currently requires us to set it up. Just [contact us](mailto:support@examind.io) and we'll link them.
+If a student submits before you've finished setting up the linked machine, EXAMIND **holds** their submission and grades it automatically once setup is complete — nothing is lost. If Feedback Machines isn't enabled for your institution yet, the control will prompt you to [contact us](mailto:support@examind.io).
 {% endhint %}
 {% endstep %}
 
@@ -55,3 +57,4 @@ A simulation combines optional AI auto-grading with your own judgment:
 
 * If a **Feedback Machine** is linked (see above), it auto-grades the interaction against its criteria.
 * You can assign **points** and add an **overall comment**.
+* Once a linked machine has produced feedback, a **See Feedback** button appears on the review — for you, and for students during their [self review](../../grade/self-review.md) window — opening the detailed, criteria-aligned feedback in Feedback Machines.
