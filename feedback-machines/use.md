@@ -39,7 +39,7 @@ After submitting, a student's work opens in a side-by-side workspace — their *
 Students select **New Draft** to revise and resubmit.
 
 {% hint style="info" %}
-Which of these a student sees, and when, is entirely up to you — see [What Students See](what-students-see.md) for the settings, and [Review & Approve Results](review-and-approve.md) for how approval releases a final grade.
+Which of these a student sees, and when, is entirely up to you — see [What Students See](what-students-see.md) for the settings, and [Review, Adjust & Approve Results](review-adjust-and-approve.md) for how approval releases a final grade.
 {% endhint %}
 
 ## Use it yourself as an instructor
@@ -63,7 +63,7 @@ There are two ways to see submissions:
 
 Either way, each student's drafts are listed newest first with score and status, and you can open any draft to read the full feedback and criteria breakdown — including anything hidden from the student. Because students can resubmit as often as they like, you see the complete history of their revisions, not just the latest one.
 
-To grade and approve rather than just browse, use the machine's [Results page](review-and-approve.md).
+To grade and approve rather than just browse, use the machine's [Results page](review-adjust-and-approve.md).
 
 You can flip how names read between **First Last** and **Last, First**; the list sorts to match, so it always reads the way it's ordered. (This choice resets each visit rather than being saved.)
 

@@ -83,7 +83,9 @@
   * [Content Dependencies](feedback-machines/content-dependencies.md)
 * [Use a Feedback Machine](feedback-machines/use.md)
   * [What Students See](feedback-machines/what-students-see.md)
-* [Review & Approve Results](feedback-machines/review-and-approve.md)
+* [Review, Adjust & Approve Results](feedback-machines/review-adjust-and-approve.md)
+  * [Human-in-the-loop](feedback-machines/human-in-the-loop.md)
+  * [Human-on-the-loop](feedback-machines/human-on-the-loop.md)
 * [Bulk Grading Assist](feedback-machines/bulk-grading-assist.md)
 
 ## Our Approach

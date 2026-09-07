@@ -27,7 +27,7 @@ The core web platform for building, delivering, and auto-grading assessments:
 
 ### Feedback Machines
 
-A [system that harnesses leading AI models](feedback-machines/get-started.md) to auto-grade and provide detailed, criteria-aligned feedback on qualitative student work — essays, memos, case studies, presentations, EXAMIND Simulations and more. Use it for **iterative draft feedback**, for **[bulk grading](feedback-machines/bulk-grading-assist.md)** of a whole class, or both — then **[review and approve](feedback-machines/review-and-approve.md)** the grades your students see.
+A [system that harnesses leading AI models](feedback-machines/get-started.md) to auto-grade and provide detailed, criteria-aligned feedback on qualitative student work — essays, memos, case studies, presentations, EXAMIND Simulations and more. Use it for **iterative draft feedback**, for **[bulk grading](feedback-machines/bulk-grading-assist.md)** of a whole class, or both — then **[review, adjust and approve](feedback-machines/review-adjust-and-approve.md)** the grades your students see.
 
 ## Where to start
 

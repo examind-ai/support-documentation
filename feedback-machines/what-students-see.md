@@ -15,7 +15,7 @@ A Feedback Machine shows a student two different things at two different moments
 Keeping these apart is what lets one machine serve both purposes — unlimited practice while the work is in progress, then a single authoritative result at the end.
 
 {% hint style="info" %}
-You always see everything, on every submission, regardless of these settings. They govern what **students** see. See [Review & Approve Results](review-and-approve.md) for the reviewer's side.
+You always see everything, on every submission, regardless of these settings. They govern what **students** see. See [Review, Adjust & Approve Results](review-adjust-and-approve.md) for the reviewer's side.
 {% endhint %}
 
 ## The settings
@@ -45,7 +45,7 @@ You set these in the machine's **Configure & Publish** step, and can change them
 For the common workflow — **Until approved** feedback plus **After review & approval** results — approval is the single moment that changes what a student sees:
 
 1. **While drafting.** The student submits as often as they like and gets the Feedback view each time. No final score.
-2. **You review and approve** their final submission (see [Review & Approve Results](review-and-approve.md)).
+2. **You review and approve** their final submission (see [Review, Adjust & Approve Results](review-adjust-and-approve.md)).
 3. **The student's view flips.** Feedback on that submission gives way to Results: the final score, key takeaways, and the rubric parts — with **Reviewed and approved by** *your name* and the date, so the grade reads as a human decision rather than a machine output.
 
 Un-approving reverts the student's view immediately.
@@ -78,8 +78,10 @@ This matters because an EXAMIND assessment is usually a graded, one-shot submiss
 This setting appears only on machines linked to an EXAMIND assessment. Students reach this view through **See Feedback** on their EXAMIND [self review](../grade/self-review.md) — the detailed feedback and results live in Feedback Machines, not in EXAMIND.
 {% endhint %}
 
-## What existing machines do
+## Backwards compatibility
 
-Machines built before these settings existed keep behaving exactly as they did. Their old **Points** and **Rubric view** choices map onto the new model automatically — feedback stays always-on, score estimates follow what Points was set to, and the results view follows Rubric view. Nothing changes for your students until you change it.
+These settings were introduced in September 2026, replacing the earlier **Points** and **Rubric view** switches.
 
-New machines start with the settings above: feedback without numbers on every draft, and finality earned by review.
+Machines created before then continue to work exactly as they did. Their old choices map onto the new, more flexible settings automatically: feedback stays always-on, score estimates follow what Points was set to, and the results view follows Rubric view. Nothing changes for your students unless you change it yourself.
+
+Machines created since start with the defaults above — feedback without numbers on every draft, and finality earned by review.

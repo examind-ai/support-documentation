@@ -1,11 +1,11 @@
 ---
 icon: circle-check
 description: >-
-  Review a machine's evaluations on the Results page, adjust what you disagree
-  with, and approve the grades your students see.
+  Review a machine's evaluations on the Results page, adjust the criteria from
+  real submissions, and approve the grades your students see.
 ---
 
-# Review & Approve Results
+# Review, Adjust & Approve Results
 
 The **Results** page is where you check the machine's work before it becomes a grade. You can see the whole class at once, drill into any single submission, correct anything you'd have graded differently, and then approve — which is what releases the final result to the student.
 
@@ -46,15 +46,47 @@ Selecting a criterion's locate control scrolls the Submission pane to the exact 
 A chip in the Evaluation pane header tells you whether the criterion-level detail you're reading — **Detail visible to students** or **Detail hidden from students** — actually reaches the student, so you know where your review effort lands. See [What Students See](what-students-see.md).
 {% endhint %}
 
-## Correct what you disagree with
+## Adjust the machine from real submissions
 
-You have two different tools, and the difference matters.
+**Adjust** and the [Modify panel](modifying-a-feedback-machine.md) both change the underlying machine, and both change how it grades from then on. The difference isn't permanence — it's context. Modify works from your description alone. Adjust works from the evidence: you pull specific submissions and evaluations into the conversation, so the AI can reason about the actual differences between real pieces of student work.
 
-### Adjust — fix the evaluation
+That's what makes a nuanced correction possible. You can say:
 
-Use the **Adjust** pane when the machine misread *this* submission. Describe the problem in plain language; it proposes a revised evaluation, which you can compare against the current one before accepting. If the same misreading affects the whole class, a pending proposal offers **Apply to all submissions**. You can revert an applied change from its history.
+> Alice should be scoring higher for concept mastery and Joel should be scoring lower — they were told to do X in our lecture.
 
-To change the machine's grading logic for good — the questions, points, or instructor notes — use the [Modify panel](modifying-a-feedback-machine.md) instead.
+and the machine examines what Alice and Joel actually wrote, works out what distinguishes them, and updates the criteria to reflect your intent.
+
+### How a change lands
+
+{% stepper %}
+{% step %}
+### Point the AI at the evidence
+
+Select the **wand** icon on any part or question to inject it into the Adjust chat as a reference. Add as many as you need — several criteria, or the same criterion across several students — so the AI is reasoning about specific evaluations rather than a general description.
+{% endstep %}
+
+{% step %}
+### Describe the change
+
+Explain what should be different and why, in plain language. Context the machine can't infer — what you told the class in lecture, how you weigh a trade-off — is exactly what's worth saying.
+{% endstep %}
+
+{% step %}
+### Review the preview
+
+The machine proposes updated evaluations and shows them to you before anything is committed. Compare the proposed result against the current one.
+{% endstep %}
+
+{% step %}
+### Accept, and it re-grades the class
+
+Accepting commits the change to the machine and re-evaluates the affected criteria across every submission in the set — not just the ones you referenced. Criteria the change didn't touch are left alone. You can revert a committed change from its history.
+{% endstep %}
+{% endstepper %}
+
+{% hint style="warning" %}
+**Criteria apply to the whole class.** A Feedback Machine has one set of criteria, so an adjustment changes grading for everyone. You cannot currently hold one student to different criteria than another — and you wouldn't want to: the point of adjusting from real submissions is to make the *shared* criteria express your intent more precisely.
+{% endhint %}
 
 ### Edit the words students will read
 
@@ -98,6 +130,12 @@ Un-approving reverts the student's view immediately, so a mistaken approval is n
 {% hint style="warning" %}
 Approving does **not** reveal results if the machine's Summative Evaluation View access is set to **Never** — in that case approval is for your records and your LMS. See [What Students See](what-students-see.md).
 {% endhint %}
+
+## How much reviewing is enough?
+
+That depends on how well the machine already matches your judgment, and it changes over time. There are two established workflows:
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Human-in-the-loop</strong></td><td>Review every submission and add your own comments. Use it to align a new machine, and where a personal touch matters.</td><td><a href="human-in-the-loop.md">human-in-the-loop.md</a></td></tr><tr><td><strong>Human-on-the-loop</strong></td><td>Spot-check and look for class-wide patterns. Use it once a machine has proven itself aligned.</td><td><a href="human-on-the-loop.md">human-on-the-loop.md</a></td></tr></tbody></table>
 
 ## Grading a whole class from a batch of files
 

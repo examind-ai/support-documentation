@@ -51,7 +51,7 @@ This mode is built for [skill development](../our-approach/why-iterative-feedbac
 {% tab title="Auto-grading" %}
 Feedback Machines grades qualitative assignments at scale, producing scores and feedback aligned to your criteria. When configured properly, Feedback Machines exceed human-level inter-rater reliability (e.g. 0.9+ on Quadratic Weighted Kappa).
 
-See [Bulk Grading Assist](bulk-grading-assist.md) to create submissions for a whole class at once, and [Review & Approve Results](review-and-approve.md) to check and release the grades.
+See [Bulk Grading Assist](bulk-grading-assist.md) to create submissions for a whole class at once, and [Review, Adjust & Approve Results](review-adjust-and-approve.md) to check and release the grades.
 {% endtab %}
 {% endtabs %}
 
@@ -67,10 +67,10 @@ Feedback Machines can also auto-grade assessments in the EXAMIND Platform. Once 
 * [**Simulation**](../build/assessments/simulation-assessments.md) — the student's interaction with the AI.
 * [**File Upload**](../build/assessments/file-upload-assessments.md) — the PDF or Word files the student uploads.
 
-You link a machine yourself from the assessment builder (**Link Feedback Machine**), no involvement from us required. Each assessment links to its own machine. When feedback is ready, a **See Feedback** button on the review opens it in Feedback Machines — for you, and for students during their self review window; what students see there is [controlled in the machine](what-students-see.md).
+Once the integration is switched on for your institution, you link a machine yourself from the assessment builder (**Link Feedback Machine**) — no need to involve us for each assessment. Each assessment links to its own machine. When feedback is ready, a **See Feedback** button on the review opens it in Feedback Machines — for you, and for students during their self review window; what students see there is [controlled in the machine](what-students-see.md).
 
 {% hint style="info" %}
-This is a **separate integration** from the Canvas LTI above. Linking a Feedback Machine to an EXAMIND assessment happens inside the EXAMIND Platform and doesn't require Canvas. If Feedback Machines isn't enabled for your institution yet, the builder will prompt you to [contact us](mailto:support@examind.io).
+This is a **separate integration** from the Canvas LTI above. Linking a Feedback Machine to an EXAMIND assessment happens inside the EXAMIND Platform and doesn't require Canvas. If **Link Feedback Machine** is greyed out, the integration hasn't been enabled for your institution yet — [contact us](mailto:support@examind.io) to have it activated.
 {% endhint %}
 
 ## Next step
