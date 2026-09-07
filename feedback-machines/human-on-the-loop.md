@@ -47,7 +47,7 @@ Open a handful of submissions across the score range — a strong one, a weak on
 {% step %}
 ### Adjust from several students at once
 
-Use the **wand** icons to inject evaluations from multiple students into the Adjust chat, then describe what should be different. Giving the AI several students together is what lets it work out where the line between them actually falls, rather than over-fitting to one case.
+Use the wand controls (🪄) to pull evaluations from several students into the Adjust chat at once — hover a part's heading for its wand button, or use the **Adjust** button at the end of a question row — then describe what should be different. Giving the AI several students together lets it work out where the line between them actually falls.
 
 Review the preview, accept, and the change re-grades the affected criteria across the class. See [Adjust the machine from real submissions](review-adjust-and-approve.md#adjust-the-machine-from-real-submissions).
 {% endstep %}

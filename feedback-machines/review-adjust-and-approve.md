@@ -48,9 +48,9 @@ A chip in the Evaluation pane header tells you whether the criterion-level detai
 
 ## Adjust the machine from real submissions
 
-**Adjust** and the [Modify panel](modifying-a-feedback-machine.md) both change the underlying machine, and both change how it grades from then on. The difference isn't permanence — it's context. Modify works from your description alone. Adjust works from the evidence: you pull specific submissions and evaluations into the conversation, so the AI can reason about the actual differences between real pieces of student work.
+**Adjust** and the [Modify panel](modifying-a-feedback-machine.md) both change the underlying machine and how it grades from then on. The main difference is that the Adjust interface has access to student submissions and evaluations to help inform the changes and test their effect, whereas the Modify interface works from your written direction only.
 
-That's what makes a nuanced correction possible. You can say:
+That access is what makes a nuanced correction possible. You can say:
 
 > Alice should be scoring higher for concept mastery and Joel should be scoring lower — they were told to do X in our lecture.
 
@@ -62,7 +62,12 @@ and the machine examines what Alice and Joel actually wrote, works out what dist
 {% step %}
 ### Point the AI at the evidence
 
-Select the **wand** icon on any part or question to inject it into the Adjust chat as a reference. Add as many as you need — several criteria, or the same criterion across several students — so the AI is reasoning about specific evaluations rather than a general description.
+Pull the specific criteria you're talking about into the chat, using the wand controls (🪄) in the Evaluation pane:
+
+* **A whole rubric part** — hover over the part's heading and a small wand button appears beside its name. Select it.
+* **A single question** — each question row has an **Adjust** button, marked with a wand, at the right-hand end.
+
+Each one you select is added to the chat as a reference chip. Add as many as you need: several criteria at once, or the same criterion across several students.
 {% endstep %}
 
 {% step %}
