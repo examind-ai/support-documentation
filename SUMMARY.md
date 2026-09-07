@@ -82,6 +82,8 @@
   * [How Scoring Works](feedback-machines/how-scoring-works.md)
   * [Content Dependencies](feedback-machines/content-dependencies.md)
 * [Use a Feedback Machine](feedback-machines/use.md)
+  * [What Students See](feedback-machines/what-students-see.md)
+* [Review & Approve Results](feedback-machines/review-and-approve.md)
 * [Bulk Grading Assist](feedback-machines/bulk-grading-assist.md)
 
 ## Our Approach

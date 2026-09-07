@@ -64,5 +64,9 @@ You grade essays yourself, with optional Feedback Machine auto-grading:
 * If a **Feedback Machine** is linked, it auto-grades the essay against your criteria; a manual grade you enter always takes precedence. Once feedback is ready, a **See Feedback** button opens the detailed, criteria-aligned feedback in Feedback Machines — for you, and for students during their [self review](../../grade/self-review.md) window.
 
 {% hint style="info" %}
+What a student sees behind **See Feedback** is controlled in the linked machine, not here — including whether they get improvement feedback, final results, or nothing until you approve. See [What Students See](../../feedback-machines/what-students-see.md).
+{% endhint %}
+
+{% hint style="info" %}
 Prefer to grade manually but still want AI help? You can copy a student's essay into a standalone [Feedback Machine](../../feedback-machines/get-started.md) and run it there, without linking it to the assessment.
 {% endhint %}
