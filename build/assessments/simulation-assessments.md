@@ -57,4 +57,4 @@ A simulation combines optional AI auto-grading with your own judgment:
 
 * If a **Feedback Machine** is linked (see above), it auto-grades the interaction against its criteria.
 * You can assign **points** and add an **overall comment**.
-* Once a linked machine has produced feedback, a **See Feedback** button appears on the review — for you, and for students during their [self review](../../grade/self-review.md) window — opening the detailed, criteria-aligned feedback in Feedback Machines.
+* Once a linked machine has produced feedback, a **See Feedback** button appears on the review — for you, and for students during their [self review](../../grade/self-review.md) window — opening the detailed, criteria-aligned feedback in Feedback Machines. What students see there is controlled in the machine: see [What Students See](../../feedback-machines/what-students-see.md).

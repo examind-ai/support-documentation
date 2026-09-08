@@ -46,13 +46,19 @@ You can refine anything here, before or after publishing.
 
 Name your machine and set how it behaves for students:
 
-* **Points** — show or hide scores from students.
-* **Rubric view** — show or hide the per-criterion rubric summary to students.
+* **Formative Feedback View** — when students see improvement feedback (**Until approved**, **Always**, or **Never**), and whether it carries **score estimates**.
+* **Summative Evaluation View** — when students see their final results (**After review & approval**, **Always**, or **Never**), and whether they can expand each rubric part for the **detailed evaluation breakdown**.
 * **Machine details** — show how the machine evaluates always, only after a first submission, or never.
 * **Sharing** — keep the machine **personal** (just you) or share it with a **class**.
 * **Submission type** — how students submit: **DOCX**, **PDF**, **DOCX or PDF** (either format, so a submission can even mix the two), or **text** (copy & paste). For file uploads, also set **Files Per Submission** (up to three) — when more than one is allowed, all files are evaluated together.
 
-Publish when you're ready, and the machine becomes available for use.
+If the machine is linked to an EXAMIND assessment, you'll also set **Treat EXAMIND submissions as** — whether work arriving from that assessment is formative, summative, or both.
+
+Publish when you're ready, and the machine becomes available for use. You can change any of these settings later.
+
+{% hint style="info" %}
+The two view settings are worth a moment's thought — they decide whether students get unlimited practice feedback, a single final grade, or both. [What Students See](what-students-see.md) explains each option and how approval releases a final result.
+{% endhint %}
 {% endstep %}
 {% endstepper %}
 

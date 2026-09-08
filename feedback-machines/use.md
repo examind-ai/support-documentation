@@ -31,20 +31,23 @@ For group assignments, students can check **"Submitting only part of the assignm
 
 ## What students see
 
-After submitting, students get results organized into tabs:
+After submitting, a student's work opens in a side-by-side workspace — their **Submission** alongside whichever view applies to that submission:
 
-* **Submission** — their original work.
-* **Rubric** — per-criterion scores (only if you've made the rubric view visible).
-* **Feedback** — narrative feedback: **What you did well**, **Areas for development**, and a prioritized list of **Things you can do to improve**.
+* **Feedback** — narrative feedback for improving the next draft: **What you did well**, **Areas for development**, and a prioritized list of **Things you can do to improve**. Score estimates appear only if you turned them on.
+* **Results** — the final grade: the overall score, the key takeaways to carry forward, and each rubric part with its score and summary. This appears once you've approved the submission (or immediately, if you configured it that way).
 
-A score appears only if you chose to show point values. Students select **New Draft** to revise and resubmit.
+Students select **New Draft** to revise and resubmit.
+
+{% hint style="info" %}
+Which of these a student sees, and when, is entirely up to you — see [What Students See](what-students-see.md) for the settings, and [Review, Adjust & Approve Results](review-adjust-and-approve.md) for how approval releases a final grade.
+{% endhint %}
 
 ## Use it yourself as an instructor
 
 You can run a submission through any published machine yourself — choose **Use** on the machine, just as a student would, and submit a sample. This is the best way to see exactly what your students will experience before you share it.
 
 {% hint style="success" %}
-**You always see the full results — even what's hidden from students.** When you view an evaluation (your own submission or a student's), you see the complete **grade** and **rubric** regardless of whether you've hidden point values or the rubric view from students. So you can keep scores or the rubric hidden to keep students focused on the feedback, and still review everything yourself.
+**You always see the full results — even what's hidden from students.** When you view an evaluation (your own submission or a student's), you see every view and the complete criterion-level detail, no matter what you've made visible to students. So you can keep scores or the detailed breakdown hidden to keep students focused on the feedback, and still review everything yourself. Where a view is hidden from students, a chip tells you so.
 {% endhint %}
 
 ## Follow your students' progress
@@ -58,7 +61,9 @@ There are two ways to see submissions:
 * **Across the whole class** — from your class page, select **View all submissions** to see every student alongside **all** of their drafts from **every** machine in the class, combined into one list.
 * **For a single machine** — open that machine's **⋮** menu and choose **Submissions** to see just its submissions.
 
-Either way, each student's drafts are listed newest first with score and status, and you can open any draft to read the full feedback and criteria breakdown, exactly as the student saw it. Because students can resubmit as often as they like, you see the complete history of their revisions, not just the latest one.
+Either way, each student's drafts are listed newest first with score and status, and you can open any draft to read the full feedback and criteria breakdown — including anything hidden from the student. Because students can resubmit as often as they like, you see the complete history of their revisions, not just the latest one.
+
+To grade and approve rather than just browse, use the machine's [Results page](review-adjust-and-approve.md).
 
 You can flip how names read between **First Last** and **Last, First**; the list sorts to match, so it always reads the way it's ordered. (This choice resets each visit rather than being saved.)
 

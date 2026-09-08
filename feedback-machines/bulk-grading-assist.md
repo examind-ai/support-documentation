@@ -10,7 +10,7 @@ description: >-
 Bulk Grading Assist lets you grade a whole class's work at once. You upload a batch of student submissions, the Feedback Machine evaluates each one against your criteria, and you review and export the scores and feedback.
 
 {% hint style="info" %}
-Bulk Grading Assist is enabled per institution and class. If you don't see **Bulk Import** on your machine, [contact us](mailto:support@examind.io).
+**Bulk Import** and **Bulk Export** are available to anyone who can manage the machine — its owner, and instructors in its class. They're no longer enabled per institution or class. If you don't see them on a machine, check that you're an instructor in the class it's shared with, or [contact us](mailto:support@examind.io).
 {% endhint %}
 
 ## Grade a batch
@@ -35,7 +35,7 @@ Feedback Machines creates a submission for each file and evaluates it against yo
 {% step %}
 ### Review results
 
-The import lists every submission with its score and status. Open any one to read its full feedback and criteria breakdown — the same view a student would see.
+The import lists every submission with its score and status. Open any one to read its full feedback and criteria breakdown — including anything hidden from students. To read the batch by rubric part rather than one submission at a time, and to approve the grades, use the machine's [Results page](review-adjust-and-approve.md).
 {% endstep %}
 
 {% step %}
@@ -53,14 +53,10 @@ You can export all students, or only each student's highest-scoring submission. 
 
 ## Refine and re-evaluate
 
-Bulk grading is iterative. As you review the results, you'll often spot evaluations you'd have graded differently — that's expected, and it's easy to correct:
+Bulk grading is iterative. As you review the results, you'll often spot evaluations you'd have graded differently — that's expected, and bringing the machine into agreement with your judgment is the core of the workflow. A few rounds is normal.
 
-1. **Spot a discrepancy.** While reviewing the grading results, note any evaluation you don't agree with.
-2. **Explain it to the machine.** Open the [Modify panel](modifying-a-feedback-machine.md) and describe the discrepancy — for example, adjust a question, change point values, or add an instructor note clarifying how that case should be handled.
-3. **Re-evaluate.** Come back to the import and select **Re-evaluate All** to re-run every submission against the updated machine.
-
-Your original import and its results are preserved, so you can compare before and after.
+The place to do it is the machine's [Results page](review-adjust-and-approve.md). There you can read the whole batch by rubric part, pull the submissions you disagree with straight into the **Adjust** chat, preview the corrected evaluations, and apply the change across every submission at once — then approve. See [Review, Adjust & Approve Results](review-adjust-and-approve.md).
 
 {% hint style="info" %}
-This review → refine → re-evaluate loop is the core of bulk grading. A few rounds is normal — it's how you bring the machine into agreement with your judgment.
+You can also select **Re-evaluate All** from the import to re-run every submission against the current machine — useful after editing the machine directly in the [Modify panel](modifying-a-feedback-machine.md). Your original import and its results are preserved either way, so you can compare before and after.
 {% endhint %}
