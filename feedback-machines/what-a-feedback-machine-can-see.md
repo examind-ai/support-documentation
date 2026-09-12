@@ -12,11 +12,11 @@ The format a submission arrives in decides what the Feedback Machine can take in
 | You want it to evaluate…                              | Pasted text | `.docx`    | `.pdf`                     |
 | ----------------------------------------------------- | ----------- | ---------- | -------------------------- |
 | The words, paragraphs, headings, and lists            | ✓           | ✓          | ✓                          |
-| Bold and italics                                      | ✓           | ✓          | ✓                          |
+| Bold, italics, and underlining                        | ✓ (bold, italics) | ✓    | ✓                          |
 | Images, charts, figures, and diagrams                 | —           | —          | ✓                          |
 | Colors, layout, visual design, and use of white space | —           | —          | ✓ (as a reader would)      |
 | Exact font, font size, margins, and line spacing      | —           | ✓          | — (judged by eye)          |
-| Headers, footers, and footnotes                       | —           | ✓          | ✓ (as text on the page)    |
+| Headers, footers, footnotes, and endnotes             | —           | ✓          | ✓ (as text on the page)    |
 | Word count and page count                             | words only  | ✓          | approximate                |
 
 ## `.pdf` — sees the page the way a reader does
@@ -27,17 +27,20 @@ What it can't do is measure. A `.pdf` doesn't carry the font name, point size, o
 
 ## `.docx` — exact formatting facts, no images
 
-The document's text and structure go to the model together with a precise readout of formatting details taken from the file itself. Criteria such as "12-point Times New Roman, double-spaced, one-inch margins, page numbers in the footer, footnotes in 10 point" are checked against facts, not by eye.
+The document's text and structure go to the model together with a precise readout of formatting details taken from the file itself. Criteria such as "12-point Times New Roman, double-spaced, one-inch margins, page numbers in the top-right header, footnotes in 10 point" are checked against facts, not by eye.
+
+**The paper-formatting requirements of APA, MLA, and Chicago (CMOS / Turabian) are all covered** — fonts and sizes, double spacing with single-spaced block quotations or notes, one-inch margins, half-inch first-line and hanging indents, block quotations, running heads and page numbers with their position, title-page layout, footnotes or endnotes and their size and spacing, and a reference list on its own page.
 
 **What the machine knows about a `.docx`:**
 
-* **Text and structure** — paragraphs, headings, bulleted and numbered lists, the contents of tables and text boxes, bold, italics, strikethrough, superscript and subscript, hyperlinks, footnotes, and page breaks.
+* **Text and structure** — paragraphs, headings, bulleted and numbered lists, the contents of tables and text boxes, bold, italics, underlining, strikethrough, superscript and subscript, hyperlinks, and page breaks.
 * **Fonts** — every font used in the document and which one is the main one.
-* **Font sizes** — every size used, which one is the main one, and the size of the footnote text.
-* **Line spacing** — the document's predominant setting.
-* **Page margins** — top, bottom, left, and right.
-* **Paragraph layout** — alignment (left, centered, right, justified), first-line and hanging indents, space before and after paragraphs, and blank lines between them.
-* **Headers and footers** — their text, which pages they appear on, and whether they include a page number.
+* **Font sizes** — every size used and which one is the main one.
+* **Line spacing** — the document's predominant setting, and every paragraph whose spacing differs from it (a single-spaced block quotation or bibliography inside a double-spaced paper).
+* **Page margins** — top, bottom, left, and right, and how far the header and footer sit from the page edge.
+* **Paragraph layout** — alignment (left, centered, right, justified); first-line, hanging, and block indents with their exact size; space before and after paragraphs; and blank lines between them.
+* **Headers and footers** — their text, which pages they appear on (all, first page only, odd or even pages), whether they include a page number, and whether they sit left, centered, or right.
+* **Footnotes and endnotes** — their text, numbered as they appear in the document, plus the size, line spacing, and indentation of the note text itself. Footnotes are read separately from footers: a footnote is a numbered note at the bottom of the page, a footer is the text that repeats on every page.
 * **Counts** — words, characters, paragraphs, and pages.
 
 Fonts and sizes are known for the document as a whole: which ones appear and which dominates, not which words are set in which. "Body text is 12 point" is a fact the machine can check; "the title is 16 point" it can infer only from a 16-point size being present.
@@ -47,7 +50,7 @@ Fonts and sizes are known for the document as a whole: which ones appear and whi
 * **Images, photos, and figures.** Where each one was, a notice appears in the submission view saying the image isn't part of the evaluation. The student's own description of the image (its alt text), if they gave one, is kept.
 * **Charts, SmartArt, shapes and drawings, equations, and embedded objects** such as an Excel table. These are left out without a notice.
 * **Comments.** Tracked changes are read as if all changes had been accepted.
-* **Underlining, text color, and highlighting.**
+* **Text color and highlighting.**
 * **Table formatting** — borders, shading, and column widths. The contents of the table are seen.
 * **Page size and orientation.**
 
@@ -62,5 +65,5 @@ Pasted text carries the words and their basic structure — paragraphs, headings
 ## Choosing a format
 
 * **Visual work** — decks, figures, design, layout: `.pdf`.
-* **A formatting specification to comply with** — fonts, margins, spacing, footers: `.docx`.
+* **A formatting specification to comply with** — APA, MLA, Chicago, or your own: `.docx`.
 * **Both in one assignment** — for example a report with charts that must also meet a formatting spec: choose the one that matters more to the grade, and evaluate the other by eye in your own review. Feedback Machines shows you every submission alongside its evaluation.
