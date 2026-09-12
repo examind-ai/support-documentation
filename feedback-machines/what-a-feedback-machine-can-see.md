@@ -66,4 +66,4 @@ Pasted text carries the words and their basic structure — paragraphs, headings
 
 * **Visual work** — decks, figures, design, layout: `.pdf`.
 * **A formatting specification to comply with** — APA, MLA, Chicago, or your own: `.docx`.
-* **Both in one assignment** — for example a report with charts that must also meet a formatting spec: choose the one that matters more to the grade, and evaluate the other by eye in your own review. Feedback Machines shows you every submission alongside its evaluation.
+* **Both in one assignment** — set the submission type to **DOCX or PDF** and allow more than one file per submission (see [Build a Feedback Machine](build-a-feedback-machine.md)). A single submission can then mix the two formats, and all files are evaluated together: a report as `.docx` for the formatting criteria alongside a slide deck as `.pdf` for the visual ones, each file read with what its format carries.
