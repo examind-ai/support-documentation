@@ -20,7 +20,7 @@ Want to grade a whole class's submissions at once instead? See [Bulk Grading Ass
 Students open the machine (from your Canvas course, or a direct link) and submit their work in the format you configured:
 
 * **Text** — pasted into the submission box (typing directly into it isn't supported), with a live character count.
-* **`.docx` or `.pdf`** — uploaded; the text is extracted for evaluation. If you allowed **DOCX or PDF**, a single submission can even mix the two formats.
+* **`.docx` or `.pdf`** — uploaded. What the machine can take into account differs by format — `.pdf` carries images and visual design, `.docx` carries exact formatting details; see [What a Feedback Machine Can See in Submissions](what-a-feedback-machine-can-see.md). If you allowed **DOCX or PDF**, a single submission can even mix the two formats.
 * **Multiple files** — if you set **Files Per Submission** above one; all files in a submission are evaluated together.
 
 Each file is checked before it's accepted — the format and size (up to 30 MB), and that the file actually opens (a corrupt, empty, or password-protected file is rejected with a clear message) — so a bad upload is caught up front rather than after submitting.

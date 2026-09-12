@@ -37,7 +37,7 @@ Feedback Machines works with any assignment a student can submit as text, `.docx
 * Negotiation reflections
 * Presentation decks (as `.pdf`)
 
-Beyond the text itself, Feedback Machines can evaluate **images and visuals inside PDFs**, and **document formatting in `.docx` files** — margins, font types and sizes, footers, footnotes, and the like.
+Beyond the text itself, Feedback Machines can evaluate **images and visuals inside PDFs**, and **document formatting in `.docx` files** — margins, font types and sizes, footers, footnotes, and the like. For the full picture of what each format carries, see [What a Feedback Machine Can See in Submissions](what-a-feedback-machine-can-see.md).
 
 ## Two ways to use it
 

@@ -81,6 +81,7 @@
   * [Modifying a Feedback Machine](feedback-machines/modifying-a-feedback-machine.md)
   * [How Scoring Works](feedback-machines/how-scoring-works.md)
   * [Content Dependencies](feedback-machines/content-dependencies.md)
+  * [What a Feedback Machine Can See in Submissions](feedback-machines/what-a-feedback-machine-can-see.md)
 * [Use a Feedback Machine](feedback-machines/use.md)
   * [What Students See](feedback-machines/what-students-see.md)
 * [Review, Adjust & Approve Results](feedback-machines/review-adjust-and-approve.md)
