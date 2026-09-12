@@ -50,7 +50,7 @@ Name your machine and set how it behaves for students:
 * **Summative Evaluation View** — when students see their final results (**After review & approval**, **Always**, or **Never**), and whether they can expand each rubric part for the **detailed evaluation breakdown**.
 * **Machine details** — show how the machine evaluates always, only after a first submission, or never.
 * **Sharing** — keep the machine **personal** (just you) or share it with a **class**.
-* **Submission type** — how students submit: **DOCX**, **PDF**, **DOCX or PDF** (either format, so a submission can even mix the two), or **text** (copy & paste). For file uploads, also set **Files Per Submission** (up to three) — when more than one is allowed, all files are evaluated together.
+* **Submission type** — how students submit: **DOCX**, **PDF**, **DOCX or PDF** (either format, so a submission can even mix the two), or **text** (copy & paste). The format decides what the machine can take into account — see [What a Feedback Machine Can See in Submissions](what-a-feedback-machine-can-see.md). For file uploads, also set **Files Per Submission** (up to three) — when more than one is allowed, all files are evaluated together.
 
 If the machine is linked to an EXAMIND assessment, you'll also set **Treat EXAMIND submissions as** — whether work arriving from that assessment is formative, summative, or both.
 
