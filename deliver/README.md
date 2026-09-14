@@ -9,6 +9,7 @@ Once an assessment is built, delivering it comes down to controlling **when** st
 
 * **Set the rules.** [Schedule](schedule.md) when the assessment opens and closes, the time limit, how many attempts are allowed, and per-student extensions or accommodations.
 * **Watch it happen.** [Live View](live-view.md) lets you monitor students in real time and step in — pause, add time, force-submit, or reopen an attempt. And if a student loses connectivity mid-assessment, [Offline Behavior](offline-behavior.md) keeps their work safe until they reconnect.
+* **Equip the room.** [Student Tools](student-tools.md) are the aids students have while they work — an on-screen calculator you enable per assessment, and accessibility settings they control themselves.
 * **Protect integrity.** [Tactical Deterrents](tactical-deterrents.md) discourage misconduct during the attempt. For higher-stakes remote exams, you can also pair EXAMIND with [online proctoring](../our-approach/online-proctoring.md).
 * **Excel work.** [Excel Assignments](excel-assignments/README.md) are delivered to students through the EXAMIND Excel add-in.
 
@@ -17,5 +18,6 @@ Once an assessment is built, delivering it comes down to controlling **when** st
 * [**Schedule**](schedule.md) — availability windows, time limits, attempts, and extensions.
 * [**Live View**](live-view.md) — real-time monitoring and intervention during an assessment.
 * [**Offline Behavior**](offline-behavior.md) — how EXAMIND handles a loss of connectivity mid-assessment.
+* [**Student Tools**](student-tools.md) — the on-screen calculator and the accessibility settings available in the assessment room.
 * [**Tactical Deterrents**](tactical-deterrents.md) — evidence-based measures that discourage misconduct.
 * [**Excel Assignments**](excel-assignments/README.md) — deliver spreadsheet work through the EXAMIND add-in.

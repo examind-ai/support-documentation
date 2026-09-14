@@ -41,3 +41,7 @@ Question Group titles are shown to students. One tip: combine all questions into
 {% endhint %}
 {% endstep %}
 {% endstepper %}
+
+## Give students a calculator
+
+Exams, quizzes, and practice assessments can offer an on-screen calculator in the assessment room. Switch on **Enable Calculator** under **Student Tools** in the assessment's **Settings**. See [Student Tools](../../deliver/student-tools.md).
