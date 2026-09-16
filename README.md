@@ -21,7 +21,7 @@ EXAMIND has two complementary products.
 The core web platform for building, delivering, and auto-grading assessments:
 
 * **Build** — a [question builder](build/question-builder/README.md) with eight question types, a [dynamic question engine](build/question-builder/dynamic-questions/README.md) that gives every student a unique variant for integrity, a reusable [question bank](build/question-bank/README.md), and an [assessment builder](build/assessments/README.md).
-* **Deliver** — [schedule](deliver/schedule.md) assessments with time limits and availability windows, monitor attempts live with [Live View](deliver/live-view.md), and discourage misconduct with [Tactical Deterrents](deliver/tactical-deterrents.md). Includes [Excel Assignments](deliver/excel-assignments/README.md) via the Excel add-in.
+* **Deliver** — [schedule](deliver/schedule.md) assessments with time limits and availability windows, monitor attempts live with [Live View](deliver/live-view.md), discourage misconduct with [Tactical Deterrents](deliver/tactical-deterrents.md), and equip the assessment room with [Student Tools](deliver/student-tools.md). Includes [Excel Assignments](deliver/excel-assignments/README.md) via the Excel add-in.
 * **Grade** — auto-graded [results](grade/results.md) with analytics, [grading adjustments](grade/grading-adjustment.md), and configurable [self review](grade/self-review.md).
 * **Connect** — [works with any LMS that supports LTI](it-administration/lms-integrations/README.md) (Canvas, Blackboard, Brightspace, Moodle, and more) for roster sync, deep-linking, and grade posting.
 

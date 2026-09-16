@@ -63,6 +63,7 @@
   * [Schedule](deliver/schedule.md)
   * [Live View](deliver/live-view.md)
   * [Offline Behavior](deliver/offline-behavior.md)
+  * [Student Tools](deliver/student-tools.md)
   * [Tactical Deterrents](deliver/tactical-deterrents.md)
   * [Excel Assignments](deliver/excel-assignments/README.md)
     * [Installation](deliver/excel-assignments/installation.md)

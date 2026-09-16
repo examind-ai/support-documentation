@@ -61,6 +61,16 @@ To carry your Feedback Machines into a new course instance:
 3. Find your class from the previous semester and select **Copy and Link**.
 4. Rename it — including the term (e.g. "Spring 26") helps keep things organized — and set an **end date** after the class ends. Confirm.
 
+## Fix a class linked to the wrong course
+
+If a Canvas course ended up linked to the wrong class, any instructor can undo it. Open the class, choose **Edit Class**, and select **Unlink** under **LMS link**.
+
+Unlinking only breaks the connection between the Canvas course and the class: machines and submissions stay exactly as they are. Students and instructors opening Feedback Machines from that Canvas course no longer land in the class, and you can link a class to the course again from Canvas.
+
+{% hint style="info" %}
+**"Linking prevented by an admin."** Some classes are kept as templates, meant to be copied rather than linked. You can still **Copy and Link** a template — or copy its machines — but you can't link a Canvas course to the template itself.
+{% endhint %}
+
 ## How students access it
 
 Once your class is linked, students click the **Feedback Machines** link in your course's left menu, then **Use** next to the assignment they're working on. See [Use a Feedback Machine](use.md) for more.

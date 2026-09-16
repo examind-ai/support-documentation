@@ -55,7 +55,7 @@ The Assignment must be published (so students can access it via the link), but i
    1. Force full screen → Disabled (students must switch tabs)
    2. Close open tabs → Disabled
    3. Restrict new tabs / websites → Set to the most permissive option. The "allow in-exam links only" setting is not sufficient — it blocks the second redirect from the Canvas Assignment to Examind. Students need to be able to navigate freely.
-4. Optionally enable the Proctorio calculator, though note that students will likely prefer their OS calculator since the Proctorio calculator is on a different tab.
+4. Leave the calculator to EXAMIND: switch on **Enable Calculator** under **Student Tools** in the EXAMIND assessment's Settings (see [Student Tools](../../deliver/student-tools.md)). It opens in the same tab as the exam, so students don't have to leave the assessment to reach it.
 5. Save settings.
 
 ### Step 5: Add Exam Instructions
@@ -65,7 +65,7 @@ In the Quiz description (visible to students before they begin), include clear i
 * The exam is remotely proctored via Proctorio — webcam and screen will be recorded.
 * The quiz itself contains only a link; the actual exam is in Examind.
 * After completing the exam in Examind, students must return to this Quiz tab and click Submit to end the Proctorio recording.
-* Students must use an on-screen calculator (OS built-in or Proctorio's) — no phones or off-screen devices.
+* Students must use an on-screen calculator — the one in the EXAMIND assessment room, or their computer's built-in calculator. No phones or off-screen devices.
 * (Optional) Students must show blank scratch paper before starting and show it again after finishing.
 * If no Proctorio recording is found for a submission, the student will receive a zero and may be required to retake the exam.
 
@@ -104,7 +104,7 @@ We use Proctorio to record your exam session. Your webcam, screen, and web activ
 ### Rules
 
 1. Eyes on your screen or scratch paper only. There is no reason to look anywhere else.
-2. You must use an on-screen calculator. If a question requires calculation and you do not use an on-screen calculator, your instructor will assume you used an unauthorized source. You may use the basic calculator built into your computer (Windows Calculator, Mac Calculator app) or the Proctorio calculator, which is available on the quiz tab labeled "Quiz: \[Exam Name] (Remotely Proctored)." The important thing is that the calculator is visible on your screen.
+2. You must use an on-screen calculator. If a question requires calculation and you do not use an on-screen calculator, your instructor will assume you used an unauthorized source. Use the calculator button in the bottom-right corner of the EXAMIND assessment screen if your instructor has enabled one; otherwise use the basic calculator built into your computer (Windows Calculator, Mac Calculator app). The important thing is that the calculator is visible on your screen.
 3. Show your scratch paper to your webcam at the start of the exam so that it is clearly blank.
 4. Show your scratch paper again at the end so your instructor can see how you used it.
 5. Do not use your phone or any off-screen device. If a phone or other device appears in your recording, you may be required to retake the exam.

@@ -21,6 +21,14 @@ EXAMIND is a browser-based platform so no installation is required. We recommend
 
 A computer is recommended for taking your assessment. We do not recommend using a mobile device, such as a smartphone or tablet. For the best experience, use a computer.
 
+## Tools in the Assessment
+
+Look for the buttons in the bottom-right corner of the assessment screen.
+
+**Accessibility settings** are always there. Open them to turn on Color Blind Mode — with a setting for deuteranopia, protanopia, tritanopia, or achromatopsia — or a font designed for readers with dyslexia. Your choices are saved to your account, so you only set them once.
+
+**A calculator** appears when your instructor has enabled one for that assessment. It opens in a panel you can drag wherever you like on the screen, and closing it keeps what you had entered, so you can put it away mid-calculation and come back to it.
+
 ## Assessment Guidelines
 
 For rules of behavior during your assessment, refer to the direct instructions of your instructor. EXAMIND uses dynamic questions and randomization techniques to ensure that no student gains an unfair advantage when taking an assessment.

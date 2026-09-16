@@ -35,6 +35,7 @@ Feedback Machines analyzes your assignment and rubric and generates the **evalua
 The machine review page shows the generated parts, questions, and performance levels. From here you can:
 
 * **[Modify the machine](modifying-a-feedback-machine.md)** — change questions, adjust points, add instructor notes, and more, just by asking in plain language.
+* **[Audit for overlapping levels](modifying-a-feedback-machine.md#audit-the-machine-for-overlapping-levels)** — have the machine check each question for performance levels that could both fit the same work, and review its suggested fixes.
 * **Resolve [content dependencies](content-dependencies.md)** — provide any external material a question refers to (like a case study or template) so the AI can evaluate it accurately.
 * **Understand [how scoring works](how-scoring-works.md)** — so the points reflect how you grade.
 

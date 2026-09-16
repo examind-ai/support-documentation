@@ -29,6 +29,8 @@ If any of those isn't true, go back to [human-in-the-loop](human-in-the-loop.md)
 
 Open the **Heatmap** on the [Results page](review-adjust-and-approve.md) — students down, rubric parts across. Scan the columns, not the rows. Select a part's header to sort by it and bring the lowest scorers together.
 
+The **Overview** tab does the scan for you: its **By part** list ranks the parts weakest first, with each part's individual questions and their class averages beneath it, so you can see which criterion the class struggled with before opening anything. Select a part there to land on the Heatmap sorted by it.
+
 What you're looking for is a criterion that's out of step: graded too strictly, too leniently, or in a way that doesn't match what you meant by it.
 {% endstep %}
 
