@@ -23,7 +23,14 @@ Students open the machine (from your Canvas course, or a direct link) and submit
 * **`.docx` or `.pdf`** — uploaded. What the machine can take into account differs by format — `.pdf` carries images and visual design, `.docx` carries exact formatting details; see [What a Feedback Machine Can See in Submissions](what-a-feedback-machine-can-see.md). If you allowed **DOCX or PDF**, a single submission can even mix the two formats.
 * **Multiple files** — if you set **Files Per Submission** above one; all files in a submission are evaluated together.
 
-Each file is checked before it's accepted — the format and size (up to 30 MB), and that the file actually opens (a corrupt, empty, or password-protected file is rejected with a clear message) — so a bad upload is caught up front rather than after submitting.
+Each file is checked the moment the student chooses it — the format and size (up to 30 MB), and that the file actually opens — so a bad upload is caught before submitting rather than after. A file that can't be read is marked, and underneath it the student gets the likely cause and the one step that fixes it:
+
+* A `.doc`, or another Office format, renamed to `.docx` — or a Word file named `.pdf`. *Save or export a real copy in the format the machine asks for.*
+* A password-protected document. *Remove the password, or print it to a new PDF.*
+* A download or export that didn't finish, leaving the file truncated or page-less. *Export it again and check the pages before uploading.*
+* A 0-byte file — usually a OneDrive, iCloud, or Google Drive placeholder that hasn't downloaded to the device yet. *Open it on the device first.*
+
+Anything the check can't place is stated as our problem, not the student's, with the support address to send the file to. **Submit Draft** gives way to **Choose a different file** until every file in the submission can be read.
 
 {% hint style="info" %}
 For group assignments, students can check **"Submitting only part of the assignment?"** so the feedback adapts to the portion they contributed.
