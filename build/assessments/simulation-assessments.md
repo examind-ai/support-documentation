@@ -15,6 +15,12 @@ A simulation has up to two steps for the student:
 1. **Interact** — the student has a conversation with the AI based on the scenario you set up.
 2. **Reflect** *(optional)* — the student writes a reflection or response based on instructions you provide.
 
+A reflection is written as a **comment on the conversation**: the student highlights the passage they're responding to, selects the **+** icon that appears beside it, and writes the comment in the column alongside the transcript. While that column is empty a hint demonstrates the gesture — from the moment the reflection step opens, or throughout the conversation on a simulation without one, since commenting is available either way.
+
+{% hint style="info" %}
+Commenting needs the window wide enough to show the column beside the conversation, so students should take a simulation on a computer rather than a phone.
+{% endhint %}
+
 ## Create a simulation assessment
 
 When you build an assessment and choose the **Simulation** type, you can configure:
