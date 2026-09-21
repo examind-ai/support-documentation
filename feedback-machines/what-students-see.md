@@ -70,6 +70,8 @@ When a machine is linked to an EXAMIND assessment ([Essay](../build/assessments/
 
 This matters because an EXAMIND assessment is usually a graded, one-shot submission, while the same machine may also be open for practice. **Summative** is how you keep a single machine from handing a student improvement suggestions on work they've already submitted for a grade.
 
+The designation also decides which evaluation standard applies: work designated **Summative** is what the machine's **Final submissions** standard covers, if you've set one. See [the evaluation standard](how-scoring-works.md#the-evaluation-standard).
+
 {% hint style="info" %}
 **Approving overrides a Formative designation.** Approving a formative-designated submission is a deliberate act that makes it summative and releases its results. What approval can't override is an access setting of **Never**.
 {% endhint %}
