@@ -64,3 +64,7 @@ A simulation combines optional AI auto-grading with your own judgment:
 * If a **Feedback Machine** is linked (see above), it auto-grades the interaction against its criteria.
 * You can assign **points** and add an **overall comment**.
 * Once a linked machine has produced feedback, a **See Feedback** button appears on the review — for you, and for students during their [self review](../../grade/self-review.md) window — opening the detailed, criteria-aligned feedback in Feedback Machines. What students see there is controlled in the machine: see [What Students See](../../feedback-machines/what-students-see.md).
+
+{% hint style="info" %}
+**When the machine's score lands in EXAMIND** is set in the machine, not here. A new Feedback Machine holds the score until you approve the submission in Feedback Machines, so no machine score appears on this assessment — or in your LMS gradebook — until then. See [Send grades to EXAMIND](../../feedback-machines/what-students-see.md#send-grades-to-examind).
+{% endhint %}

@@ -114,13 +114,15 @@ Approving is the act that makes a result final.
 {% step %}
 ### Approve a submission
 
-In the review workspace, select **Approve**. The button then reads **Approved**; select it again to un-approve.
+In the review workspace, select **Approve**. The control shows its progress while the approval saves, then reads **Approved**, and the workspace opens the next submission still awaiting approval — so you can work the queue without going back to the class view each time. On the last one awaiting approval you stay where you are.
+
+To reverse an approval, open the **Approved** control and choose **Un-approve**. It takes a deliberate second choice rather than a second click, so moving quickly through a class can't undo a decision you just made.
 {% endstep %}
 
 {% step %}
 ### Or approve in bulk
 
-From the Heatmap, select the students you want — then **Approve** (or **Unapprove**) the whole selection at once.
+From the Heatmap, select the students you want — then **Approve** (or **Unapprove**) the whole selection at once. If the batch doesn't go through, your selection is kept so you can retry without picking the students again.
 {% endstep %}
 
 {% step %}
@@ -130,10 +132,18 @@ An approved result carries **Reviewed and approved by** your name and the date, 
 {% endstep %}
 {% endstepper %}
 
-Un-approving reverts the student's view immediately, so a mistaken approval is not permanent.
+Un-approving reverts the student's view in Feedback Machines immediately, so a mistaken approval is not permanent.
 
 {% hint style="warning" %}
 Approving does **not** reveal results if the machine's Summative Evaluation View access is set to **Never** — in that case approval is for your records and your LMS. See [What Students See](what-students-see.md).
+{% endhint %}
+
+### Approval and a linked EXAMIND assessment
+
+When the machine is linked to an EXAMIND assessment, the grade travels back to that assessment — the score, plus the key takeaways and part summaries as you edited them — and on to your LMS gradebook if the assessment [posts grades](../get-started/lms-integrated/post-grades.md). The machine's [**Send grades to EXAMIND**](what-students-see.md#send-grades-to-examind) setting decides when: on your approval, or as soon as each submission is evaluated. Delivery runs in the background, so a grade lands in EXAMIND a moment after you approve — and a whole selection approved at once is delivered the same way.
+
+{% hint style="warning" %}
+**Un-approving doesn't withdraw a grade from EXAMIND.** Once a grade has reached the linked assessment it stays there; un-approving in Feedback Machines doesn't remove it, and your next approval replaces it.
 {% endhint %}
 
 ## How much reviewing is enough?

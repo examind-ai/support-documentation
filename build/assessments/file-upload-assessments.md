@@ -74,3 +74,7 @@ File Upload assessments are **graded by you**, with optional Feedback Machine au
 {% hint style="info" %}
 Feedback Machines grades **PDF and Word documents only**, which is why those are the file types the builder offers. See [Feedback Machines](../../feedback-machines/get-started.md) for what it evaluates and how to build one.
 {% endhint %}
+
+{% hint style="info" %}
+**When the machine's score lands in EXAMIND** is set in the machine, not here. A new Feedback Machine holds the score until you approve the submission in Feedback Machines, so no machine score appears on this assessment — or in your LMS gradebook — until then. See [Send grades to EXAMIND](../../feedback-machines/what-students-see.md#send-grades-to-examind).
+{% endhint %}

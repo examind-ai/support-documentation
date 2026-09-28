@@ -60,7 +60,9 @@ If a student has no Feedback view and no Results view yet — a final submission
 
 ## Submissions that come from EXAMIND
 
-When a machine is linked to an EXAMIND assessment ([Essay](../build/assessments/essay-assessments.md), [Simulation](../build/assessments/simulation-assessments.md), or [File Upload](../build/assessments/file-upload-assessments.md)), the Configure step adds one more control: **Treat EXAMIND submissions as**.
+When a machine is linked to an EXAMIND assessment ([Essay](../build/assessments/essay-assessments.md), [Simulation](../build/assessments/simulation-assessments.md), or [File Upload](../build/assessments/file-upload-assessments.md)), the Configure step adds two more controls.
+
+### Treat EXAMIND submissions as
 
 | Option | What it means |
 | --- | --- |
@@ -76,8 +78,23 @@ The designation also decides which evaluation standard applies: work designated 
 **Approving overrides a Formative designation.** Approving a formative-designated submission is a deliberate act that makes it summative and releases its results. What approval can't override is an access setting of **Never**.
 {% endhint %}
 
+### Send grades to EXAMIND
+
+This control decides when the machine's score travels back to the linked assessment — and from there to your LMS gradebook, if the assessment [posts grades](../get-started/lms-integrated/post-grades.md).
+
+| Option | What it means |
+| --- | --- |
+| **When approved** | Nothing reaches EXAMIND until you approve the submission, so no score is recorded against the attempt until then and the first grade a student sees in EXAMIND is the one you approved. |
+| **When evaluated** | The score reaches EXAMIND as soon as the submission is evaluated. Approving sends it again, carrying the takeaways and summaries you edited. |
+
+New machines start on **When approved**. Machines that predate the setting are on **When evaluated** and stay there until you change it.
+
 {% hint style="info" %}
-This setting appears only on machines linked to an EXAMIND assessment. Students reach this view through **See Feedback** on their EXAMIND [self review](../grade/self-review.md) — the detailed feedback and results live in Feedback Machines, not in EXAMIND.
+The two controls answer different questions. **Treat EXAMIND submissions as** governs what the student sees in Feedback Machines; **Send grades to EXAMIND** governs when the grade appears in EXAMIND and your gradebook. See [Approval and a linked EXAMIND assessment](review-adjust-and-approve.md#approval-and-a-linked-examind-assessment) for the reviewer's side.
+{% endhint %}
+
+{% hint style="info" %}
+Both controls appear only on machines linked to an EXAMIND assessment. Students reach this view through **See Feedback** on their EXAMIND [self review](../grade/self-review.md) — the detailed feedback and results live in Feedback Machines, not in EXAMIND.
 {% endhint %}
 
 ## Backwards compatibility
