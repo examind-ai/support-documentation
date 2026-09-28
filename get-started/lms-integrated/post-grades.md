@@ -41,6 +41,10 @@ The score posted to the LMS is determined by the **Score to Keep** setting on th
 {% endhint %}
 
 {% hint style="info" %}
+**An assessment graded by a Feedback Machine has a grade to post only once the machine's score has reached EXAMIND.** On a machine set to send grades when approved, that happens when you approve the submission in Feedback Machines — see [Send grades to EXAMIND](../../feedback-machines/what-students-see.md#send-grades-to-examind).
+{% endhint %}
+
+{% hint style="info" %}
 In order to post grades to Canvas, the following conditions must be met:
 
 * Course must have started

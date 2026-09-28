@@ -68,5 +68,9 @@ What a student sees behind **See Feedback** is controlled in the linked machine,
 {% endhint %}
 
 {% hint style="info" %}
+**When the machine's score lands in EXAMIND** is set in the machine, not here. A new Feedback Machine holds the score until you approve the submission in Feedback Machines, so no machine score appears on this assessment — or in your LMS gradebook — until then. See [Send grades to EXAMIND](../../feedback-machines/what-students-see.md#send-grades-to-examind).
+{% endhint %}
+
+{% hint style="info" %}
 Prefer to grade manually but still want AI help? You can copy a student's essay into a standalone [Feedback Machine](../../feedback-machines/get-started.md) and run it there, without linking it to the assessment.
 {% endhint %}

@@ -51,7 +51,7 @@ Edit the **key takeaways** to add your own words: what you want this particular 
 {% step %}
 ### Approve
 
-Approving stamps the result with your name and the date, and releases it to the student.
+Approving stamps the result with your name and the date, releases it to the student, and opens the next submission still awaiting approval — so a pass through the class stays one continuous loop.
 {% endstep %}
 {% endstepper %}
 
