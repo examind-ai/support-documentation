@@ -35,19 +35,31 @@ Feedback Machines creates a submission for each file and evaluates it against yo
 {% step %}
 ### Review results
 
-The import lists every submission with its score and status. Open any one to read its full feedback and criteria breakdown — including anything hidden from students. To read the batch by rubric part rather than one submission at a time, and to approve the grades, use the machine's [Results page](review-adjust-and-approve.md).
+The import lists every submission with its score and status. Open any one to read its full feedback and criteria breakdown — including anything hidden from students. To read the batch by rubric part rather than one submission at a time, and to approve the grades, select **Review Results** to open the machine's [Results page](review-adjust-and-approve.md) on this import.
 {% endstep %}
 
 {% step %}
 ### Export
 
-Select **Export Results** to download:
+Open the export page with the import's **Export Results** button, with **Export** on the Results page, or from the machine's menu under **Bulk Export** — all lead to the same page. Coming from an import or from Results, it opens on the set you were just looking at; otherwise it opens on your most recent import whenever that import is newer than any student submission. The **export scope** dropdown at the top sets which submissions are included: every submission, students only, each student's latest or highest-scoring submission, or one specific import listed under **By Import**. The page shows how many submissions the current scope will export.
 
-* **Canvas gradebook** — scores as a CSV you can import into Canvas.
-* **Feedback files** — a zip of per-student feedback.
-* **Submissions** — a zip of the original student files.
+If any evaluated submission in the scope hasn't been approved yet, the page says how many. Nothing is held back — the export includes every submission in the scope — so approve first, or delete the rows you don't want from the file.
 
-You can export all students, or only each student's highest-scoring submission. The detailed CSV export includes separate **First Name** and **Last Name** columns alongside each student's email.
+When the scope is a Canvas import, the page is built around getting the results into Canvas:
+
+* **Scores for Canvas Gradebook** — in Canvas, export your gradebook (**Actions**, then **Export**) and upload that CSV here. Canvas requires the SIS columns from your export, which Feedback Machines doesn't store. Choose the Canvas assignment the scores belong to; Feedback Machines writes the scores into that assignment's column so Canvas imports the file without asking you to map it (**Actions**, then **Import**). If the assignment's points possible differ from the machine's, the page says so with both numbers and offers to scale the scores to match. After the export it reports how many students received a score and names any in your gradebook who didn't. Choosing **New assignment** instead adds a column Canvas will ask you to confirm on import, with the machine's points possible filled in.
+* **Feedback for Canvas SpeedGrader** — a zip with one PDF per submission, named after the student's original file, to attach as a comment on their submission in SpeedGrader. Each PDF carries what the student sees in their final results: the score, who approved it and when (if approved), the key takeaways as you edited them, and the rubric breakdown with each part's summary.
+
+Below those, under **Other exports**, are two files for your own records that Canvas can't import:
+
+* **Export Evaluations (CSV)** — one row per submission with its score, each rubric part's score and summary, the key takeaways, the overall feedback summaries, and separate **First Name** and **Last Name** columns alongside each submitter's email.
+* **Export Submissions (ZIP)** — the original student files.
+
+For any other scope, only these two exports are offered.
+
+{% hint style="info" %}
+Don't see the Canvas options? Check the scope dropdown — they're offered only while a Canvas import is selected under **By Import**.
+{% endhint %}
 {% endstep %}
 {% endstepper %}
 
@@ -58,5 +70,5 @@ Bulk grading is iterative. As you review the results, you'll often spot evaluati
 The place to do it is the machine's [Results page](review-adjust-and-approve.md). There you can read the whole batch by rubric part, pull the submissions you disagree with straight into the **Adjust** chat, preview the corrected evaluations, and apply the change across every submission at once — then approve. See [Review, Adjust & Approve Results](review-adjust-and-approve.md).
 
 {% hint style="info" %}
-You can also select **Re-evaluate All** from the import to re-run every submission against the current machine — useful after editing the machine directly in the [Modify panel](modifying-a-feedback-machine.md). Your original import and its results are preserved either way, so you can compare before and after.
+If you edit the machine in the [Modify panel](modifying-a-feedback-machine.md) instead, the Results page flags every submission that was evaluated against the older criteria and offers to re-evaluate just those, so the batch catches up without re-running work that is already current.
 {% endhint %}
