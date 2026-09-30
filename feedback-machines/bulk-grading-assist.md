@@ -41,13 +41,21 @@ The import lists every submission with its score and status. Open any one to rea
 {% step %}
 ### Export
 
-Select **Export Results** to download:
+Open the export page with the import's **Export Results** button, or from the machine's menu under **Bulk Export** — both lead to the same page. It opens on your most recent import whenever that import is newer than any student submission. The **export scope** dropdown at the top sets which submissions are included: every submission, students only, each student's latest or highest-scoring submission, or one specific import listed under **By Import**. The page shows how many submissions the current scope will export.
 
-* **Canvas gradebook** — scores as a CSV you can import into Canvas.
-* **Feedback files** — a zip of per-student feedback.
-* **Submissions** — a zip of the original student files.
+Two exports are available for any scope:
 
-You can export all students, or only each student's highest-scoring submission. The detailed CSV export includes separate **First Name** and **Last Name** columns alongside each student's email.
+* **Export Evaluations (CSV)** — one row per submission with its score, each rubric part's score and summary, the overall feedback summaries, and separate **First Name** and **Last Name** columns alongside each submitter's email. Use it for your own records and analysis. Canvas can't import it into the gradebook: it doesn't carry the Canvas student IDs and SIS columns that Canvas matches on.
+* **Export Submissions (ZIP)** — the original student files.
+
+Two more appear only when the scope is a Canvas import:
+
+* **Export Scores for Canvas Gradebook** — in Canvas, export your gradebook (**Actions**, then **Export**) and upload that CSV here. Feedback Machines adds a score column and gives you a file that imports straight back in (**Actions**, then **Import**). The upload is needed because Canvas requires the SIS columns from your export, which Feedback Machines doesn't store. Skip the upload and you get a simple CSV of Canvas student ID and score to merge yourself.
+* **Export Feedback for Canvas SpeedGrader** — a zip with one feedback PDF per submission (strengths, areas for development, suggestions for next time, and the rubric breakdown with part summaries), each named after the student's original file so you can attach it as a comment on their submission in SpeedGrader.
+
+{% hint style="info" %}
+Don't see the Canvas options? Check the scope dropdown — they're offered only while a Canvas import is selected under **By Import**.
+{% endhint %}
 {% endstep %}
 {% endstepper %}
 
