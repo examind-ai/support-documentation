@@ -35,13 +35,13 @@ Feedback Machines creates a submission for each file and evaluates it against yo
 {% step %}
 ### Review results
 
-The import lists every submission with its score and status. Open any one to read its full feedback and criteria breakdown — including anything hidden from students. To read the batch by rubric part rather than one submission at a time, and to approve the grades, use the machine's [Results page](review-adjust-and-approve.md).
+The import lists every submission with its score and status. Open any one to read its full feedback and criteria breakdown — including anything hidden from students. To read the batch by rubric part rather than one submission at a time, and to approve the grades, select **Review Results** to open the machine's [Results page](review-adjust-and-approve.md) on this import.
 {% endstep %}
 
 {% step %}
 ### Export
 
-Open the export page with the import's **Export Results** button, or from the machine's menu under **Bulk Export** — both lead to the same page. It opens on your most recent import whenever that import is newer than any student submission. The **export scope** dropdown at the top sets which submissions are included: every submission, students only, each student's latest or highest-scoring submission, or one specific import listed under **By Import**. The page shows how many submissions the current scope will export.
+Open the export page with the import's **Export Results** button, with **Export** on the Results page, or from the machine's menu under **Bulk Export** — all lead to the same page. Coming from an import or from Results, it opens on the set you were just looking at; otherwise it opens on your most recent import whenever that import is newer than any student submission. The **export scope** dropdown at the top sets which submissions are included: every submission, students only, each student's latest or highest-scoring submission, or one specific import listed under **By Import**. The page shows how many submissions the current scope will export.
 
 If any evaluated submission in the scope hasn't been approved yet, the page says how many. Nothing is held back — the export includes every submission in the scope — so approve first, or delete the rows you don't want from the file.
 
@@ -70,5 +70,5 @@ Bulk grading is iterative. As you review the results, you'll often spot evaluati
 The place to do it is the machine's [Results page](review-adjust-and-approve.md). There you can read the whole batch by rubric part, pull the submissions you disagree with straight into the **Adjust** chat, preview the corrected evaluations, and apply the change across every submission at once — then approve. See [Review, Adjust & Approve Results](review-adjust-and-approve.md).
 
 {% hint style="info" %}
-You can also select **Re-evaluate All** from the import to re-run every submission against the current machine — useful after editing the machine directly in the [Modify panel](modifying-a-feedback-machine.md). Your original import and its results are preserved either way, so you can compare before and after.
+If you edit the machine in the [Modify panel](modifying-a-feedback-machine.md) instead, the Results page flags every submission that was evaluated against the older criteria and offers to re-evaluate just those, so the batch catches up without re-running work that is already current.
 {% endhint %}
