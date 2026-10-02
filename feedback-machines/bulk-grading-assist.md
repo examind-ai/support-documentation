@@ -52,7 +52,7 @@ When the scope is a Canvas import, the page is built around getting the results 
 
 Below those, under **Other exports**, are two files for your own records that Canvas can't import:
 
-* **Export Evaluations (CSV)** — one row per submission with its score, each rubric part's score and summary, the key takeaways, the overall feedback summaries, and separate **First Name** and **Last Name** columns alongside each submitter's email.
+* **Export Evaluations (CSV)** — one row per submission: the score, each rubric part's score and summary, the key takeaways and the overall feedback summaries, with separate **First Name** and **Last Name** columns alongside each submitter's email and the Canvas student ID. It is also the record of the review: whether each submission was approved, by whom and when; how long it was reviewed and by which reviewers; when it was evaluated and whether that evaluation still matches the current criteria; and who rewrote the key takeaways or a part summary. Review time counts while a submission is open on the Results page, pausing after twenty idle minutes. For student scopes it adds each student's number of attempts, total edits and score change from their first submission.
 * **Export Submissions (ZIP)** — the original student files.
 
 For any other scope, only these two exports are offered.
