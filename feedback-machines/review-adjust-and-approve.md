@@ -142,6 +142,8 @@ Approving does **not** reveal results if the machine's Summative Evaluation View
 
 When the machine is linked to an EXAMIND assessment, the grade travels back to that assessment — the score, plus the key takeaways and part summaries as you edited them — and on to your LMS gradebook if the assessment [posts grades](../get-started/lms-integrated/post-grades.md). The machine's [**Send grades to EXAMIND**](what-students-see.md#send-grades-to-examind) setting decides when: on your approval, or as soon as each submission is evaluated. Delivery runs in the background, so a grade lands in EXAMIND a moment after you approve — and a whole selection approved at once is delivered the same way.
 
+A machine set to send on approval holds the grades of everything it has evaluated but you haven't approved. Switching that setting to **When evaluated** sends all of them at once, after asking you to confirm — see [Send grades to EXAMIND](what-students-see.md#send-grades-to-examind).
+
 {% hint style="warning" %}
 **Un-approving doesn't withdraw a grade from EXAMIND.** Once a grade has reached the linked assessment it stays there; un-approving in Feedback Machines doesn't remove it, and your next approval replaces it.
 {% endhint %}

@@ -89,6 +89,12 @@ This control decides when the machine's score travels back to the linked assessm
 
 New machines start on **When approved**. Machines that predate the setting are on **When evaluated** and stay there until you change it.
 
+A machine on **When approved** holds every evaluated result until it is approved, so switching it to **When evaluated** sends all of them. Save counts what the machine is holding and asks first: **Send N held results to EXAMIND now?** Choose **Keep holding** to put the setting back and save nothing, or **Save and send N results** to go ahead. They go out with their current scores and feedback, and on to your gradebook if the assessment posts grades automatically — and **a result that has reached EXAMIND can't be taken back**. You can still review and approve each one afterwards; approving sends your edits.
+
+Delivery runs in the background, and the machine's page reports the release to anyone who can manage the machine: that the results are being sent, then that they're on their way, which usually finishes within a minute. A delivery that fails is retried automatically. If the release itself stops partway, the page says how many were sent — the rest stay held, and you can send them by approving them, or by setting the machine back to **When approved** and off it again.
+
+Switching the other way, from **When evaluated** to **When approved**, asks nothing and sends nothing: results already in EXAMIND stay there, and submissions evaluated from then on are held.
+
 {% hint style="info" %}
 The two controls answer different questions. **Treat EXAMIND submissions as** governs what the student sees in Feedback Machines; **Send grades to EXAMIND** governs when the grade appears in EXAMIND and your gradebook. See [Approval and a linked EXAMIND assessment](review-adjust-and-approve.md#approval-and-a-linked-examind-assessment) for the reviewer's side.
 {% endhint %}
