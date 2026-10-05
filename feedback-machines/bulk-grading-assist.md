@@ -29,7 +29,7 @@ In Canvas, an assignment's **Download Submissions** option gives you a zip of st
 {% step %}
 ### Let it evaluate
 
-Feedback Machines creates a submission for each file and evaluates it against your criteria. Evaluations run in the background — **up to 200 at a time** — so large batches process steadily without you waiting on each one; when the system isn't busy, a full class of around 1,000 submissions can finish in as little as an hour. You'll see live progress for each submission; any that fail are retried automatically, and you can retry remaining errors yourself.
+Feedback Machines creates a submission for each file and evaluates it against your criteria. Evaluations run in the background — **up to 200 at a time** — so large batches process steadily without you waiting on each one; when the system isn't busy, a full class of around 1,000 submissions can finish in as little as an hour. You'll see live progress for each submission. Any that fail are retried automatically — six attempts spread over about seven hours, so an import rides out a busy spell on its own — and each waiting row says when its next attempt is due. A submission that is still failing when its retries run out is left in error for you to **Retry** yourself, which puts it back in the queue.
 {% endstep %}
 
 {% step %}
