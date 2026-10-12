@@ -73,6 +73,16 @@ Once the integration is switched on for your institution, you link a machine you
 This is a **separate integration** from the Canvas LTI above. Linking a Feedback Machine to an EXAMIND assessment happens inside the EXAMIND Platform and doesn't require Canvas. If **Link Feedback Machine** is greyed out, the integration hasn't been enabled for your institution yet — [contact us](mailto:support@examind.io) to have it activated.
 {% endhint %}
 
+### The class behind a linked course
+
+The first time an assessment in a course links a machine, Feedback Machines asks which of your classes that course should use — an existing class, a copy of one, or a new one. Every machine the course links from then on belongs to that class, which is what lets the instructors in it manage the machines and read the results.
+
+### Unlink a machine
+
+Unlinking happens in Feedback Machines, not in the EXAMIND builder: open the machine and select **Unlink** on its EXAMIND banner. The dialog states the consequences before you confirm — grades and feedback already delivered are kept on both sides, submissions already graded stay in the machine, and the assessment becomes unlinked, so an instructor can link a different machine (or the same one again) from its builder.
+
+Unlinking the **last** machine in the class still linked to that course also releases the course's class, and the dialog says so up front. The next assessment that links starts from the class question again, which is how a course that landed on the wrong class gets another choice. If other assessments in the course are still linked to machines, the course keeps its class, and Feedback Machines tells you so.
+
 ## Next step
 
 [Build a Feedback Machine →](build-a-feedback-machine.md)
