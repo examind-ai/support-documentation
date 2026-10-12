@@ -10,7 +10,7 @@ An **Excel assessment** has students complete their work — financial models, c
 
 Like other EXAMIND questions, Excel assessments can be **dynamic** — each student receives their own variables and data, so work can't be copied or shared between students.
 
-The plugin runs in **desktop Excel 2021 or later on Windows and macOS**; students install it once (see [Excel Assignments](../../deliver/excel-assignments/README.md) for the student side).
+The plugin runs in **Excel on the web and in desktop Excel on Windows and macOS**; students install it once (see [Excel Assignments](../../deliver/excel-assignments/README.md) for the versions and the student side).
 
 ## Setting up an Excel assessment
 
