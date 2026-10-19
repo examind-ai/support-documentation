@@ -59,3 +59,8 @@ This issue comes up when your university switches permissions part way through&#
 
 ### Uninstall the EXAMIND Add-in
 
+## A blank page opens instead of my workbook in Excel on the web
+
+Excel on the web blocks the add-in from reaching your Microsoft 365 account until you allow it, and **Open Workbook** opens a blank page while it's blocked.
+
+Look for the **Allow access to Microsoft 365 account** banner at the top of Excel, select **Allow access**, then select **Open Workbook** again. The add-in shows the same reminder on its launch screen whenever you're working in Excel on the web.

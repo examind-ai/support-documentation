@@ -63,6 +63,19 @@ Don't see the Canvas options? Check the scope dropdown — they're offered only 
 {% endstep %}
 {% endstepper %}
 
+## Add or replace a submission in an import
+
+An import doesn't have to be final. On the import's page you can bring in a student the batch missed, and give a failed row another set of files.
+
+* **Add Submission** takes up to the machine's **Files Per Submission** `.docx` or `.pdf` files (30 MB each), evaluated together as one submission, plus the student's name. The new submission joins the import and is evaluated like the rest.
+* **Replace files** appears on any row that ended in error. It opens the same form, already filled in for that student, and re-queues their row with the files you choose.
+
+On a Canvas import, filenames carry the student's identity. Files named the way Canvas exports them (`student_canvasid_submissionid_filename`) match the student automatically and fill in their name, which is what lets their score land in the Canvas gradebook export. Files named any other way are accepted after a prompt explaining that the submission won't be matched to a Canvas student — so for a student whose files failed, reach for **Replace files** on their row, which keeps the Canvas details the row already has. Files naming two different students are refused.
+
+If the student you're adding already has a row in the import, Feedback Machines tells you what state that row is in and asks you to confirm before the new files take its place. An evaluation already on that row — and any review of it — is set aside rather than carried over.
+
+Nothing is deleted when a row is replaced or retried. Each row shows once, with its current evaluation, on the [Results page](review-adjust-and-approve.md) and in every export.
+
 ## Refine and re-evaluate
 
 Bulk grading is iterative. As you review the results, you'll often spot evaluations you'd have graded differently — that's expected, and bringing the machine into agreement with your judgment is the core of the workflow. A few rounds is normal.
