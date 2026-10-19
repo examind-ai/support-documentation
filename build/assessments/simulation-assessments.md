@@ -47,7 +47,9 @@ Enter the **instructions** that set up the scenario for the student.
 {% step %}
 ### The conversation (optional)
 
-By default the student converses with an AI. You can shape it with an **AI system message** and **AI model**, or turn the chat off entirely with **Disable Chat**.
+By default the student converses with an AI, which you can shape with an **AI system prompt**.
+
+To limit the exchange to the AI's opening, switch off **Chat** under **Features**: the AI still opens the scenario, but the student can't reply to it. With Chat off the builder has no separate comment instructions, so put any reflection directions in the **Instructions**.
 {% endstep %}
 
 {% step %}
