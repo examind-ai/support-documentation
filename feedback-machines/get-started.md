@@ -79,7 +79,7 @@ The first time an assessment in a course links a machine, Feedback Machines asks
 
 ### Unlink a machine
 
-Unlinking happens in Feedback Machines, not in the EXAMIND builder: open the machine and select **Unlink** on its EXAMIND banner. The dialog states the consequences before you confirm — grades and feedback already delivered are kept on both sides, submissions already graded stay in the machine, and the assessment becomes unlinked, so an instructor can link a different machine (or the same one again) from its builder.
+Unlinking happens in Feedback Machines, not in the EXAMIND builder. Open the machine's **⋮** menu and choose **Modify** or **Settings**: a banner across the top of the page names the EXAMIND assessment this machine grades, with **Unlink** beside it. The dialog states the consequences before you confirm — grades and feedback already delivered are kept on both sides, submissions already graded stay in the machine, and the assessment becomes unlinked, so an instructor can link a different machine (or the same one again) from its builder.
 
 Unlinking the **last** machine in the class still linked to that course also releases the course's class, and the dialog says so up front. The next assessment that links starts from the class question again, which is how a course that landed on the wrong class gets another choice. If other assessments in the course are still linked to machines, the course keeps its class, and Feedback Machines tells you so.
 
