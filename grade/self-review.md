@@ -1,11 +1,11 @@
 ---
 icon: book
-description: This article shows you how to allow students to review an assessment.
+description: This article shows you how to let students review a submitted assessment, and what they see when they do.
 ---
 
 # Self Review
 
-Let students revisit their submitted assessment, with control over when it's available and whether they see the answer key and explanations.
+Let students revisit a submitted attempt. You decide when the review is open; what students see inside it depends on the assessment type.
 
 ## Accessing Self Review
 
@@ -21,22 +21,42 @@ Click **+ ADD AVAILABILITY** and enter the availability window for self review w
 Click the **+ New** tab to add additional availability windows.&#x20;
 {% endhint %}
 
-## Review Settings&#x20;
-
-Self Review Settings has two options:
-
-1. Answer Key
-2. Answer Explanation
-
-{% hint style="info" %}
-Toggle options to preview how students see each question in their review.
+{% hint style="warning" %}
+A window that opens before the assessment closes lets early finishers see their results while others are still working. EXAMIND warns you when that is the case; open the review after the assessment's last availability date.
 {% endhint %}
 
-### **Answer Explanation**
-
-Answer Explanations are pulled from Explanation field in the question builder.
+Practice assessments have no availability windows: students can review a practice attempt any time the practice itself is available.
 
 ## What Students See
+
+### Exams and quizzes
+
+Students see each question with their own answer and whether it was correct. Two **Review Settings** on each availability window control what else they see:
+
+1. **Answer Key** shows the correct answer.
+2. **Answer Explanation** shows the explanation for the correct answer, pulled from the Explanation field in the question builder.
+
+{% hint style="info" %}
+Toggle the settings to preview how students see each question type in their review.
+{% endhint %}
+
+The review shows the total score. Whether the score also appears on the student's list of completed attempts, before they open the review, is set by **Result Visibility** under the assessment's **Settings**; with it off, the list reads "Hidden".
+
+### Practice
+
+Practice needs no setup. Students always see their score and the answer key; explanations are not shown.
+
+### Essays, simulations, and file uploads
+
+These types have no review settings. Students see their submitted work together with your grading:
+
+* **Essay**: the essay with your inline comments, a **Grading** tab with the points awarded and your overall comment, the AI chat history if the essay used the assistant, and a PDF download of the submission.
+* **Simulation**: the full conversation with your comments on it, your overall comment, and a PDF download.
+* **File upload**: the submitted files and a **Grading** tab with the points awarded and your overall comment.
+
+If a [Feedback Machine](../feedback-machines/get-started.md) is linked to the assessment, a **See Feedback** button appears in the review's header once the machine's feedback is ready. It opens the student's detailed feedback in Feedback Machines; what they see there is [controlled in the machine](../feedback-machines/what-students-see.md). (A simulation question inside a quiz gets the same button beside the question.)
+
+## How Students Get There
 
 Students reach their review from the same place they launched the assessment.
 
@@ -50,7 +70,5 @@ Students reach their review from the same place they launched the assessment.
 The **Review** button is greyed out while the attempt is outside its availability window, with the tooltip "Disabled by your instructor". Adding a window enables it; ending one disables it again.
 
 {% hint style="info" %}
-For question-based assessments, the grade posted to Canvas also carries a link: in Canvas Grades, the submission details show a **Review Results** button that opens the same review. Essay, simulation, and file upload assessments post a PDF of the results instead, so students reach those reviews through the assignment.
+For exams and quizzes, the grade posted to Canvas also carries a link: in Canvas Grades, the submission details show a **Review Results** button that opens the same review. Essay, simulation, and file upload assessments post a PDF of the results instead, so students reach those reviews through the assignment.
 {% endhint %}
-
-If a [Feedback Machine](../feedback-machines/get-started.md) is linked to the assessment, a **See Feedback** button appears on the review once the machine's feedback is ready: in the page header for essay, simulation, and file upload assessments, or beside the question for a simulation question inside a quiz. It opens the student's detailed feedback in Feedback Machines; what they see there is [controlled in the machine](../feedback-machines/what-students-see.md).
