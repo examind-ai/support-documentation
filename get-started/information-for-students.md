@@ -35,6 +35,17 @@ For rules of behavior during your assessment, refer to the direct instructions o
 
 In addition to these techniques, the instructor can enable certain warning features for students engaged in cheating behavior. If triggered, a dialog box will appear, and the student must acknowledge the warning before returning to the assessment. The instructor will be notified when such warnings are triggered.
 
+## Reviewing Your Assessment
+
+After you submit, your instructor may open a review window so you can revisit your work.
+
+1. Open the assessment from your LMS, the same way you launched it.
+2. Scroll to **Completed Attempts** and click **Review**. The review opens in a new tab.
+
+If you signed in to EXAMIND directly, open the course, select the **Done** tab, and click **Review**.
+
+A greyed-out **Review** button means your instructor has not opened a review window for that attempt. If a **See Feedback** button appears on your review, click it to read detailed feedback on your work.
+
 ## Support
 
 If you have any questions or experience technical issues with EXAMIND, please contact us directly at support@examind.io before reaching out to your professor. We will be available to answer any questions you have.
