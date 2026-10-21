@@ -2,46 +2,38 @@
 icon: route
 description: >-
   How students get Feedback Machine feedback on an EXAMIND Essay, Simulation,
-  or File Upload assessment — the three things you set up, and what to check
-  when a student can't see it.
+  or File Upload assessment — linking the machine from your assessment, then
+  the two checks that decide what students see and when.
 ---
 
 # Feedback on EXAMIND Assessments
 
-When a Feedback Machine grades an EXAMIND assessment, the detailed feedback lives in Feedback Machines, and students reach it from their **self review** of the attempt. Three things have to be in place before a student can see it:
-
-1. A **Feedback Machine** with student access configured.
-2. The machine **linked** to the assessment.
-3. A **Self Review availability window** on the assessment.
-
-The third one is the one most often missed. Linking a machine does not open the review: until you add a window, students see a greyed-out **Review** button and never reach **See Feedback**, however the machine is configured.
+When a Feedback Machine grades an EXAMIND assessment, the detailed feedback lives in Feedback Machines, and students reach it from their **self review** of the attempt. Setting it up is one step in the EXAMIND Platform, followed by two checks — one in the machine, one in EXAMIND — that together decide what students see and when.
 
 {% stepper %}
 {% step %}
-### Build the machine and decide what students see
+### Start from your assessment in the EXAMIND Platform
 
-[Build a Feedback Machine](build-a-feedback-machine.md) from your assignment instructions and criteria, then set its student-facing views in the **Configure & Publish** step — whether students get improvement feedback, final results after you approve, or both. Those settings are described in [What Students See](what-students-see.md).
+Open the Essay, Simulation, or File Upload assessment in the EXAMIND Platform and click **Link Feedback Machine**. You can pick a machine you already have, copy one, or create a new one — if this is your first time, you'll create it here. The first link in a course also asks which Feedback Machines class the course should use; see [The class behind a linked course](get-started.md#the-class-behind-a-linked-course).
 
-Two settings there apply only to EXAMIND submissions and are worth deciding up front:
+Creating or copying a machine takes you into Feedback Machines to build it: your assignment instructions, your criteria, and the settings that control what students see. [Build a Feedback Machine](build-a-feedback-machine.md) walks through that. Back on the assessment, a status shows whether the machine's setup is **complete** or still needs finishing. Submissions made before setup is complete are held and graded once it is.
+{% endstep %}
+
+{% step %}
+### Check what students will see in the machine
+
+In the machine's **Configure & Publish** step, decide whether students get improvement feedback, final results after you approve, or both. Those settings are described in [What Students See](what-students-see.md). Two of them apply only to submissions arriving from EXAMIND:
 
 * **Treat EXAMIND submissions as** — **Summative** keeps the machine from offering improvement suggestions on work already submitted for a grade.
 * **Send grades to EXAMIND** — new machines hold the score until you approve the submission. The feedback itself doesn't wait: **See Feedback** opens as soon as the submission is evaluated.
 {% endstep %}
 
 {% step %}
-### Link the machine from the assessment builder
+### Open the Self Review window in EXAMIND
 
-Open the assessment in the builder and select **Link Feedback Machine** in its **Feedback Machine** section. The step is the same for [Essay](../build/assessments/essay-assessments.md), [Simulation](../build/assessments/simulation-assessments.md), and [File Upload](../build/assessments/file-upload-assessments.md) assessments. The first link in a course also asks which Feedback Machines class the course should use — see [The class behind a linked course](get-started.md#the-class-behind-a-linked-course).
+Students reach the feedback through the **See Feedback** button on their self review, and the self review only opens during an availability window you set. On the assessment's **Self Review** page, click **+ ADD AVAILABILITY** and set the dates — for everyone, or for particular sections or students. See [Self Review](../grade/self-review.md).
 
-Once linked, a status shows whether the machine's setup is **complete**. Submissions made before setup is complete are held and graded once it is.
-{% endstep %}
-
-{% step %}
-### Open a Self Review window
-
-In the assessment's **Self Review** page, click **+ ADD AVAILABILITY** and set the dates during which students may open their review — for everyone, or for particular sections or students. See [Self Review](../grade/self-review.md).
-
-This is what releases the feedback. Inside the window, the **Review** button on the student's completed attempt is enabled and the review's header shows **See Feedback** once the machine has evaluated the submission. Outside it, the button is greyed out with the note "Disabled by your instructor", and there is no other route to the feedback from EXAMIND.
+This is the step most often missed. Linking the machine doesn't open the review: until a window is open, students see a greyed-out **Review** button with the note "Disabled by your instructor", and there is no other route to the feedback from EXAMIND. The machine's settings in step 2 only take effect once this window exists.
 {% endstep %}
 {% endstepper %}
 
