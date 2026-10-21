@@ -54,6 +54,10 @@ Under **Allowed File Types**, choose which formats students can upload — **PDF
 ### Feedback Machine (optional)
 
 Link a **Feedback Machine** to auto-grade the uploaded files against your criteria. See [Grading](#grading) below.
+
+{% hint style="warning" %}
+**Students reach the feedback only through their self review.** After linking, add an availability window on the assessment's **Self Review** page — until one is open, the **Review** button is greyed out and students can't get to **See Feedback**. See [Feedback on EXAMIND Assessments](../../feedback-machines/feedback-on-examind-assessments.md).
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -68,7 +72,7 @@ Enter the **instructions** shown to the student — what to complete, and which 
 File Upload assessments are **graded by you**, with optional Feedback Machine auto-grading:
 
 * Assign **points** and write an **overall comment**.
-* If a **Feedback Machine** is linked, it auto-grades the student's uploaded files (PDF and Word documents) against your criteria. A manual grade you enter always takes precedence.
+* If a **Feedback Machine** is linked, it auto-grades the student's uploaded files (PDF and Word documents) against your criteria. A manual grade you enter always takes precedence. Once feedback is ready, a **See Feedback** button opens the detailed, criteria-aligned feedback in Feedback Machines — for you, and for students during their [self review](../../grade/self-review.md#how-students-get-there) window, which you open by adding an availability window to the assessment. What students see there is controlled in the machine: see [What Students See](../../feedback-machines/what-students-see.md).
 * When you review a submission, each attached file appears as a card under **Submitted Files** — open or **Download** it to read the student's work.
 
 {% hint style="info" %}

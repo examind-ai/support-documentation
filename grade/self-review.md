@@ -56,6 +56,10 @@ These types have no review settings. Students see their submitted work together 
 
 If a [Feedback Machine](../feedback-machines/get-started.md) is linked to the assessment, a **See Feedback** button appears in the review's header once the machine's feedback is ready. It opens the student's detailed feedback in Feedback Machines; what they see there is [controlled in the machine](../feedback-machines/what-students-see.md). (A simulation question inside a quiz gets the same button beside the question.)
 
+{% hint style="warning" %}
+**The availability window is what releases Feedback Machine feedback to students.** Linking a machine to the assessment doesn't open the review, and the button only exists inside it — so add a window here, or students can't reach their feedback. See [Feedback on EXAMIND Assessments](../feedback-machines/feedback-on-examind-assessments.md).
+{% endhint %}
+
 ## How Students Get There
 
 Students reach their review from the same place they launched the assessment.

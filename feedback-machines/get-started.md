@@ -19,7 +19,7 @@ You configure a **Feedback Machine** by giving it your assignment instructions a
 
 You — and your students — can use Feedback Machines two ways:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Using Canvas</strong></td><td>Reach Feedback Machines from your Canvas course — no separate login for students.</td><td><a href="using-canvas.md">using-canvas.md</a></td></tr><tr><td><strong>Without Canvas</strong></td><td>Sign in directly at feedbackmachines.com — no LMS required. The quickest way to try it yourself.</td><td><a href="without-canvas.md">without-canvas.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Using Canvas</strong></td><td>Reach Feedback Machines from your Canvas course — no separate login for students.</td><td><a href="using-canvas.md">using-canvas.md</a></td></tr><tr><td><strong>Without Canvas</strong></td><td>Sign in directly at feedbackmachines.com — no LMS required. The quickest way to try it yourself.</td><td><a href="without-canvas.md">without-canvas.md</a></td></tr><tr><td><strong>Through EXAMIND assessments</strong></td><td>Auto-grade an Essay, Simulation, or File Upload assessment; students reach the feedback from their self review.</td><td><a href="feedback-on-examind-assessments.md">feedback-on-examind-assessments.md</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
 **Feedback Machines is a separate product from the EXAMIND Platform**, with its own setup — configuring one doesn't configure the other. Its only built-in **LMS integration** is **Canvas**; with any other LMS (or none), use **direct login** (see [Without Canvas](without-canvas.md)).
@@ -67,7 +67,11 @@ Feedback Machines can also auto-grade assessments in the EXAMIND Platform. Once 
 * [**Simulation**](../build/assessments/simulation-assessments.md) — the student's interaction with the AI.
 * [**File Upload**](../build/assessments/file-upload-assessments.md) — the PDF or Word files the student uploads.
 
-Once the integration is switched on for your institution, you link a machine yourself from the assessment builder (**Link Feedback Machine**) — no need to involve us for each assessment. Each assessment links to its own machine. When feedback is ready, a **See Feedback** button on the review opens it in Feedback Machines — for you, and for students during their self review window; what students see there is [controlled in the machine](what-students-see.md).
+Once the integration is switched on for your institution, you link a machine yourself from the assessment builder (**Link Feedback Machine**) — no need to involve us for each assessment. Each assessment links to its own machine. When feedback is ready, a **See Feedback** button on the review opens it in Feedback Machines — for you, and for students during their [self review](../grade/self-review.md) window; what students see there is [controlled in the machine](what-students-see.md).
+
+{% hint style="warning" %}
+**Students can only reach See Feedback while a Self Review window is open.** Linking the machine doesn't open the review: add an availability window on the assessment's **Self Review** page, or students see a greyed-out **Review** button and never get to the feedback. The full path — machine, link, window — is in [Feedback on EXAMIND Assessments](feedback-on-examind-assessments.md).
+{% endhint %}
 
 {% hint style="info" %}
 This is a **separate integration** from the Canvas LTI above. Linking a Feedback Machine to an EXAMIND assessment happens inside the EXAMIND Platform and doesn't require Canvas. If **Link Feedback Machine** is greyed out, the integration hasn't been enabled for your institution yet — [contact us](mailto:support@examind.io) to have it activated.

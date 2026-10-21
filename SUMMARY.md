@@ -78,6 +78,7 @@
 * [Get Started](feedback-machines/get-started.md)
   * [Using Canvas](feedback-machines/using-canvas.md)
   * [Without Canvas](feedback-machines/without-canvas.md)
+  * [Feedback on EXAMIND Assessments](feedback-machines/feedback-on-examind-assessments.md)
 * [Build a Feedback Machine](feedback-machines/build-a-feedback-machine.md)
   * [Modifying a Feedback Machine](feedback-machines/modifying-a-feedback-machine.md)
   * [How Scoring Works](feedback-machines/how-scoring-works.md)
