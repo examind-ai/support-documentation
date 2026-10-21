@@ -36,6 +36,10 @@ In the builder's **Feedback Machine** section, select **Link Feedback Machine** 
 {% hint style="info" %}
 If a student submits before you've finished setting up the linked machine, EXAMIND **holds** their submission and grades it automatically once setup is complete — nothing is lost. If Feedback Machines isn't enabled for your institution yet, the control will prompt you to [contact us](mailto:support@examind.io).
 {% endhint %}
+
+{% hint style="warning" %}
+**Students reach the feedback only through their self review.** After linking, add an availability window on the assessment's **Self Review** page — until one is open, the **Review** button is greyed out and students can't get to **See Feedback**. See [Feedback on EXAMIND Assessments](../../feedback-machines/feedback-on-examind-assessments.md).
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -65,7 +69,7 @@ A simulation combines optional AI auto-grading with your own judgment:
 
 * If a **Feedback Machine** is linked (see above), it auto-grades the interaction against its criteria.
 * You can assign **points** and add an **overall comment**.
-* Once a linked machine has produced feedback, a **See Feedback** button appears on the review — for you, and for students during their [self review](../../grade/self-review.md#how-students-get-there) window — opening the detailed, criteria-aligned feedback in Feedback Machines. What students see there is controlled in the machine: see [What Students See](../../feedback-machines/what-students-see.md).
+* Once a linked machine has produced feedback, a **See Feedback** button appears on the review — for you, and for students during their [self review](../../grade/self-review.md#how-students-get-there) window, which you open by adding an availability window to the assessment — opening the detailed, criteria-aligned feedback in Feedback Machines. What students see there is controlled in the machine: see [What Students See](../../feedback-machines/what-students-see.md).
 
 {% hint style="info" %}
 **When the machine's score lands in EXAMIND** is set in the machine, not here. A new Feedback Machine holds the score until you approve the submission in Feedback Machines, so no machine score appears on this assessment — or in your LMS gradebook — until then. See [Send grades to EXAMIND](../../feedback-machines/what-students-see.md#send-grades-to-examind).

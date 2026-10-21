@@ -17,4 +17,4 @@ Whatever the mix, this section covers what happens after submission:
 
 * [**Results**](results.md) — review scores with analysis views (score distribution, by student, by question), and export the data.
 * [**Grading Adjustment**](grading-adjustment.md) — override individual scores, omit a question, or give full credit.
-* [**Self Review**](self-review.md) — open a post-assessment window where students can see their results, answer keys, and explanations.
+* [**Self Review**](self-review.md) — open a post-assessment window where students can see their results, answer keys, and explanations — and, on assessments linked to a Feedback Machine, reach their feedback.

@@ -100,7 +100,7 @@ The two controls answer different questions. **Treat EXAMIND submissions as** go
 {% endhint %}
 
 {% hint style="info" %}
-Both controls appear only on machines linked to an EXAMIND assessment. Students reach this view through **See Feedback** on their EXAMIND [self review](../grade/self-review.md#how-students-get-there) — the detailed feedback and results live in Feedback Machines, not in EXAMIND.
+Both controls appear only on machines linked to an EXAMIND assessment. Students reach this view through **See Feedback** on their EXAMIND [self review](../grade/self-review.md#how-students-get-there) — the detailed feedback and results live in Feedback Machines, not in EXAMIND. **These settings only apply once a Self Review window is open on the assessment**: without one, students can't open the review at all, whatever you choose here. See [Feedback on EXAMIND Assessments](feedback-on-examind-assessments.md).
 {% endhint %}
 
 ## Backwards compatibility
