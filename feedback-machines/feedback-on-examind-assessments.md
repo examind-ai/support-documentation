@@ -14,9 +14,15 @@ When a Feedback Machine grades an EXAMIND assessment, the detailed feedback live
 {% step %}
 ### Start from your assessment in the EXAMIND Platform
 
-Open the Essay, Simulation, or File Upload assessment in the EXAMIND Platform and click **Link Feedback Machine**. You can pick a machine you already have, copy one, or create a new one — if this is your first time, you'll create it here. The first link in a course also asks which Feedback Machines class the course should use; see [The class behind a linked course](get-started.md#the-class-behind-a-linked-course).
+Open the Essay, Simulation, or File Upload assessment in the EXAMIND Platform and click **Link Feedback Machine**. You then have three choices:
 
-Creating or copying a machine takes you into Feedback Machines to build it: your assignment instructions, your criteria, and the settings that control what students see. [Build a Feedback Machine](build-a-feedback-machine.md) walks through that. Back on the assessment, a status shows whether the machine's setup is **complete** or still needs finishing. Submissions made before setup is complete are held and graded once it is.
+* **Create a new machine** for this assessment — the usual path the first time. You're taken into Feedback Machines to build it from your assignment instructions and criteria; [Build a Feedback Machine](build-a-feedback-machine.md) walks through that.
+* **Link a machine you've already built** — it starts grading this assessment as is.
+* **Copy and link** an existing machine — a fresh copy is linked, leaving the original untouched. Each assessment needs its own machine, so this is the choice when a machine is already grading another assessment.
+
+The first link in a course also asks which Feedback Machines class the course should use; see [The class behind a linked course](get-started.md#the-class-behind-a-linked-course).
+
+Back on the assessment, a status shows whether the machine's setup is **complete** or still needs finishing. Submissions made before setup is complete are held and graded once it is.
 {% endstep %}
 
 {% step %}
