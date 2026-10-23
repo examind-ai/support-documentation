@@ -58,8 +58,6 @@ Approval never overrides **Never**. If the Summative Evaluation View's access is
 
 If a student has no Feedback view and no Results view yet — a final submission that's graded but not yet approved, for instance — they see a short message telling them their work is awaiting review, or that results will be released elsewhere. They never see an empty page or a partial score.
 
-While a submission is being evaluated, students watch its progress. If part of the evaluation fails, it restarts on its own and the student is told so: a short delay reads as "part of the evaluation timed out and will be restarted", and a longer one, when the AI provider is having trouble, says the submission is saved and will be evaluated automatically once the service recovers. Nothing partial is ever shown, and nothing needs resubmitting. Only a file that can't be read ends in an error, and that message tells the student to fix or re-export the file.
-
 ## Submissions that come from EXAMIND
 
 When a machine is linked to an EXAMIND assessment ([Essay](../build/assessments/essay-assessments.md), [Simulation](../build/assessments/simulation-assessments.md), or [File Upload](../build/assessments/file-upload-assessments.md)), the Configure step adds two more controls.

@@ -29,11 +29,7 @@ In Canvas, an assignment's **Download Submissions** option gives you a zip of st
 {% step %}
 ### Let it evaluate
 
-Feedback Machines creates a submission for each file and evaluates it against your criteria. Evaluations run in the background — **up to 200 at a time** — so large batches process steadily without you waiting on each one; when the system isn't busy, a full class of around 1,000 submissions can finish in as little as an hour. You'll see live progress for each submission.
-
-If part of an evaluation fails — the AI provider is briefly overloaded, say — nothing already evaluated is lost. The row reads **N of M criteria evaluated, retrying K** and says when the next attempt is due: within minutes at first, then every few hours if the provider stays busy, for as long as it takes. A row that reads **Service disruption** is waiting out a longer outage and finishes on its own once the provider recovers; there is nothing to resubmit.
-
-Two states need you. **File Cannot Be Evaluated** means the file itself could not be read — a document saved in the wrong format, or an empty PDF — and retrying won't change that: use **Replace files** on the row. **Evaluation Error** is anything else that stopped for good; open the submission to see the cause, then use **Retry** at the top of the import, which puts every errored submission back in the queue on the same row.
+Feedback Machines creates a submission for each file and evaluates it against your criteria. Evaluations run in the background — **up to 200 at a time** — so large batches process steadily without you waiting on each one; when the system isn't busy, a full class of around 1,000 submissions can finish in as little as an hour. You'll see live progress for each submission. Any that run into trouble are retried automatically, and a row that needs something from you says so: **Replace files** on the row if its file couldn't be read, or **Retry** at the top of the import for anything else.
 {% endstep %}
 
 {% step %}

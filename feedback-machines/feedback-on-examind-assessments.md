@@ -53,7 +53,7 @@ A window that opens before the assessment closes lets early finishers see their 
 2. Clicks **Review** on the completed attempt.
 3. Clicks **See Feedback** in the review's header. Feedback Machines opens with their submission and shows whichever view the machine's settings allow: improvement feedback, final results, or a note that the work is awaiting review.
 
-**See Feedback** appears within a minute or two of the submission, as soon as Feedback Machines has received it, and opens the evaluation in progress; the feedback itself usually follows within about fifteen minutes. If part of the evaluation fails, Feedback Machines restarts it on its own and tells the student so — see [While a student is waiting](what-students-see.md#while-a-student-is-waiting). Until the submission reaches Feedback Machines, the review shows the submission and your own grading, with no **See Feedback** button.
+**See Feedback** appears within a minute or two of the submission, as soon as Feedback Machines has received it, and opens the evaluation in progress; the feedback itself usually follows within about fifteen minutes. Until the submission reaches Feedback Machines, the review shows the submission and your own grading, with no **See Feedback** button.
 
 ## If a student can't see their feedback
 
