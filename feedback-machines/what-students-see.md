@@ -84,7 +84,7 @@ This control decides when the machine's score travels back to the linked assessm
 
 | Option | What it means |
 | --- | --- |
-| **When approved** | No score reaches EXAMIND until you approve the submission, so none is recorded against the attempt until then and the first grade a student sees in EXAMIND is the one you approved. The feedback doesn't wait for approval: **See Feedback** opens it in Feedback Machines as soon as the submission is evaluated, and what a student finds there follows the settings above. |
+| **When approved** | No score reaches EXAMIND until you approve the submission, so none is recorded against the attempt until then and the first grade a student sees in EXAMIND is the one you approved. The feedback doesn't wait for approval: **See Feedback** opens the submission in Feedback Machines as soon as it arrives there, shows the feedback the moment it is evaluated, and what a student finds follows the settings above. |
 | **When evaluated** | The score reaches EXAMIND as soon as the submission is evaluated. Approving sends it again, carrying the takeaways and summaries you edited. |
 
 New machines start on **When approved**. Machines that predate the setting are on **When evaluated** and stay there until you change it.
