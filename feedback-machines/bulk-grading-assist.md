@@ -29,7 +29,11 @@ In Canvas, an assignment's **Download Submissions** option gives you a zip of st
 {% step %}
 ### Let it evaluate
 
-Feedback Machines creates a submission for each file and evaluates it against your criteria. Evaluations run in the background — **up to 200 at a time** — so large batches process steadily without you waiting on each one; when the system isn't busy, a full class of around 1,000 submissions can finish in as little as an hour. You'll see live progress for each submission. Any that fail are retried automatically — six attempts spread over about seven hours, so an import rides out a busy spell on its own — and each waiting row says when its next attempt is due. A submission that is still failing when its retries run out is left in error for you to **Retry** yourself, which puts it back in the queue.
+Feedback Machines creates a submission for each file and evaluates it against your criteria. Evaluations run in the background — **up to 200 at a time** — so large batches process steadily without you waiting on each one; when the system isn't busy, a full class of around 1,000 submissions can finish in as little as an hour. You'll see live progress for each submission.
+
+If part of an evaluation fails — the AI provider is briefly overloaded, say — nothing already evaluated is lost. The row reads **N of M criteria evaluated, retrying K** and says when the next attempt is due: within minutes at first, then every few hours if the provider stays busy, for as long as it takes. A row that reads **Service disruption** is waiting out a longer outage and finishes on its own once the provider recovers; there is nothing to resubmit.
+
+Two states need you. **File Cannot Be Evaluated** means the file itself could not be read — a document saved in the wrong format, or an empty PDF — and retrying won't change that: use **Replace files** on the row. **Evaluation Error** is anything else that stopped for good; open the submission to see the cause, then use **Retry** at the top of the import, which puts every errored submission back in the queue on the same row.
 {% endstep %}
 
 {% step %}
@@ -68,7 +72,7 @@ Don't see the Canvas options? Check the scope dropdown — they're offered only 
 An import doesn't have to be final. On the import's page you can bring in a student the batch missed, and give a failed row another set of files.
 
 * **Add Submission** takes up to the machine's **Files Per Submission** `.docx` or `.pdf` files (30 MB each), evaluated together as one submission, plus the student's name. The new submission joins the import and is evaluated like the rest.
-* **Replace files** appears on any row that ended in error. It opens the same form, already filled in for that student, and re-queues their row with the files you choose.
+* **Replace files** appears on any row that ended in error. It opens the same form, already filled in for that student, and re-queues their row with the files you choose. The replaced submission is kept as a record and marked as replaced; the row and every export follow the new one.
 
 On a Canvas import, filenames carry the student's identity. Files named the way Canvas exports them (`student_canvasid_submissionid_filename`) match the student automatically and fill in their name, which is what lets their score land in the Canvas gradebook export. Files named any other way are accepted after a prompt explaining that the submission won't be matched to a Canvas student — so for a student whose files failed, reach for **Replace files** on their row, which keeps the Canvas details the row already has. Files naming two different students are refused.
 
