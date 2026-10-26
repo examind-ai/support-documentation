@@ -54,7 +54,7 @@ These types have no review settings. Students see their submitted work together 
 * **Simulation**: the full conversation with your comments on it, your overall comment, and a PDF download.
 * **File upload**: the submitted files and a **Grading** tab with the points awarded and your overall comment.
 
-If a [Feedback Machine](../feedback-machines/get-started.md) is linked to the assessment, a **See Feedback** button appears in the review's header as soon as the machine has received the submission, usually within a minute or two. It opens the submission in Feedback Machines — the evaluation in progress at first, then the student's detailed feedback once it is ready; what they see there is [controlled in the machine](../feedback-machines/what-students-see.md). (A simulation question inside a quiz gets the same button beside the question.)
+If a [Feedback Machine](../feedback-machines/get-started.md) is linked to the assessment, a band below the review's header tells the student where their feedback stands and updates on its own while they wait. Its button opens the submission in Feedback Machines — **Watch progress** while the evaluation is under way, then **See feedback** once it is evaluated; what they see there is [controlled in the machine](../feedback-machines/what-students-see.md). (A simulation question inside a quiz gets a **See feedback** button beside the question.)
 
 {% hint style="warning" %}
 **The availability window is what releases Feedback Machine feedback to students.** Linking a machine to the assessment doesn't open the review, and the button only exists inside it — so add a window here, or students can't reach their feedback. See [Feedback on EXAMIND Assessments](../feedback-machines/feedback-on-examind-assessments.md).

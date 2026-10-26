@@ -10,11 +10,12 @@ Confirm you are signed in to Microsoft Excel with your student account before pr
 
 ## Supported Excel versions
 
-The EXAMIND Add-in runs in:
+The EXAMIND Add-in runs in the Excel desktop app:
 
-* **Excel on the web**
 * **Excel on Windows** — Microsoft 365, or Excel 2021 or later
 * **Excel on Mac** — Microsoft 365, or version 16.24 or later
+
+Excel on the web isn't supported. If you open the add-in there, it asks you to use the Excel desktop app instead.
 
 ## How to install EXAMIND
 

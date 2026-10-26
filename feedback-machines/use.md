@@ -43,7 +43,7 @@ After submitting, a student's work opens in a side-by-side workspace — their *
 * **Feedback** — narrative feedback for improving the next draft: **What you did well**, **Areas for development**, and a prioritized list of **Things you can do to improve**. Score estimates appear only if you turned them on.
 * **Results** — the final grade: the overall score, the key takeaways to carry forward, and each rubric part with its score and summary. This appears once you've approved the submission (or immediately, if you configured it that way).
 
-Students select **New Draft** to revise and resubmit.
+Students select **New Draft** to revise and resubmit. On work submitted from an [EXAMIND assessment](feedback-on-examind-assessments.md), that button is **Back to EXAMIND** instead, returning them to their EXAMIND review.
 
 {% hint style="info" %}
 Which of these a student sees, and when, is entirely up to you — see [What Students See](what-students-see.md) for the settings, and [Review, Adjust & Approve Results](review-adjust-and-approve.md) for how approval releases a final grade.

@@ -39,14 +39,6 @@ You will find the account email address below the name
 
 <figure><img src="../../.gitbook/assets/Group 6858 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-#### Using Microsoft Online
-
-1. On the top right of the page, click the **Person** **Icon** or **Two-Letters**
-
-You will find the account email address below the name
-
-<figure><img src="../../.gitbook/assets/Group 6859 (1).jpg" alt=""><figcaption></figcaption></figure>
-
 ### How to sign in with a new account
 
 Follow [this link](https://support.microsoft.com/en-us/office/sign-in-to-microsoft-365-b9582171-fd1f-4284-9846-bdd72bb28426#id0ebbl=windows) to learn about all the different ways to sign into your Microsoft account.
@@ -59,8 +51,6 @@ This issue comes up when your university switches permissions part way through&#
 
 ### Uninstall the EXAMIND Add-in
 
-## A blank page opens instead of my workbook in Excel on the web
+## The add-in says Excel on the web isn't supported
 
-Excel on the web blocks the add-in from reaching your Microsoft 365 account until you allow it, and **Open Workbook** opens a blank page while it's blocked.
-
-Look for the **Allow access to Microsoft 365 account** banner at the top of Excel, select **Allow access**, then select **Open Workbook** again. The add-in shows the same reminder on its launch screen whenever you're working in Excel on the web.
+The EXAMIND Add-in works only in the Excel desktop app. Open Excel on Windows or Mac and open the add-in there; see [Installation](installation.md#supported-excel-versions) for the supported versions.

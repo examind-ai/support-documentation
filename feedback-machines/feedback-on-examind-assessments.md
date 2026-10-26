@@ -31,13 +31,13 @@ Back on the assessment, a status shows whether the machine's setup is **complete
 In the machine's **Configure & Publish** step, decide whether students get improvement feedback, final results after you approve, or both. Those settings are described in [What Students See](what-students-see.md). Two of them apply only to submissions arriving from EXAMIND:
 
 * **Treat EXAMIND submissions as** — **Summative** keeps the machine from offering improvement suggestions on work already submitted for a grade.
-* **Send grades to EXAMIND** — new machines hold the score until you approve the submission. The feedback itself doesn't wait: **See Feedback** opens as soon as Feedback Machines has the submission, and shows the feedback the moment it is evaluated.
+* **Send grades to EXAMIND** — new machines hold the score until you approve the submission. The feedback itself doesn't wait: students can open the submission in Feedback Machines while it is being evaluated, and see the feedback the moment it is evaluated.
 {% endstep %}
 
 {% step %}
 ### Open the Self Review window in EXAMIND
 
-Students reach the feedback through the **See Feedback** button on their self review, and the self review only opens during an availability window you set. On the assessment's **Self Review** page, click **+ ADD AVAILABILITY** and set the dates — for everyone, or for particular sections or students. See [Self Review](../grade/self-review.md).
+Students reach the feedback from their self review, and the self review only opens during an availability window you set. On the assessment's **Self Review** page, click **+ ADD AVAILABILITY** and set the dates — for everyone, or for particular sections or students. See [Self Review](../grade/self-review.md).
 
 This is the step most often missed. Linking the machine doesn't open the review: until a window is open, students see a greyed-out **Review** button with the note "Disabled by your instructor", and there is no other route to the feedback from EXAMIND. The machine's settings in step 2 only take effect once this window exists.
 {% endstep %}
@@ -51,9 +51,9 @@ A window that opens before the assessment closes lets early finishers see their 
 
 1. Opens the assessment where they launched it — the Canvas assignment, or the course's **Done** tab when signed in to EXAMIND directly.
 2. Clicks **Review** on the completed attempt.
-3. Clicks **See Feedback** in the review's header. Feedback Machines opens with their submission and shows whichever view the machine's settings allow: improvement feedback, final results, or a note that the work is awaiting review.
+3. Clicks **See feedback** in the band below the review's header. Feedback Machines opens with their submission and shows whichever view the machine's settings allow: improvement feedback, final results, or a note that the work is awaiting review. **Back to EXAMIND** returns them to the review.
 
-**See Feedback** appears within a minute or two of the submission, as soon as Feedback Machines has received it, and opens the evaluation in progress; the feedback itself usually follows within about fifteen minutes. Until the submission reaches Feedback Machines, the review shows the submission and your own grading, with no **See Feedback** button.
+The band tells the student where their feedback stands and updates on its own, so they don't need to reload. While the submission is being evaluated, its button reads **Watch progress** and opens the evaluation in progress; the feedback itself usually follows within about fifteen minutes.
 
 ## If a student can't see their feedback
 

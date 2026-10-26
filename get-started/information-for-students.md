@@ -44,7 +44,7 @@ After you submit, your instructor may open a review window so you can revisit yo
 
 If you signed in to EXAMIND directly, open the course, select the **Done** tab, and click **Review**.
 
-A greyed-out **Review** button means your instructor has not opened a review window for that attempt. If a **See Feedback** button appears on your review, click it to read detailed feedback on your work.
+A greyed-out **Review** button means your instructor has not opened a review window for that attempt. If your instructor uses a Feedback Machine, a band at the top of your review shows where your feedback stands; click **See feedback** there to read detailed feedback on your work.
 
 ## Support
 
