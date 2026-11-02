@@ -30,7 +30,7 @@ If the page is empty, the machine has nothing to show results for yet. A machine
 
 ### Final submissions awaiting review
 
-When submissions are graded but not yet approved, the Heatmap shows a **N awaiting review** count. Those students are seeing a *pending* state until you approve, so this count is a queue to work through, not a statistic.
+When the machine holds anything until you approve it — results set to **After review & approval**, or grades sent to EXAMIND **When approved** (see [What Students See](what-students-see.md)) — the Heatmap shows a **N awaiting review** count of the graded submissions you haven't approved yet. Those students are waiting on you, so this count is a queue to work through, not a statistic.
 
 ## Review one submission
 
