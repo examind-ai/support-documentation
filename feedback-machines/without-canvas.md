@@ -19,7 +19,7 @@ This path needs no IT setup. If your institution uses Canvas and you'd prefer st
 2. [Build a Feedback Machine](build-a-feedback-machine.md).
 3. Test it on a sample submission to see the feedback and grading it produces.
 
-You can also run [Bulk Grading Assist](bulk-grading-assist.md) entirely through direct login.
+Trying it yourself covers building a machine and submitting samples. Grading a whole class — a class your students submit to, and [Bulk Grading Assist](bulk-grading-assist.md) — comes with an institution license; [contact us](mailto:support@examind.io) to set one up. Both work entirely through direct login.
 
 ## Give students access by email
 
