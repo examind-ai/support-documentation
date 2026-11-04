@@ -19,6 +19,8 @@ Results is available to anyone who can manage the machine — its owner, and ins
 
 The Results page opens on a **Heatmap**: one row per student, one column per rubric part, so you can read the class by part rather than one submission at a time. A part where most of the class scored low is usually a problem with the criterion or the assignment — not with thirty students.
 
+Results grades a set of submissions: your students' submissions, one per student, or a [bulk import](bulk-grading-assist.md). Submissions you run through the machine yourself from **Use** are for checking the machine and don't appear here — find them under **Submissions**.
+
 * **Heatmap / Overview** — switch between the grid and an **Overview** of the class as a whole: how many are graded, the average, median, standard deviation and range, the score distribution, and a **By part** list ordered weakest first, with each part's questions and their class averages beneath it. Selecting a part there takes you back to the Heatmap sorted by that part.
 * **Scope** — choose which submissions to read: the class, or a particular [bulk import](bulk-grading-assist.md) set.
 * **Display** — show each cell as **Score**, **Percent**, or **Score / Total**.
