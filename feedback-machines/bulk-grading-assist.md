@@ -10,7 +10,7 @@ description: >-
 Bulk Grading Assist lets you grade a whole class's work at once. You upload a batch of student submissions, the Feedback Machine evaluates each one against your criteria, and you review and export the scores and feedback.
 
 {% hint style="info" %}
-**Bulk Import** and **Bulk Export** are available to anyone who can manage the machine — its owner, and instructors in its class. They're no longer enabled per institution or class. If you don't see them on a machine, check that you're an instructor in the class it's shared with, or [contact us](mailto:support@examind.io).
+**Bulk Import** and **Bulk Export** are available to anyone who can manage the machine — its owner, and instructors in its class — once the machine is in a class. They're no longer enabled per institution or class. If you don't see them on a machine, check that the machine is [in a class](use.md#put-the-machine-in-a-class) and that you're an instructor in it, or [contact us](mailto:support@examind.io).
 {% endhint %}
 
 ## Grade a batch
