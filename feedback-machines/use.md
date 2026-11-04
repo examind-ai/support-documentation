@@ -11,6 +11,20 @@ A Feedback Machine is a **shared tool**: you and your students use the *same* ma
 
 Once a machine is published and [set up in your Canvas course](using-canvas.md) (or shared via [direct login](without-canvas.md)), it's ready to use.
 
+## Put the machine in a class
+
+Students reach a machine through its class, and the class is also what the machine's **Results**, **Submissions**, and **Insights** pages read from. Choose the class when you [configure and publish](build-a-feedback-machine.md) the machine, or at any time afterwards:
+
+1. Open the machine's **⋮** menu and choose **Settings**.
+2. Under **Course Settings**, choose the class. The list offers every class you teach that hasn't ended.
+3. Save your changes.
+
+A machine left on **Just me** is yours alone: nobody else can submit to it.
+
+{% hint style="warning" %}
+**Put the machine in its class before anyone submits.** Every submission carries the class the machine was in when it was made, and that doesn't change afterwards. Submissions made while the machine was on **Just me** stay outside the class, so they don't appear on the Results, Submissions, or Bulk Export pages once the machine joins one.
+{% endhint %}
+
 {% hint style="info" %}
 Want to grade a whole class's submissions at once instead? See [Bulk Grading Assist](bulk-grading-assist.md).
 {% endhint %}

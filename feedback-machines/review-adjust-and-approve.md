@@ -26,7 +26,7 @@ The Results page opens on a **Heatmap**: one row per student, one column per rub
 
 Selecting a part's cell expands a drill-down in place, so you can read that part's detail — and edit its summary — without leaving the class view.
 
-If the page is empty, the machine has nothing to show results for yet. A machine that isn't part of a class has no student submissions to grade: add it to a class so students can submit to it, or [import submissions](bulk-grading-assist.md) from the machine menu.
+If the page is empty, the machine has nothing to show results for yet. A machine that isn't part of a class has no student submissions to grade: [put it in a class](use.md#put-the-machine-in-a-class) so students can submit to it, or [import submissions](bulk-grading-assist.md) from the machine menu. Submissions made before the machine joined the class stay outside it.
 
 ### Final submissions awaiting review
 
