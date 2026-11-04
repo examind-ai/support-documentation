@@ -50,13 +50,13 @@ Name your machine and set how it behaves for students:
 * **Formative Feedback View** — when students see improvement feedback (**Until approved**, **Always**, or **Never**), and whether it carries **score estimates**.
 * **Summative Evaluation View** — when students see their final results (**After review & approval**, **Always**, or **Never**), and whether they can expand each rubric part for the **detailed evaluation breakdown**.
 * **Machine details** — show how the machine evaluates always, only after a first submission, or never.
-* **Sharing** — keep the machine **personal** (just you) or share it with a **class**.
+* **Course Settings** — keep the machine to **Just me** or share it with a class you teach. Students reach the machine through its class, and submissions carry the class they were made in, so choose it before anyone submits — see [Put the machine in a class](use.md#put-the-machine-in-a-class).
 * **Submission type** — how students submit: **DOCX**, **PDF**, **DOCX or PDF** (either format, so a submission can even mix the two), or **text** (copy & paste). The format decides what the machine can take into account — see [What a Feedback Machine Can See in Submissions](what-a-feedback-machine-can-see.md). For file uploads, also set **Files Per Submission** (up to three) — when more than one is allowed, all files are evaluated together.
 * **Evaluation standard** — how the machine resolves work that sits on the boundary between two performance levels: **Strict** awards the lower level, **Generous** the higher. A second switch applies the Generous standard to final submissions only. See [How Scoring Works](how-scoring-works.md#the-evaluation-standard).
 
 If the machine is linked to an EXAMIND assessment, two more settings appear: **Treat EXAMIND submissions as** — whether work arriving from that assessment is formative, summative, or both — and **Send grades to EXAMIND** — whether the score goes back when you approve a submission or as soon as it's evaluated. See [Submissions that come from EXAMIND](what-students-see.md#submissions-that-come-from-examind).
 
-Publish when you're ready, and the machine becomes available for use. You can change any of these settings later.
+Publish when you're ready, and the machine becomes available for use. You can change any of these settings later: open the machine's **⋮** menu and choose **Settings**.
 
 {% hint style="info" %}
 The two view settings are worth a moment's thought — they decide whether students get unlimited practice feedback, a single final grade, or both. [What Students See](what-students-see.md) explains each option and how approval releases a final result.
