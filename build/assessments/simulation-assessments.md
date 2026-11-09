@@ -34,7 +34,7 @@ Set the **points** the simulation is worth. To auto-grade it, link a **Feedback 
 In the builder's **Feedback Machine** section, select **Link Feedback Machine** and pick, copy, or create the machine that will grade this simulation. Once it's linked, a status shows whether setup is **complete** or still needs finishing, and you can jump back into the machine anytime with **Open in Feedback Machines** / **Continue setup**. You build the machine's rubric and instructions in the [Feedback Machines](../../feedback-machines/build-a-feedback-machine.md) section.
 
 {% hint style="info" %}
-If a student submits before you've finished setting up the linked machine, EXAMIND **holds** their submission and grades it automatically once setup is complete — nothing is lost. If Feedback Machines isn't enabled for your institution yet, the control will prompt you to [contact us](mailto:support@examind.io).
+If a student submits before you've linked a machine or finished setting it up, EXAMIND **holds** their submission and grades it automatically once setup is complete — nothing is lost. A submission you've already graded yourself keeps your grade. If Feedback Machines isn't enabled for your institution yet, the control will prompt you to [contact us](mailto:support@examind.io).
 {% endhint %}
 
 {% hint style="warning" %}
