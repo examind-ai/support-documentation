@@ -22,7 +22,7 @@ Open the Essay, Simulation, or File Upload assessment in the EXAMIND Platform an
 
 The first link in a course also asks which Feedback Machines class the course should use; see [The class behind a linked course](get-started.md#the-class-behind-a-linked-course).
 
-Back on the assessment, a status shows whether the machine's setup is **complete** or still needs finishing. Submissions made before setup is complete are held and graded once it is.
+Back on the assessment, a status shows whether the machine's setup is **complete** or still needs finishing. Submissions made before a machine is linked, or before its setup is complete, are held and graded once setup is complete. Any you've already graded yourself keep your grade.
 {% endstep %}
 
 {% step %}
