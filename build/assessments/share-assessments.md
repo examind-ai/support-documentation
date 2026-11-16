@@ -21,6 +21,5 @@ If you are sharing assessments between your own courses, enter your own email. S
 ## Retrieving Shared Assessments
 
 1. From the Courses page, click **Shares** on the left menu
-2. Click **View** under the table titled **Shared With Me**
-3. Review and click **Accept**
-4. Choose a course destination and click **Accept**
+2. Open the **Shared with Me** tab and click **Review** next to the share
+3. Check the contents, choose a course under **Copy into course**, and click **Accept**
