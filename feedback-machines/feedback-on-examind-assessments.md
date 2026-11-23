@@ -39,7 +39,7 @@ In the machine's **Configure & Publish** step, decide whether students get impro
 
 Students reach the feedback from their self review, and the self review only opens during an availability window you set. On the assessment's **Self Review** page, click **+ ADD AVAILABILITY** and set the dates — for everyone, or for particular sections or students. See [Self Review](../grade/self-review.md).
 
-This is the step most often missed. Linking the machine doesn't open the review: until a window is open, students see a greyed-out **Review** button with the note "Disabled by your instructor", and there is no other route to the feedback from EXAMIND. The machine's settings in step 2 only take effect once this window exists.
+This is the step most often missed. Linking the machine doesn't open the review: until a window is open, students see no **Review Submission** button, and there is no other route to the feedback from EXAMIND. The machine's settings in step 2 only take effect once this window exists.
 {% endstep %}
 {% endstepper %}
 
@@ -49,8 +49,8 @@ A window that opens before the assessment closes lets early finishers see their 
 
 ## What the student does
 
-1. Opens the assessment where they launched it — the Canvas assignment, or the course's **Done** tab when signed in to EXAMIND directly.
-2. Clicks **Review** on the completed attempt.
+1. Opens their completed attempts: **View Completed** on the Canvas assignment's EXAMIND page, or **Completed** in the course's left menu when signed in to EXAMIND directly.
+2. Clicks **Review Submission** on the attempt.
 3. Clicks **See feedback** in the band below the review's header. Feedback Machines opens with their submission and shows whichever view the machine's settings allow: improvement feedback, final results, or a note that the work is awaiting review. **Back to EXAMIND** returns them to the review.
 
 The band tells the student where their feedback stands and updates on its own, so they don't need to reload. While the submission is being evaluated, its button reads **Watch progress** and opens the evaluation in progress; the feedback itself usually follows within about fifteen minutes.

@@ -36,8 +36,9 @@ Students open the machine (from your Canvas course, or a direct link) and submit
 * **Text** — pasted into the submission box (typing directly into it isn't supported), with a live character count.
 * **`.docx` or `.pdf`** — uploaded. What the machine can take into account differs by format — `.pdf` carries images and visual design, `.docx` carries exact formatting details; see [What a Feedback Machine Can See in Submissions](what-a-feedback-machine-can-see.md). If you allowed **DOCX or PDF**, a single submission can even mix the two formats.
 * **Multiple files** — if you set **Files Per Submission** above one; all files in a submission are evaluated together.
+* **Audio or video recording** — one file, uploaded. If others speak in the recording too, the student may be asked which speaker they are before the submission goes in; see [Recordings](what-a-feedback-machine-can-see.md#recordings).
 
-Each file is checked the moment the student chooses it — the format and size (up to 30 MB), and that the file actually opens — so a bad upload is caught before submitting rather than after. A file that can't be read is marked, and underneath it the student gets the likely cause and the one step that fixes it:
+Each document is checked the moment the student chooses it — the format and size (up to 30 MB), and that the file actually opens — so a bad upload is caught before submitting rather than after. A file that can't be read is marked, and underneath it the student gets the likely cause and the one step that fixes it:
 
 * A `.doc`, or another Office format, renamed to `.docx` — or a Word file named `.pdf`. *Save or export a real copy in the format the machine asks for.*
 * A password-protected document. *Remove the password, or print it to a new PDF.*

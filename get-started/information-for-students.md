@@ -40,11 +40,11 @@ In addition to these techniques, the instructor can enable certain warning featu
 After you submit, your instructor may open a review window so you can revisit your work.
 
 1. Open the assessment from your LMS, the same way you launched it.
-2. Scroll to **Completed Attempts** and click **Review**. The review opens in a new tab.
+2. Click **View Completed**, then **Review Submission** on your attempt.
 
-If you signed in to EXAMIND directly, open the course, select the **Done** tab, and click **Review**.
+If you signed in to EXAMIND directly, open the course, click **Completed** in the left menu, click the assessment to show your attempts, and click **Review Submission**.
 
-A greyed-out **Review** button means your instructor has not opened a review window for that attempt. If your instructor uses a Feedback Machine, a band at the top of your review shows where your feedback stands; click **See feedback** there to read detailed feedback on your work.
+If there's no **Review Submission** button, your instructor hasn't opened a review window for that assessment; the **Review** column says when it opens, if a date is set. If your instructor uses a Feedback Machine, a band at the top of your review shows where your feedback stands; click **See feedback** there to read detailed feedback on your work.
 
 ## Support
 

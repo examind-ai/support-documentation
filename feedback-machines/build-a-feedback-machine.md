@@ -13,7 +13,7 @@ Building a Feedback Machine is a four-step process: describe the assignment, set
 {% step %}
 ### Assignment Instructions
 
-Paste or type your assignment instructions. Feedback Machines reads them to understand the work being evaluated — the kind of submission expected (text, `.docx`, or `.pdf`), whether writing quality matters, and whether it's a group assignment.
+Paste or type your assignment instructions. Feedback Machines reads them to understand the work being evaluated — the kind of submission expected (text, `.docx`, `.pdf`, or an audio or video recording), whether writing quality matters, and whether it's a group assignment.
 {% endstep %}
 
 {% step %}
@@ -51,7 +51,7 @@ Name your machine and set how it behaves for students:
 * **Summative Evaluation View** — when students see their final results (**After review & approval**, **Always**, or **Never**), and whether they can expand each rubric part for the **detailed evaluation breakdown**.
 * **Machine details** — show how the machine evaluates always, only after a first submission, or never.
 * **Course Settings** — keep the machine to **Just me** or share it with a class you teach. Students reach the machine through its class, and submissions carry the class they were made in, so choose it before anyone submits — see [Put the machine in a class](use.md#put-the-machine-in-a-class).
-* **Submission type** — how students submit: **DOCX**, **PDF**, **DOCX or PDF** (either format, so a submission can even mix the two), or **text** (copy & paste). The format decides what the machine can take into account — see [What a Feedback Machine Can See in Submissions](what-a-feedback-machine-can-see.md). For file uploads, also set **Files Per Submission** (up to three) — when more than one is allowed, all files are evaluated together.
+* **Submission type** — how students submit: **DOCX**, **PDF**, **DOCX or PDF** (either format, so a submission can even mix the two), **text** (copy & paste), or **Audio or video recording**. The format decides what the machine can take into account — see [What a Feedback Machine Can See in Submissions](what-a-feedback-machine-can-see.md). For document uploads, also set **Files Per Submission** (up to three) — when more than one is allowed, all files are evaluated together. For recordings, set **Speakers in the Recording** instead — see [Recordings](what-a-feedback-machine-can-see.md#recordings).
 * **Evaluation standard** — how the machine resolves work that sits on the boundary between two performance levels: **Strict** awards the lower level, **Generous** the higher. A second switch applies the Generous standard to final submissions only. See [How Scoring Works](how-scoring-works.md#the-evaluation-standard).
 
 If the machine is linked to an EXAMIND assessment, two more settings appear: **Treat EXAMIND submissions as** — whether work arriving from that assessment is formative, summative, or both — and **Send grades to EXAMIND** — whether the score goes back when you approve a submission or as soon as it's evaluated. See [Submissions that come from EXAMIND](what-students-see.md#submissions-that-come-from-examind).
