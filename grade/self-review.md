@@ -40,7 +40,7 @@ Students see each question with their own answer and whether it was correct. Two
 Toggle the settings to preview how students see each question type in their review.
 {% endhint %}
 
-The review shows the total score. Whether the score also appears on the student's list of completed attempts, before they open the review, is set by **Result Visibility** under the assessment's **Settings**; with it off, the list reads "Hidden".
+The review shows the total score. Whether the score also appears on the student's list of completed attempts, before they open the review, is set by **Result Visibility** under the assessment's **Settings**; with it off, the list shows **\*\* / \*\*** in place of the score.
 
 ### Practice
 
@@ -66,12 +66,13 @@ Students reach their review from the same place they launched the assessment.
 
 **From Canvas or another LMS:**
 
-1. Open the assignment in the LMS. The EXAMIND assessment page loads with two tables: **Available Attempts** and **Completed Attempts**.
-2. In **Completed Attempts**, click **Review** on the attempt. The review opens in a new browser tab.
+1. Open the assignment in the LMS. The EXAMIND assessment page loads.
+2. Beside **Completed attempts**, click **View Completed**. The assessment's attempts are listed.
+3. Click **Review Submission** on the attempt.
 
-**Signed in to EXAMIND directly:** open the course, select the **Done** tab, and click **Review** in the **Available for Review** table.
+**Signed in to EXAMIND directly:** open the course, click **Completed** in the left menu, click the assessment to show its attempts, and click **Review Submission**.
 
-The **Review** button is greyed out while the attempt is outside its availability window, with the tooltip "Disabled by your instructor". Adding a window enables it; ending one disables it again.
+**Review Submission** appears only while an availability window is open. Outside one, the assessment's **Review** column shows when the review opens or when it closed, or reads **Not available** if no window has been added. Adding a window brings the button back; ending one removes it again.
 
 {% hint style="info" %}
 For exams and quizzes, the grade posted to Canvas also carries a link: in Canvas Grades, the submission details show a **Review Results** button that opens the same review. Essay, simulation, and file upload assessments post a PDF of the results instead, so students reach those reviews through the assignment.
